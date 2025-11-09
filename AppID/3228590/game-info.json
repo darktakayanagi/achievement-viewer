@@ -141,7 +141,7 @@
       "description": "Complete all Zone 2 Missions",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "ACH_CompleteMission_Hard": {
       "name": "Hardcore",
@@ -190,7 +190,7 @@
       "description": "Upgrade at least 3 Tech Masteries to Tier 5",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad666328f4e8fb66ec0c7667c43056063d1aabae.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
-      "percent": "70.3"
+      "percent": "70.4"
     },
     "ACH_TechUpgrades3": {
       "name": "Plot Armor",
@@ -323,14 +323,14 @@
       "description": "Read all of the Data Logs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/eda9cca873a9f9b479f65cea84bf3985025846dc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3a846709696add4505209b6a8f74bf22ceeb1d88.jpg",
-      "percent": "5.8"
+      "percent": "5.9"
     },
     "ACH_BackToBasics": {
       "name": "Back to Basics",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a21622d652d363c798de09e42034ce44e7d1d58.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c5c821fefd95ef84d997c8792feca503e7ee928.jpg",
-      "percent": "2.7"
+      "percent": "2.8"
     },
     "ACH_ActivateSynergy": {
       "name": "Item Alchemist",
@@ -344,7 +344,7 @@
       "description": "Have 3 Synergies active at the same time",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
-      "percent": "31.4"
+      "percent": "31.5"
     },
     "ACH_SynergiesActivated": {
       "name": "Promote Synergy",
@@ -358,7 +358,7 @@
       "description": "Complete any Mission in Coop",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
-      "percent": "35.1"
+      "percent": "35.2"
     }
   }
 }
