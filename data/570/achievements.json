@@ -1,0 +1,4 @@
+[
+  { "name": "First Blood", "description": "Earn your first kill", "unlocked": true, "unlocktime": 1610000000 },
+  { "name": "Collector", "description": "Collect 100 items", "unlocked": false }
+]
