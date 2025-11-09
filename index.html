@@ -101,8 +101,10 @@
             background: rgba(0, 0, 0, 0.4);
             border: 1px solid #3d5a6c;
             border-radius: 8px;
-            padding: 25px;
+            padding: 0;
             transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+            overflow: hidden;
+            cursor: pointer;
         }
 
         .game-card:hover {
@@ -111,27 +113,36 @@
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
         }
 
+        .game-card-main {
+            padding: 0;
+        }
+
         .game-header {
             display: flex;
+            flex-direction: column;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 0;
         }
 
         .game-icon {
-            width: 64px;
-            height: 64px;
-            border-radius: 6px;
-            margin-right: 15px;
+            width: 100%;
+            height: auto;
+            aspect-ratio: 460 / 215;
+            border-radius: 0;
+            margin: 0;
             background: #3d5a6c;
+            object-fit: cover;
         }
 
         .game-info {
-            flex: 1;
+            width: 100%;
+            text-align: center;
+            padding: 15px 20px 10px;
         }
 
         .game-title {
             color: #fff;
-            font-size: 1.3em;
+            font-size: 1.2em;
             font-weight: bold;
             margin-bottom: 5px;
         }
@@ -139,15 +150,16 @@
         .game-appid {
             color: #8f98a0;
             font-size: 0.9em;
+            margin-bottom: 10px;
         }
 
         .progress-bar {
             width: 100%;
             height: 24px;
             background: rgba(0, 0, 0, 0.5);
-            border-radius: 12px;
+            border-radius: 0;
             overflow: hidden;
-            margin: 20px 0;
+            margin: 0;
             position: relative;
         }
 
@@ -165,12 +177,16 @@
         }
 
         .stats {
-            display: flex;
+            display: none;
             justify-content: space-around;
-            margin: 20px 0;
-            padding: 15px 0;
+            margin: 0;
+            padding: 20px;
             border-top: 1px solid #3d5a6c;
-            border-bottom: 1px solid #3d5a6c;
+            border-bottom: none;
+        }
+
+        .stats.visible {
+            display: flex;
         }
 
         .stat-item {
@@ -190,27 +206,15 @@
         }
 
         .toggle-achievements {
-            width: 100%;
-            background: rgba(102, 192, 244, 0.1);
-            color: #66c0f4;
-            border: 1px solid #66c0f4;
-            padding: 12px;
-            border-radius: 6px;
-            font-size: 14px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: all 0.3s;
-        }
-
-        .toggle-achievements:hover {
-            background: rgba(102, 192, 244, 0.2);
+            display: none;
         }
 
         .achievements-list {
-            margin-top: 15px;
+            margin-top: 0;
             max-height: 500px;
             overflow-y: auto;
             transition: max-height 0.3s ease;
+            padding: 15px;
         }
 
         .achievements-list.collapsed {
@@ -526,8 +530,15 @@
             summaryDiv.style.display = 'block';
             summaryDiv.innerHTML = `
                 <div class="summary">
-                    <h2 style="color: #66c0f4; margin-bottom: 20px;">Achievement Summary</h2>
-                    <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
+                    <div class="summary-header">
+                        <a href="https://steamcommunity.com" target="_blank">
+                            <img src="https://avatars.fastly.steamstatic.com/29283662f3b58488c74ad750539ba5289b53cf6c_full.jpg" 
+                                 alt="Steam Profile" 
+                                 class="profile-icon">
+                        </a>
+                        <h2 style="color: #66c0f4; margin: 0;">Achievement Summary</h2>
+                    </div>
+                    <div class="progress-bar" style="max-width: 600px; margin: 0 auto; border-radius: 12px;">
                         <div class="progress-fill" style="width: ${overallPercentage}%">${overallPercentage}%</div>
                     </div>
                     <div class="summary-stats">
@@ -567,22 +578,24 @@
                 const cardId = `game-${game.appId}`;
 
                 html += `
-                    <div class="game-card">
-                        <div class="game-header">
-                            ${game.icon ? 
-                                `<img src="${game.icon}" alt="${game.name}" class="game-icon" onerror="this.style.display='none'">` : 
-                                '<div class="game-icon"></div>'}
-                            <div class="game-info">
-                                <div class="game-title">${game.name}</div>
-                                <div class="game-appid">AppID: ${game.appId}</div>
+                    <div class="game-card" onclick="toggleGame('${cardId}')">
+                        <div class="game-card-main">
+                            <div class="game-header">
+                                ${game.icon ? 
+                                    `<img src="${game.icon}" alt="${game.name}" class="game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
+                                    '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="game-icon">'}
+                                <div class="game-info">
+                                    <div class="game-title">${game.name}</div>
+                                    <div class="game-appid">AppID: ${game.appId}</div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-bar">
+                                <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
                             </div>
                         </div>
                         
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: ${percentage}%">${percentage}%</div>
-                        </div>
-                        
-                        <div class="stats">
+                        <div id="${cardId}-stats" class="stats">
                             <div class="stat-item">
                                 <div class="stat-value">${unlocked}/${total}</div>
                                 <div class="stat-label">Unlocked</div>
@@ -592,10 +605,6 @@
                                 <div class="stat-label">Remaining</div>
                             </div>
                         </div>
-                        
-                        <button class="toggle-achievements" onclick="toggleAchievements('${cardId}')">
-                            Show Achievements
-                        </button>
                         
                         <div id="${cardId}" class="achievements-list collapsed">
                             ${game.achievements
@@ -623,16 +632,16 @@
             resultsDiv.innerHTML = html;
         }
 
-        function toggleAchievements(cardId) {
+        function toggleGame(cardId) {
             const list = document.getElementById(cardId);
-            const button = event.target;
+            const stats = document.getElementById(`${cardId}-stats`);
             
             if (list.classList.contains('collapsed')) {
                 list.classList.remove('collapsed');
-                button.textContent = 'Hide Achievements';
+                stats.classList.add('visible');
             } else {
                 list.classList.add('collapsed');
-                button.textContent = 'Show Achievements';
+                stats.classList.remove('visible');
             }
         }
 
