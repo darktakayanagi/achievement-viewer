@@ -36,7 +36,7 @@ jobs:
           import requests
           from pathlib import Path
           import time
-          import xml.etree.ElementTree as ET
+          from bs4 import BeautifulSoup
 
           STEAM_API_KEY = os.environ.get('STEAM_API_KEY', '')
 
@@ -82,38 +82,7 @@ jobs:
                   
                   time.sleep(1.5)  # Rate limiting
 
-                  # Try to fetch from Community Data XML (has hidden achievement descriptions)
-                  xml_url = f'https://steamcommunity.com/stats/{appid}/achievements/?xml=1'
-                  xml_response = requests.get(xml_url, timeout=10)
-                  
-                  achievements_from_xml = {}
-                  if xml_response.ok:
-                      try:
-                          root = ET.fromstring(xml_response.content)
-                          for ach in root.findall('.//achievement'):
-                              icon_closed = ach.find('iconClosed')
-                              icon_open = ach.find('iconOpen')
-                              name_elem = ach.find('name')
-                              desc_elem = ach.find('description')
-                              api_name = ach.find('apiname')
-                              
-                              if api_name is not None:
-                                  ach_data = {
-                                      'name': name_elem.text if name_elem is not None and name_elem.text else '',
-                                      'description': desc_elem.text if desc_elem is not None and desc_elem.text else '',
-                                      'icon': icon_open.text if icon_open is not None and icon_open.text else '',
-                                      'icongray': icon_closed.text if icon_closed is not None and icon_closed.text else '',
-                                      'hidden': False  # XML doesn't specify, will check with API
-                                  }
-                                  achievements_from_xml[api_name.text] = ach_data
-                          
-                          print(f"  ✓ Got {len(achievements_from_xml)} achievements from XML (includes hidden descriptions)")
-                      except Exception as e:
-                          print(f"  ✗ Error parsing XML: {e}")
-                  
-                  time.sleep(1.5)  # Rate limiting
-
-                  # Fetch achievement schema from Steam API (for hidden flag)
+                  # Fetch achievement schema from Steam API
                   if STEAM_API_KEY:
                       schema_url = f'https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}'
                       schema_response = requests.get(schema_url, timeout=10)
@@ -123,25 +92,15 @@ jobs:
                           achievements = schema_data.get('game', {}).get('availableGameStats', {}).get('achievements', [])
                           
                           for ach in achievements:
-                              api_name = ach['name']
-                              
-                              # Merge XML data with API data
-                              if api_name in achievements_from_xml:
-                                  # Use XML data (has descriptions for hidden achievements)
-                                  game_info['achievements'][api_name] = achievements_from_xml[api_name].copy()
-                                  # Add hidden flag from API
-                                  game_info['achievements'][api_name]['hidden'] = ach.get('hidden', 0) == 1
-                              else:
-                                  # Fallback to API data only
-                                  game_info['achievements'][api_name] = {
-                                      'name': ach.get('displayName', ach['name']),
-                                      'description': ach.get('description', ''),
-                                      'icon': ach.get('icon', ''),
-                                      'icongray': ach.get('icongray', ''),
-                                      'hidden': ach.get('hidden', 0) == 1
-                                  }
+                              game_info['achievements'][ach['name']] = {
+                                  'name': ach.get('displayName', ach['name']),
+                                  'description': ach.get('description', ''),
+                                  'icon': ach.get('icon', ''),
+                                  'icongray': ach.get('icongray', ''),
+                                  'hidden': ach.get('hidden', 0) == 1
+                              }
                           
-                          print(f"  ✓ Merged {len(achievements)} achievement details with hidden flags")
+                          print(f"  ✓ Got {len(achievements)} achievement details")
                       
                       time.sleep(1.5)  # Rate limiting
 
@@ -161,6 +120,60 @@ jobs:
                           print(f"  ✓ Got achievement percentages")
                       
                       time.sleep(1.5)  # Rate limiting
+
+                  # Scrape hidden achievement descriptions from SteamHunters
+                  try:
+                      hunters_url = f'https://steamhunters.com/apps/{appid}/achievements'
+                      headers = {
+                          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                      }
+                      hunters_response = requests.get(hunters_url, headers=headers, timeout=15)
+                      
+                      if hunters_response.ok:
+                          soup = BeautifulSoup(hunters_response.content, 'html.parser')
+                          
+                          # Find all achievement rows
+                          ach_rows = soup.find_all('tr', class_='achievement-row')
+                          hidden_count = 0
+                          
+                          for row in ach_rows:
+                              # Check if it's a hidden achievement
+                              is_hidden = 'hidden-achievement' in row.get('class', [])
+                              
+                              if is_hidden:
+                                  # Get achievement API name from data attribute
+                                  api_name = row.get('data-achievement-id') or row.get('data-apiname')
+                                  
+                                  if not api_name:
+                                      # Try to find it in onclick or other attributes
+                                      onclick = row.get('onclick', '')
+                                      if onclick:
+                                          # Extract from onclick if present
+                                          import re
+                                          match = re.search(r"'([^']+)'", onclick)
+                                          if match:
+                                              api_name = match.group(1)
+                                  
+                                  # Get description
+                                  desc_elem = row.find('div', class_='achievement-description') or row.find('td', class_='description')
+                                  if desc_elem:
+                                      description = desc_elem.get_text(strip=True)
+                                      
+                                      if api_name and api_name in game_info['achievements']:
+                                          # Update the description for hidden achievement
+                                          if game_info['achievements'][api_name]['hidden'] and not game_info['achievements'][api_name]['description']:
+                                              game_info['achievements'][api_name]['description'] = description
+                                              hidden_count += 1
+                          
+                          if hidden_count > 0:
+                              print(f"  ✓ Got {hidden_count} hidden achievement descriptions from SteamHunters")
+                          else:
+                              print(f"  ⚠ No hidden achievements found on SteamHunters (or page structure changed)")
+                      
+                      time.sleep(2)  # Be respectful to SteamHunters server
+                      
+                  except Exception as e:
+                      print(f"  ✗ Error scraping SteamHunters: {e}")
 
               except Exception as e:
                   print(f"  ✗ Error: {e}")
