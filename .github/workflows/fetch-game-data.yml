@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml
 
       - name: Fetch game data
         env:
@@ -36,6 +36,7 @@ jobs:
           import requests
           from pathlib import Path
           import time
+          import xml.etree.ElementTree as ET
 
           STEAM_API_KEY = os.environ.get('STEAM_API_KEY', '')
 
@@ -81,7 +82,38 @@ jobs:
                   
                   time.sleep(1.5)  # Rate limiting
 
-                  # Fetch achievement schema from Steam API
+                  # Try to fetch from Community Data XML (has hidden achievement descriptions)
+                  xml_url = f'https://steamcommunity.com/stats/{appid}/achievements/?xml=1'
+                  xml_response = requests.get(xml_url, timeout=10)
+                  
+                  achievements_from_xml = {}
+                  if xml_response.ok:
+                      try:
+                          root = ET.fromstring(xml_response.content)
+                          for ach in root.findall('.//achievement'):
+                              icon_closed = ach.find('iconClosed')
+                              icon_open = ach.find('iconOpen')
+                              name_elem = ach.find('name')
+                              desc_elem = ach.find('description')
+                              api_name = ach.find('apiname')
+                              
+                              if api_name is not None:
+                                  ach_data = {
+                                      'name': name_elem.text if name_elem is not None and name_elem.text else '',
+                                      'description': desc_elem.text if desc_elem is not None and desc_elem.text else '',
+                                      'icon': icon_open.text if icon_open is not None and icon_open.text else '',
+                                      'icongray': icon_closed.text if icon_closed is not None and icon_closed.text else '',
+                                      'hidden': False  # XML doesn't specify, will check with API
+                                  }
+                                  achievements_from_xml[api_name.text] = ach_data
+                          
+                          print(f"  ✓ Got {len(achievements_from_xml)} achievements from XML (includes hidden descriptions)")
+                      except Exception as e:
+                          print(f"  ✗ Error parsing XML: {e}")
+                  
+                  time.sleep(1.5)  # Rate limiting
+
+                  # Fetch achievement schema from Steam API (for hidden flag)
                   if STEAM_API_KEY:
                       schema_url = f'https://api.steampowered.com/ISteamUserStats/GetSchemaForGame/v2/?key={STEAM_API_KEY}&appid={appid}'
                       schema_response = requests.get(schema_url, timeout=10)
@@ -91,15 +123,25 @@ jobs:
                           achievements = schema_data.get('game', {}).get('availableGameStats', {}).get('achievements', [])
                           
                           for ach in achievements:
-                              game_info['achievements'][ach['name']] = {
-                                  'name': ach.get('displayName', ach['name']),
-                                  'description': ach.get('description', ''),
-                                  'icon': ach.get('icon', ''),
-                                  'icongray': ach.get('icongray', ''),
-                                  'hidden': ach.get('hidden', 0) == 1  # Check if achievement is hidden
-                              }
+                              api_name = ach['name']
+                              
+                              # Merge XML data with API data
+                              if api_name in achievements_from_xml:
+                                  # Use XML data (has descriptions for hidden achievements)
+                                  game_info['achievements'][api_name] = achievements_from_xml[api_name].copy()
+                                  # Add hidden flag from API
+                                  game_info['achievements'][api_name]['hidden'] = ach.get('hidden', 0) == 1
+                              else:
+                                  # Fallback to API data only
+                                  game_info['achievements'][api_name] = {
+                                      'name': ach.get('displayName', ach['name']),
+                                      'description': ach.get('description', ''),
+                                      'icon': ach.get('icon', ''),
+                                      'icongray': ach.get('icongray', ''),
+                                      'hidden': ach.get('hidden', 0) == 1
+                                  }
                           
-                          print(f"  ✓ Got {len(achievements)} achievement details")
+                          print(f"  ✓ Merged {len(achievements)} achievement details with hidden flags")
                       
                       time.sleep(1.5)  # Rate limiting
 
