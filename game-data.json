@@ -276,7 +276,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/1b13d21263e349b19a82788b63fed05e5b3c5877.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/30544be3da4df4a803371dfee3bf211abae8f5a5.jpg",
           "hidden": false,
-          "percent": "23.3"
+          "percent": "23.4"
         },
         "BG3_Quest35": {
           "name": "Penny Pincher",
@@ -838,7 +838,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/279a87259d789637d377bb0efa1bf36679db3cc0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/34236d2255b6ab85bf3633315c61d910b9882287.jpg",
           "hidden": false,
-          "percent": "19.7"
+          "percent": "19.8"
         },
         "ACH_CompleteMission_Hard": {
           "name": "Hardcore",
@@ -894,7 +894,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ad666328f4e8fb66ec0c7667c43056063d1aabae.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/242ae0e837e39f954f66ade0588e4e1972cac984.jpg",
           "hidden": false,
-          "percent": "70.3"
+          "percent": "70.4"
         },
         "ACH_TechUpgrades3": {
           "name": "Plot Armor",
@@ -1046,7 +1046,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/eda9cca873a9f9b479f65cea84bf3985025846dc.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/3a846709696add4505209b6a8f74bf22ceeb1d88.jpg",
           "hidden": false,
-          "percent": "5.8"
+          "percent": "5.9"
         },
         "ACH_BackToBasics": {
           "name": "Back to Basics",
@@ -1054,7 +1054,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a21622d652d363c798de09e42034ce44e7d1d58.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c5c821fefd95ef84d997c8792feca503e7ee928.jpg",
           "hidden": true,
-          "percent": "2.7"
+          "percent": "2.8"
         },
         "ACH_ActivateSynergy": {
           "name": "Item Alchemist",
@@ -1070,7 +1070,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
           "hidden": false,
-          "percent": "31.4"
+          "percent": "31.5"
         },
         "ACH_SynergiesActivated": {
           "name": "Promote Synergy",
@@ -1086,7 +1086,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f7f4d4044045b3bc0e9f48854873de29ac86bc1.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/bb49263bb8d0e41d404f33df0b0261ae78b56e9a.jpg",
           "hidden": false,
-          "percent": "35.1"
+          "percent": "35.2"
         }
       }
     },
@@ -1374,7 +1374,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/b8d69727faab776dc6fa904ed3199e936e6b776e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/8734ad26f4ca63f3eb939c3f517725b1224415dc.jpg",
           "hidden": true,
-          "percent": "15.4"
+          "percent": "15.5"
         },
         "ACH_SILVER_01_F": {
           "name": "Successor of the Bo",
@@ -1438,7 +1438,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/08a2051c713cc6f321816cb7c423c4391269e6b2.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/0ac5585ae90bcd1eb7f4168d8431724e17f8c22e.jpg",
           "hidden": true,
-          "percent": "26.2"
+          "percent": "26.3"
         },
         "ACH_SILVER_09_F": {
           "name": "Perfect Bride - Fang Ling",
@@ -1518,7 +1518,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/7a55cb9af26eaa8876e9bfcd82637ca9fa7b09c0.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2277560/dc6fee82be2bbba608455e55d0f4d550792de438.jpg",
           "hidden": false,
-          "percent": "93.8"
+          "percent": "93.9"
         },
         "ACH_COPPER_10_F": {
           "name": "Disciplinary Discipline",
@@ -1914,7 +1914,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5d6b71dcae35b087de20f54ac7f24509faec83e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
           "hidden": false,
-          "percent": "38.7"
+          "percent": "38.8"
         },
         "ACHIEVEMENT_08": {
           "name": "Cleared the 30th floor of The X!",
@@ -1930,7 +1930,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bdb229f12db0c60c27b52f39a1a790da6a8e585a.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
           "hidden": false,
-          "percent": "56.3"
+          "percent": "56.2"
         },
         "ACHIEVEMENT_10": {
           "name": "Cleared the 10th floor of The X!",
@@ -1946,7 +1946,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/583365b06d43a5bdcf4706d2bcd5c973bb15e489.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
           "hidden": false,
-          "percent": "75.8"
+          "percent": "75.9"
         },
         "ACHIEVEMENT_12": {
           "name": "Rumored Blader",
@@ -1954,7 +1954,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c56d0d9d6afa68a5af7561e1180ab9f547c3e680.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg",
           "hidden": false,
-          "percent": "25.3"
+          "percent": "25.4"
         },
         "ACHIEVEMENT_13": {
           "name": "Pro Blader",
@@ -2098,7 +2098,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7ec29d1c912be5aceecc3cb26acacf5be7e53ffe.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
           "hidden": false,
-          "percent": "85.4"
+          "percent": "85.5"
         },
         "ACHIEVEMENT_31": {
           "name": "Xtreme Dash Double",
@@ -2154,7 +2154,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0ee526cc3efb4b77a7f965ff69065de9bd9a7b7.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg",
           "hidden": false,
-          "percent": "8.3"
+          "percent": "8.4"
         },
         "ACHIEVEMENT_38": {
           "name": "Xtreme Dash Mirror Reflection",
@@ -2186,7 +2186,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a51d9fc65bce88da4e33189f25ea93f98027b00e.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg",
           "hidden": false,
-          "percent": "8.5"
+          "percent": "8.6"
         },
         "ACHIEVEMENT_42": {
           "name": "Xtreme Dash Dragonic Break",
@@ -2562,7 +2562,7 @@
           "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
           "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/881020/5f70f925f5c93451d7ce6588b2352ef2a8b91a82.jpg",
           "hidden": true,
-          "percent": "68.1"
+          "percent": "68.0"
         },
         "0017": {
           "name": "Warning Signs",

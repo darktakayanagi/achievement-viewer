@@ -65,7 +65,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b5d6b71dcae35b087de20f54ac7f24509faec83e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/ff65386d95860fe97a0e89075e528bc60b305781.jpg",
       "hidden": false,
-      "percent": "38.7"
+      "percent": "38.8"
     },
     "ACHIEVEMENT_08": {
       "name": "Cleared the 30th floor of The X!",
@@ -81,7 +81,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/bdb229f12db0c60c27b52f39a1a790da6a8e585a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/b32adc2b6272460631e79d767dd60b437843dbcf.jpg",
       "hidden": false,
-      "percent": "56.3"
+      "percent": "56.2"
     },
     "ACHIEVEMENT_10": {
       "name": "Cleared the 10th floor of The X!",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/583365b06d43a5bdcf4706d2bcd5c973bb15e489.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/185c730d3beda4d1c58e707b3ca0201733c208f4.jpg",
       "hidden": false,
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "ACHIEVEMENT_12": {
       "name": "Rumored Blader",
@@ -105,7 +105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/c56d0d9d6afa68a5af7561e1180ab9f547c3e680.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/6c706bb1f67652215ab1ffc000a2e623c38186f2.jpg",
       "hidden": false,
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACHIEVEMENT_13": {
       "name": "Pro Blader",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/7ec29d1c912be5aceecc3cb26acacf5be7e53ffe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/3a46ce4d6ff1365d9389ea866eae00c79e63f758.jpg",
       "hidden": false,
-      "percent": "85.4"
+      "percent": "85.5"
     },
     "ACHIEVEMENT_31": {
       "name": "Xtreme Dash Double",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f0ee526cc3efb4b77a7f965ff69065de9bd9a7b7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/344d39dd84ccba405dc74695df0330c84655c0ae.jpg",
       "hidden": false,
-      "percent": "8.3"
+      "percent": "8.4"
     },
     "ACHIEVEMENT_38": {
       "name": "Xtreme Dash Mirror Reflection",
@@ -337,7 +337,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/a51d9fc65bce88da4e33189f25ea93f98027b00e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3023070/f2ecfb94dd61097052d68b295032c48d65c107a3.jpg",
       "hidden": false,
-      "percent": "8.5"
+      "percent": "8.6"
     },
     "ACHIEVEMENT_42": {
       "name": "Xtreme Dash Dragonic Break",
