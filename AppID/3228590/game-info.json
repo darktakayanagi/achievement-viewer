@@ -17,7 +17,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373.jpg",
       "hidden": false,
-      "percent": "66.9"
+      "percent": "66.8"
     },
     "ACH_CollectScrap100000": {
       "name": "Scrap Lord",
@@ -49,7 +49,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4022d562abd180b43db64961c7b04deaeb1bd63c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4531ef4d420d82a667ef996ac04826c85dd9d595.jpg",
       "hidden": false,
-      "percent": "55.3"
+      "percent": "55.2"
     },
     "ACH_KillAndroids1": {
       "name": "What Are These?",
@@ -105,7 +105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a88a344d9542b95f12ccb411731052972141aa24.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/226e8f1250edf2c07eeb7fa2acc68859c06dda76.jpg",
       "hidden": false,
-      "percent": "62.7"
+      "percent": "62.6"
     },
     "ACH_StartMission": {
       "name": "Who the Hell am I?",
@@ -153,7 +153,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/1231abcfe315006e8d62525167726e36ed395659.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9e95e2cf3618fd1ca78e086dedd23cd4795e11bd.jpg",
       "hidden": false,
-      "percent": "58.2"
+      "percent": "58.1"
     },
     "ACH_CompleteZone2": {
       "name": "Executive Dysfunction",
@@ -169,7 +169,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/5a379e5354ecede049bef230bbe79ec4097d5647.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7.jpg",
       "hidden": false,
-      "percent": "57.7"
+      "percent": "57.6"
     },
     "ACH_CompleteMission_Expert": {
       "name": "Express Elevator to Hell",
@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/0767eb0e7867e84715780fcd3d822269a59871fd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7f760ffd8101c122fbead22e435ec3373e10bccd.jpg",
       "hidden": false,
-      "percent": "29.3"
+      "percent": "29.2"
     },
     "ACH_CompleteMission_Nightmare": {
       "name": "Bad Dreams",
@@ -225,7 +225,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/ac13cac1661594e7976bc86dd0deca83e6010d50.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a842b00ebd1c8077fa338f0b685de1dfbc1ecbac.jpg",
       "hidden": false,
-      "percent": "30.3"
+      "percent": "30.2"
     },
     "ACH_SuperUpgrades1": {
       "name": "Getting an Upgrade",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/2876e1b6d048f4e45183f7e33fcfaae855d0d76c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/080b9e888647a12f4ca816f358381bf7e88844a3.jpg",
       "hidden": false,
-      "percent": "63.7"
+      "percent": "63.6"
     },
     "ACH_SuperUpgrades2": {
       "name": "This Ain’t Standard Issue",
@@ -241,7 +241,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/4a5a6fb046f76b41880d2719359531c1aa8d5387.jpg",
       "hidden": false,
-      "percent": "55.4"
+      "percent": "55.3"
     },
     "ACH_SuperUpgrades3": {
       "name": "Maxed Out",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/35e2b99f41c46a1b10ac7b6c25a959ec04390e43.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/7bb5f25b588792cf501bfb4447b6c0a38dd42b89.jpg",
       "hidden": false,
-      "percent": "31.9"
+      "percent": "31.8"
     },
     "ACH_SpendScrap": {
       "name": "Space Wallet",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/886d1c77f46d46b8367a4a702db28dc8801855c9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9f08cd191ae4c632f89fbbabf5c78dede0bbc90c.jpg",
       "hidden": false,
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "ACH_CompleteMission_Undamaged": {
       "name": "Invincible",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/374511011a1ae116bb7247e3776aa17e4c227dbd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/b291e8610645771225cb1cb1b55263628f50284c.jpg",
       "hidden": false,
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "ACH_LoadoutLegendary": {
       "name": "Blinged Out",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/47666288c0b9cc40d3ead01e0f14ddf53105b9f0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/e43c9152d669649563297fc74d60471fca21dce9.jpg",
       "hidden": true,
-      "percent": "1.6"
+      "percent": "1.5"
     },
     "ACH_CompleteStory3": {
       "name": "Brain Drain",
@@ -321,7 +321,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/98d180502bea83d5263f08b160f1ea56ccd2ab8c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/a931c44ebdab909ff349b34b8f6c1296b70ecfb9.jpg",
       "hidden": false,
-      "percent": "30.2"
+      "percent": "30.1"
     },
     "ACH_CompleteZone3": {
       "name": "Mental Fortitude",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/55c76811156992f88e280948488ec75409622dd2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/61fcdf5648e43b984261d3bcb668341e77c5c94f.jpg",
       "hidden": false,
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_ActivateSynergy3": {
       "name": "Feeling the Power",
@@ -393,7 +393,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/270d01b295df4e8004fb4bd3f070d8f022128e37.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/3228590/9fa6d69c28df57ef3106de15b360bc56bf2176a3.jpg",
       "hidden": false,
-      "percent": "31.6"
+      "percent": "31.5"
     },
     "ACH_SynergiesActivated": {
       "name": "Promote Synergy",
