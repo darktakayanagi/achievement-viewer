@@ -33,7 +33,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/48dfa8d8b060fd39aeef81c8c06b6333da6c59a9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/093c6bdc6a16e489e1d5a95737583d018337443d.jpg",
       "hidden": true,
-      "percent": "20.0"
+      "percent": "20.1"
     },
     "PFA_5": {
       "name": "The Wise Owl",
@@ -97,7 +97,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/0ec46a7165d686e77aded42ed7f674b99a303e4a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/a9e677e3397d09516932619122e659840367faed.jpg",
       "hidden": true,
-      "percent": "32.5"
+      "percent": "32.6"
     },
     "PFA_13": {
       "name": "The Hero of Hogwarts",
@@ -105,7 +105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/04b644cf02f1b46cdf1e6b4aa4a6191583e3b22f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/57d9b6ac397bb8dbfce0c970e6c9b6e69538690f.jpg",
       "hidden": true,
-      "percent": "26.7"
+      "percent": "26.8"
     },
     "PFA_14": {
       "name": "The Seeker of Knowledge",
@@ -121,7 +121,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/6fbe088b231a915637d409d41b61d2dcba3be885.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/a8a1944ec34e2405b24c7c33389491f00f1df851.jpg",
       "hidden": true,
-      "percent": "19.7"
+      "percent": "19.8"
     },
     "PFA_16": {
       "name": "The Defender of Dragons",
@@ -137,7 +137,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/8fdc2878e6f704b3fe816d6d395232ef3a03d305.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/8ac99392d7850a4dfbc52be58237825d31afa3d2.jpg",
       "hidden": true,
-      "percent": "19.0"
+      "percent": "19.1"
     },
     "PFA_18": {
       "name": "A Sallow Grave",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/c54dcf12698edd975e71c525185854c635f60941.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/d3fd39cd6d573ed5d9e102fcf042c00e003c462d.jpg",
       "hidden": true,
-      "percent": "73.7"
+      "percent": "73.8"
     },
     "PFA_24": {
       "name": "Loom for Improvement",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/7c843a190fcde960f01f411423468e3ab88944f5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/22b6e534eac3b5e9363fb56e137245c5abe3657a.jpg",
       "hidden": false,
-      "percent": "47.3"
+      "percent": "47.4"
     },
     "PFA_36": {
       "name": "Rise to the Challenges",
@@ -337,7 +337,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/02a9f3eeba17ae2ab4e42682167ad90160b7dd88.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/e603fa6f52e5e984d35c0e0897ecda198505b193.jpg",
       "hidden": false,
-      "percent": "27.2"
+      "percent": "27.3"
     },
     "PFA_43": {
       "name": "Finishing Touches",
@@ -353,7 +353,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/8513ce755ef9da6ba06ed241dad7b4faf5def123.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/990080/42a171f92cdd033c4fb6afacdae656e016398892.jpg",
       "hidden": false,
-      "percent": "33.4"
+      "percent": "33.5"
     },
     "PFA_45": {
       "name": "A Forte for Achievement",
