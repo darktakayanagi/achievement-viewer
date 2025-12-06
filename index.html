@@ -414,7 +414,7 @@
             user-select: none;
             transition: all 0.3s;
             border-radius: 3px;
-            padding: 4px 6px;
+            padding: 4px 5px;
         }
 
         .hidden-spoiler-text:hover {
@@ -1041,7 +1041,7 @@
                     // Always show "Hidden achievement" for hidden achievements
                     if (hasDescription) {
                         // If there's a real description, show it as spoiler on new line
-                        descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement: <span class="hidden-spoiler-text">${ach.description}</span></div>`;
+                        descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement:<span class="hidden-spoiler-text">${ach.description}</span></div>`;
                     } else {
                         // No description available
                         descriptionHTML = `<div class="achievement-desc hidden-desc">Hidden achievement</div>`;
