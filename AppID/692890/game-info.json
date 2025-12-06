@@ -9,7 +9,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6df3a0c65274c19a90b6401c6bbe65b304be8eb9.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/bad2747db3f94270fbd5302fbc9eec7cad3ba79f.jpg",
       "hidden": true,
-      "percent": "75.3"
+      "percent": "75.4"
     },
     "ACT2_COMPLETED": {
       "name": "Taking it Back!",
@@ -105,7 +105,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/da5b8ac7faf6233159360358324b62a664109aa6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/37d27402d1d887dabaae9ab0c7352c8add455695.jpg",
       "hidden": false,
-      "percent": "24.9"
+      "percent": "25.0"
     },
     "COMMANDO_FINISH_GAME": {
       "name": "Booyakasha",
@@ -145,7 +145,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/08949d5f9a12c604fb783b58443abcd33eb26787.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9a94c64dc344def21169a29baa13c84da1e04253.jpg",
       "hidden": false,
-      "percent": "52.8"
+      "percent": "52.9"
     },
     "CRYSTAL_UNLOCK_GOLD": {
       "name": "Crystal Claimer (Gold)",
@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/ad61faccb45d839ea815397a6e48fc08638ae323.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/47b08f2dca5f9a9ba4b4b32e37c915be945d8bec.jpg",
       "hidden": false,
-      "percent": "49.2"
+      "percent": "49.3"
     },
     "DAMAGE_DEALT_SILVER": {
       "name": "Damage Dealer (Silver)",
@@ -385,7 +385,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e831bfdbdfa70959e074bdb253c8d274070ae025.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c4d5dddbd236c2aef5968ced8a04128a3f48b16f.jpg",
       "hidden": false,
-      "percent": "45.5"
+      "percent": "45.6"
     },
     "LEVEL_CORRUPTED_DISCOVERED": {
       "name": "Nest of Corruption",
@@ -401,7 +401,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c3fa3d11ddaa0f9f8cace713a48d0d9a79ae7c4f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/89cf20098f51505ff0bd0feced76f52d647b152b.jpg",
       "hidden": false,
-      "percent": "75.8"
+      "percent": "75.9"
     },
     "LOG_UNLOCK_GOLD": {
       "name": "Log Collector (Gold)",
@@ -433,7 +433,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/56f50c2bcea12c403085dbd7fcbdf5f7f21ed8f2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b7e15ec2ad938368357ccd6fae51763c9a8dc697.jpg",
       "hidden": false,
-      "percent": "47.0"
+      "percent": "47.1"
     },
     "MAGUS_FINISH_GAME": {
       "name": "Elementary",
@@ -441,7 +441,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3fd321696d6c072117634b42a967013a9d8da2b0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/4f31d62e8a6cb6cd31075aec65931c178034a9e6.jpg",
       "hidden": false,
-      "percent": "14.3"
+      "percent": "14.4"
     },
     "MAGUS_METEOR_DAMAGE": {
       "name": "Final Flash",
@@ -497,7 +497,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/84f250e04e761d2902ce647a34d7c579d6a42ad8.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e89777b6b5c4430935115d6776b3bdb327a04534.jpg",
       "hidden": false,
-      "percent": "17.4"
+      "percent": "17.5"
     },
     "POWERCELL_GATHER_SILVER": {
       "name": "Powercell Gatherer (Silver)",
@@ -521,7 +521,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/fbe84d4f3a569690d2bcf26e60b781b2c5c16359.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/839b21210946ef9d927fd5c2d39f1dbd20ce4bfa.jpg",
       "hidden": false,
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "RECON_MULTI_SLASH": {
       "name": "Sushi Master",
@@ -545,7 +545,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/14ef980fd035854abc6c1cc36c59c30cab0a607e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/435e253cdc0635af27339e85dc87d797065b0a56.jpg",
       "hidden": false,
-      "percent": "17.2"
+      "percent": "17.3"
     },
     "SENTINEL_JAVELIN_DAMAGE": {
       "name": "Bot Skewer",
@@ -585,7 +585,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/ff5be4aa9c3dcda4372480b9040cf5b7a50f8222.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/39524fa77bc0f19296c6623dd97f6a8f44f15541.jpg",
       "hidden": false,
-      "percent": "23.2"
+      "percent": "23.3"
     },
     "WRENCH_GATHER_BRONZE": {
       "name": "Wrench Picker (Bronze)",
@@ -649,7 +649,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1fd7597f2e49ba9b8b7da51136481c79ed17e3bc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/cad9810acd232c5153f6ddc97b75c7865d977bf3.jpg",
       "hidden": true,
-      "percent": "11.3"
+      "percent": "11.4"
     },
     "ENDLESS_UNLOCK": {
       "name": "Portal Online!",
@@ -665,7 +665,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1e847ed7b7670805c51c05e24d7d369f785f85f7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/1e3e5d448bc179e0333d8c181bc97b44d23430fb.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.7"
     },
     "ENDLESS_MUTATOR": {
       "name": "Evolution",
