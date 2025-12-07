@@ -637,8 +637,8 @@
 
         <div id="info" class="info" style="display: none;">
             <h3>📁 Folder Structure:</h3>
-            <p>Place your achievement files in: <code>AppID/&lt;game-appid&gt;/achievements.json</code></p>
-            <p style="margin-top: 10px;">Example: <code>AppID/730/achievements.json</code> for Counter-Strike 2</p>
+            <p>Place your achievement files in: <code>AppID/&lt;game-appid&gt;/achievements.json</code> or <code>AppID/&lt;game-appid&gt;/&lt;game-appid&gt;.db</code></p>
+            <p style="margin-top: 10px;">Example: <code>AppID/730/achievements.json</code> or <code>AppID/730/730.db</code> for Counter-Strike 2</p>
             <p style="margin-top: 10px;">The page will automatically scan all folders in the AppID directory!</p>
         </div>
 
@@ -791,12 +791,14 @@
             
             for (let i = 0; i < gameDataList.length; i++) {
                 const gameData = gameDataList[i];
+                // Ensure appid is a string
+                const appId = String(gameData.appid);
                 loadingDiv.innerHTML = `
                     <div class="loading-spinner"></div>
                     <div>Loading game ${i + 1} of ${gameDataList.length}...</div>
                 `;
                 
-                await processGameData(gameData.appid, gameData.achievements, gameData.info);
+                await processGameData(appId, gameData.achievements, gameData.info);
             }
 
             document.getElementById('loading').style.display = 'none';
@@ -804,6 +806,8 @@
         }
 
         async function processGameData(appId, achievementsData, gameInfo = null) {
+                // Ensure appId is a string
+                appId = String(appId);
             let gameName = gameInfo?.name || `Game ${appId}`;
             let gameIcon = gameInfo?.icon || '';
 
