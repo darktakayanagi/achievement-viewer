@@ -189,7 +189,14 @@
             font-size: 0.8em;
             margin-bottom: 8px;
         }
-
+        
+        .game-source {
+            color: #66c0f4;
+            font-size: 0.75em;
+            margin-top: 2px;
+            font-weight: 600;
+        }
+        
         .game-progress-section {
             padding: 0 15px 15px 15px;
         }
@@ -831,6 +838,7 @@ for (let appId of appIds) {
                 appId = String(appId);
             let gameName = gameInfo?.name || `Game ${appId}`;
             let gameIcon = gameInfo?.icon || '';
+            let usesDb = gameInfo?.uses_db || false;
 
             // Process achievements
             const achievements = [];
@@ -880,6 +888,7 @@ for (let appId of appIds) {
                 name: gameName,
                 icon: gameIcon,
                 achievements
+                usesDb: usesDb
             });
         }
 
@@ -1015,6 +1024,7 @@ for (let appId of appIds) {
                                 <div class="game-info">
                                     <div class="game-title">${game.name}</div>
                                     <div class="game-appid">AppID: ${game.appId}</div>
+                                    ${game.usesDb ? '<div class="game-source">Steam</div>' : ''}
                                 </div>
                             </div>
                             
