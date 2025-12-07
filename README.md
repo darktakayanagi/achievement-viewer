@@ -55,21 +55,13 @@ Your site will be available at: `https://YOUR-USERNAME.github.io/REPO-NAME/`
 Your `achievements.json` should look like this:
 ```json
 {
-  "achievements": {
-    "ACH_WIN_100": {
-      "name": "Winner",
-      "description": "Win 100 games",
-      "earned": true,
-      "earned_time": 1678901234,
-      "icon": "https://...",
-      "icon_gray": "https://..."
-    },
-    "ACH_LOSE_1": {
-      "name": "First Loss",
-      "description": "Lose your first game",
-      "earned": false,
-      "earned_time": 0
-    }
+  "Defeat_Mantis": {
+    "earned": true,
+    "earned_time": 1754144765
+  },
+  "Obtain_Archetype": {
+    "earned": true,
+    "earned_time": 1754144765
   }
 }
 ```
