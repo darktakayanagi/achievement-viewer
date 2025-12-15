@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Underground Achievements Hub</title>
+    <link rel="stylesheet" href="css/hub.css" />
+  </head>
+  <body>
+    <h1>Underground Achievement HUB</h1>
+
+    <div id="controls">
+      <input id="search" placeholder="Search users…" />
+      <select id="sort">
+        <option value="az">Sort: A → Z</option>
+        <option value="za">Sort: Z → A</option>
+        <option value="mostAch">Most Achievements</option>
+        <option value="mostPerfect">Most Perfect Games</option>
+      </select>
+    </div>
+
+    <div id="grid"></div>
+
+    <script type="module" src="js/HubRenderer.js"></script>
+  </body>
+</html>
