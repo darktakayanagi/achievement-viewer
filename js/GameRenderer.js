@@ -140,6 +140,14 @@ function sortGames(mode) {
 }
 
 function renderGameCard(game, percentage) {
+    // Determine what label to show
+    let platformLabel = '';
+    if (game.platform) {
+        platformLabel = `<div class="game-source">${game.platform}</div>`;
+    } else if (game.usesDb) {
+        platformLabel = '<div class="game-source">Steam</div>';
+    }
+    
     return `
         <div class="game-card" onclick="window.showGameDetail('${game.appId}')">
             <div class="game-card-main">
@@ -150,7 +158,7 @@ function renderGameCard(game, percentage) {
                     <div class="game-info">
                         <div class="game-title">${game.name}</div>
                         <div class="game-appid">AppID: ${game.appId}</div>
-                        ${game.usesDb ? '<div class="game-source">Steam</div>' : ''}
+                        ${platformLabel}
                     </div>
                 </div>
                 
