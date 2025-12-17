@@ -13,6 +13,19 @@ EVENT_NAME = os.environ.get("GITHUB_EVENT_NAME", "")
 
 # Load TOP_OWNER_IDS from external file
 top_owners_file = Path("top_owners.json")
+
+# Default hardcoded list (32 IDs)
+DEFAULT_OWNERS = [
+    76561198028121353, 76561198017975643, 76561197979911851, 76561198355953202,
+    76561197993544755, 76561198001237877, 76561198355625888, 76561198217186687,
+    76561198152618007, 76561198237402290, 76561198213148949, 76561197973009892,
+    76561198037867621, 76561197969050296, 76561198019712127, 76561198094227663,
+    76561197965319961, 76561197976597747, 76561197963550511, 76561198044596404,
+    76561198134044398, 76561198367471798, 76561199492215670, 76561197962473290,
+    76561198842603734, 76561198119667710, 76561197969810632, 76561197995070100,
+    76561198017902347, 76561197996432822, 76561198082995144, 76561198027214426
+]
+
 if top_owners_file.exists():
     try:
         with open(top_owners_file, "r", encoding="utf-8") as f:
@@ -21,78 +34,22 @@ if top_owners_file.exists():
         print(f"Loaded {len(TOP_OWNER_IDS)} Steam IDs from top_owners.json")
     except Exception as e:
         print(f"Error loading top_owners.json: {e}")
-        # Fallback to default list
-        TOP_OWNER_IDS = [
-            76561198028121353,
-            76561197979911851,
-            76561198017975643,
-            76561197993544755,
-            76561198355953202,
-            76561198001237877,
-            76561198237402290,
-            76561198152618007,
-            76561198355625888,
-            76561198213148949,
-            76561197969050296,
-            76561198217186687,
-            76561198037867621,
-            76561198094227663,
-            76561198019712127,
-            76561197963550511,
-            76561198134044398,
-            76561198001678750,
-            76561197973009892,
-            76561198044596404,
-            76561197976597747,
-            76561197969810632,
-            76561198095049646,
-            76561198085065107,
-            76561198864213876,
-            76561197962473290,
-            76561198388522904,
-            76561198033715344,
-            76561197995070100,
-            76561198313790296,
-            76561198063574735,
-            76561197996432822,
-        ]
+        TOP_OWNER_IDS = DEFAULT_OWNERS
 else:
-    # Default list if file doesn't exist
-    TOP_OWNER_IDS = [
-        76561198028121353,
-        76561197979911851,
-        76561198017975643,
-        76561197993544755,
-        76561198355953202,
-        76561198001237877,
-        76561198237402290,
-        76561198152618007,
-        76561198355625888,
-        76561198213148949,
-        76561197969050296,
-        76561198217186687,
-        76561198037867621,
-        76561198094227663,
-        76561198019712127,
-        76561197963550511,
-        76561198134044398,
-        76561198001678750,
-        76561197973009892,
-        76561198044596404,
-        76561197976597747,
-        76561197969810632,
-        76561198095049646,
-        76561198085065107,
-        76561198864213876,
-        76561197962473290,
-        76561198388522904,
-        76561198033715344,
-        76561197995070100,
-        76561198313790296,
-        76561198063574735,
-        76561197996432822,
-    ]
-
+    # File doesn't exist: Use default list AND create the file
+    print("top_owners.json not found. Using hardcoded list and creating file...")
+    TOP_OWNER_IDS = DEFAULT_OWNERS
+    
+    try:
+        with open(top_owners_file, "w", encoding="utf-8") as f:
+            json.dump(
+                {"steam_ids": TOP_OWNER_IDS, "updated": "Created from hardcoded backup"},
+                f,
+                indent=2
+            )
+        print("✓ Created top_owners.json for future runs")
+    except Exception as e:
+        print(f"Warning: Could not create top_owners.json: {e}")
 
 def get_changed_appids():
     """Get list of AppIDs that were modified in the last push"""
@@ -426,7 +383,7 @@ for appid in appids:
                     profiles_tried = 0
                     descriptions_found = 0
 
-                    for steam_id in TOP_OWNER_IDS[:20]:
+                    for steam_id in TOP_OWNER_IDS[:32]:
                         profiles_tried += 1
                         scraped = scrape_hidden_achievements(
                             appid, steam_id, achievement_names_map
