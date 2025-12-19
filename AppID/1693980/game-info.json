@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/fd5f852bcb2df80820518bab0db9b4e6b8ffb489.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/8882e70d7ee1a200174faf5bab65cbd3abf3ff7a.jpg",
       "hidden": false,
-      "percent": "50.7"
+      "percent": "50.6"
     },
     "ach04": {
       "name": "Cannon Fodder",
@@ -121,7 +121,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/1f67a1dbc600b10cb2c553ab945a1f2c0687608a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/2643860ed1f4e61e97e0d49e31dc6002a9041f82.jpg",
       "hidden": false,
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "ach16": {
       "name": "Untouchable",
@@ -377,7 +377,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/9acfd607810b3b0d5542943f799a633f7cf71c37.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/c728703c146ca7f8a2487b6eb13104d8b2f052ff.jpg",
       "hidden": true,
-      "percent": "4.6"
+      "percent": "4.7"
     }
   },
   "uses_db": false,

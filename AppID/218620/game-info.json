@@ -1,7 +1,7 @@
 {
   "appid": "218620",
   "name": "PAYDAY 2",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1765284091",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1766086544",
   "achievements": {
     "hot_wheels": {
       "name": "Coming in Hot",
@@ -1769,7 +1769,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/df047f029e442fad4cfdd4568a2d65ab6073fd50.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/bde5c6a478a2c4ab859bede3599392a09382d74f.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "eagle_4": {
       "name": "So Uncivilized",
@@ -3697,7 +3697,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6857a76cae677be7fd844d5822e6a08b878d0cb3.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/3cfd59d501054c606f3d4cb01dfada2dcc915f51.jpg",
       "hidden": false,
-      "percent": "6.9"
+      "percent": "6.8"
     },
     "axe_44": {
       "name": "Ocean's Four",
@@ -4865,7 +4865,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/4e978291ed9ec8a4142c743a2f1badba1ff68da5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/a178880e2e06fb9d1d2545f8de67cbd0ebfef9d9.jpg",
       "hidden": false,
-      "percent": "4.0"
+      "percent": "3.9"
     },
     "wwh_7": {
       "name": "Treason in Alaskan",
@@ -5161,7 +5161,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/5fcbb7e9001b171b0bed9b437fc128c9c231e0a4.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/08148ba525e19a6dd25f3c62986ec0b66538d088.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "trk_sx_2": {
       "name": "How the Winch Stole Christmas",
@@ -6033,7 +6033,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e8e8118cf39bc77b10d2dde988b505b27736cc04.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/c53547106a74d6f0c219797d72a1826e228483cb.jpg",
       "hidden": false,
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "trk_bo_2": {
       "name": "Diesel is My Juice",
@@ -8913,7 +8913,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/b529346f0b59d67d40d8dd04e6c3826ff63632f7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/6b0f36eff6181333ea4869d16888d96ad68e4286.jpg",
       "hidden": false,
-      "percent": "4.1"
+      "percent": "4.0"
     },
     "vit_6": {
       "name": "A Night at the Theater",
@@ -10529,7 +10529,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/e0b913daffe407414bf6a42e0e388ce9ede8fc1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/218620/efab8f31941adf68e5cf1c1188c861be4beed25e.jpg",
       "hidden": false,
-      "percent": "1.0"
+      "percent": "0.9"
     },
     "deep_3": {
       "name": "Up In Flames",

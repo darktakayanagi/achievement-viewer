@@ -17,7 +17,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/e862c13fd3b4c9e127d6d5de4c845818f289d218.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/56578658e365816c2e6f301c703849bcd4eed6d2.jpg",
       "hidden": false,
-      "percent": "22.3"
+      "percent": "22.2"
     },
     "NEW_ACHIEVEMENT_2_2": {
       "name": "Relic Hunter ",
@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/95c9bba38eef2b1c661630475b9542588270401a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/85878746e4c45089b2fa28a19a62fb310bca544d.jpg",
       "hidden": false,
-      "percent": "44.2"
+      "percent": "44.1"
     },
     "NEW_ACHIEVEMENT_2_3": {
       "name": "Archaeologist ",
@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/28b90a466ebe27d98fb9be96b2130a78c265c7c1.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/e68ce15782ba910f86c26159981a28a7ca266972.jpg",
       "hidden": false,
-      "percent": "36.4"
+      "percent": "36.3"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Deadeye ",
@@ -273,7 +273,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/d7a549434552bd4b5cac97d887cda1c8b6356e05.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/203160/6313ecea85b9d67e0ff1ecc5d8420a5a38e0df9a.jpg",
       "hidden": true,
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "NEW_ACHIEVEMENT_3_2": {
       "name": "Chatterbox ",

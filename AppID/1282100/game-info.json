@@ -49,7 +49,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/59d0e404961a12bca198810b21c5a531101497ca.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "Defeat_Nightweaver": {
       "name": "Dark Designs",
@@ -65,7 +65,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/b3c161be7dba7be6465df1ba14593cc8b6af2fce.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "Defeat_Abberations_A": {
       "name": "Am I Seeing This?",
@@ -73,7 +73,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/c2e7eaba84a9f84edea252f08550119a39ba2eec.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "40.9"
+      "percent": "41.0"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -377,7 +377,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d5bb8b61fb9b426fd2a4048f6bca517452870e33.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "55.4"
+      "percent": "55.5"
     },
     "Upgrade_Standard_Weapon_B": {
       "name": "No One Should Have All That Power",
@@ -489,7 +489,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/aa5af4ea18f5b8325a13776ef494484f88c354eb.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "9.7"
+      "percent": "9.8"
     },
     "DLC3_Obtain_Redeemer": {
       "name": "The Master Builder",

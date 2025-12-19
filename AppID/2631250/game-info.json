@@ -1,7 +1,7 @@
 {
   "appid": "2631250",
   "name": "Slitterhead",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1765954412",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1766110508",
   "achievements": {
     "ACH_01": {
       "name": "Edge of Madness",
@@ -249,7 +249,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/69cd75160ca9b74c25cc635ddaf57953b70d4488.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/3d2a2f233b5063e6fd35dd738cfcf6811edb31a7.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACH_32": {
       "name": "New Hyoki Legend",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/8d07b5fea2b4ea651b973bbec66660aff7c9a74f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2631250/3d0adfeecc1e78e6f99e4b5b6684228ee94afc65.jpg",
       "hidden": false,
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "ACH_36": {
       "name": "Jack of All Blood",
