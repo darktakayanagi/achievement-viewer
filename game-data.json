@@ -749,7 +749,7 @@
     "info": {
       "appid": "207140",
       "name": "SpeedRunners",
-      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/77a8927116d04679ac9e09c88a5360914ccbccc8/header_alt_assets_0.jpg?t=1759863362",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/9a890d587fab20b39eb1ee7fe69f14902a4e1d27/header_alt_assets_0_brazilian.jpg?t=1759863362",
       "achievements": {},
       "uses_db": true,
       "platform": null,
@@ -8479,7 +8479,7 @@
     "info": {
       "appid": "3159330",
       "name": "Assassin’s Creed Shadows",
-      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/0eb067f51621d195ff76b77b71a210d06f3355b6/header_alt_assets_1.jpg?t=1766087938",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/0eb067f51621d195ff76b77b71a210d06f3355b6/header_alt_assets_1.jpg?t=1766171678",
       "achievements": {},
       "uses_db": false,
       "platform": null,
@@ -8772,7 +8772,7 @@
     "info": {
       "appid": "218620",
       "name": "PAYDAY 2",
-      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1766086544",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/8498e0a434d1026a5b99154ddeffe7fc00f71127/header_alt_assets_20.jpg?t=1766139387",
       "achievements": {},
       "uses_db": true,
       "platform": null,
@@ -22008,7 +22008,7 @@
     "info": {
       "appid": "2631250",
       "name": "Slitterhead",
-      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1765954412",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2631250/header.jpg?t=1766112057",
       "achievements": {},
       "uses_db": false,
       "platform": null,
@@ -22336,7 +22336,7 @@
     "info": {
       "appid": "1091500",
       "name": "Cyberpunk 2077",
-      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1765965538",
+      "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1766141193",
       "achievements": {},
       "uses_db": false,
       "platform": null,
@@ -23099,7 +23099,7 @@
     "appid": "1230530",
     "info": {
       "appid": "1230530",
-      "name": "尘封大陆",
+      "name": "Atlas Fallen: Reign Of Sand",
       "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1230530/header.jpg?t=1755090572",
       "achievements": {},
       "uses_db": false,
