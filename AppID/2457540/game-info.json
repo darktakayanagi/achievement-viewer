@@ -57,7 +57,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/0580589f1938e4fed2723d81078a748b2d3e53ad.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "54.1"
+      "percent": "54.2"
     },
     "ACHIEVEMENT_07": {
       "name": "Fighter of the Darkness",
@@ -145,7 +145,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/75b41844dd655fc4700b31f1e575f0a3271b2543.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "33.3"
+      "percent": "33.4"
     },
     "ACHIEVEMENT_18": {
       "name": "The Sage of Earth and Sea",
@@ -169,7 +169,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/7944421aa10f24bad58acc0ed8ab71a002a9d55b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "63.7"
+      "percent": "63.8"
     },
     "ACHIEVEMENT_21": {
       "name": "Skilled Fight Master",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/351f8554b9c68bbfb1a5362fd84c0442311f519f.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "7.0"
+      "percent": "6.9"
     },
     "ACHIEVEMENT_23": {
       "name": "The Challenger",
@@ -201,7 +201,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/e6491ed55f1b634792f64057d734f82cf4dc874c.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "3.7"
+      "percent": "3.6"
     },
     "ACHIEVEMENT_25": {
       "name": "Card Decomposer",
@@ -209,7 +209,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/415dfc30bcb3bae747e6ccd4aef6ec830a50fadf.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "92.1"
+      "percent": "92.2"
     },
     "ACHIEVEMENT_26": {
       "name": "Card Alchemist",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/a0d281e0a6fb7f8843ada7907b243b1d24c6186e.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "83.1"
+      "percent": "83.2"
     },
     "ACHIEVEMENT_27": {
       "name": "Card Shop Customer",
@@ -225,7 +225,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/08475feb2bedcb4144376e66784598cc551ff862.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": false,
-      "percent": "96.6"
+      "percent": "96.7"
     },
     "ACHIEVEMENT_28": {
       "name": "Card Collector",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/aa153bff542de5aed22f018232c0fcd12d13ee2a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "ACHIEVEMENT_32": {
       "name": "Premium Ride",
@@ -265,7 +265,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/e7b771bff38c11bcf0a90a8e824604f28f49c488.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "64.7"
+      "percent": "64.9"
     },
     "ACHIEVEMENT_33": {
       "name": "Persona Ride!",
@@ -273,7 +273,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/092d78c4613c44f092fd75d2b418525dc6386561.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "88.6"
+      "percent": "88.7"
     },
     "ACHIEVEMENT_34": {
       "name": "Dressing Anew",
@@ -281,7 +281,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/93ad3b3bc8ac3178fe2f3410b7cd6182a483ce1b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "24.9"
+      "percent": "24.6"
     },
     "ACHIEVEMENT_35": {
       "name": "+100,000,000！",
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/2526768d1171141904956e75f0102022dc0bb82a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "83.9"
+      "percent": "84.0"
     },
     "ACHIEVEMENT_36": {
       "name": "Power to Change the Fate",
@@ -297,7 +297,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/92f77976e1bb4fe822eef75342133b3d4d868a72.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "58.7"
+      "percent": "58.8"
     },
     "ACHIEVEMENT_37": {
       "name": "Attack of the Bonds",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/f5e0c9ec483b7a45ff64d1447d9ab4e409dd933b.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "49.5"
+      "percent": "49.6"
     },
     "ACHIEVEMENT_38": {
       "name": "Lucky Fighter",
@@ -329,7 +329,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/363554d3efcddfc678c0e470f982fceed6b942fe.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2457540/3181d1a0ea75cf85f6b98b08014d719329da7878.jpg",
       "hidden": true,
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "ACHIEVEMENT_41": {
       "name": "The Unbreakable Shield",

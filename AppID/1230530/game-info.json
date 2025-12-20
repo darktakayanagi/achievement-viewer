@@ -41,7 +41,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/0aa6ddd7996739253cf0dce0dbbb7bb4886129b2.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "16.1"
+      "percent": "16.0"
     },
     "trophy_06_level6_complete": {
       "name": "Godslayer",
@@ -177,7 +177,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/b16d04a5616aba318bded767e060a50827c314c0.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.7"
     },
     "trophy_23_armor_upgrade_max": {
       "name": "Geared Up",
@@ -193,7 +193,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/312eda829fa90f2981e1f606b53f4467386a692d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "trophy_25_armor_dye": {
       "name": "Fashion Victim",
@@ -217,7 +217,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/7b065322409597e2a812a62d03c00ee21d4a7211.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "trophy_28_animal_treasure": {
       "name": "I Found It",
@@ -233,7 +233,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/31561d5e1452a8ec2c55f016012385ce9b8e1165.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "3.4"
+      "percent": "3.3"
     },
     "trophy_30_upgrade_stone_max": {
       "name": "Alchemist",
@@ -289,7 +289,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/22640ed313611c4678337e14726c793fc67dde36.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "trophy_39_dlc_watcher_challenge": {
       "name": "Painstaking Persistence",
@@ -297,7 +297,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/f381c1b49eb9c5b9731cfbbe9932d9b58034176a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "20.5"
+      "percent": "20.4"
     },
     "trophy_40_dlc_thelos_questline": {
       "name": "The Forgotten Realm",
@@ -305,7 +305,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/0ef664971b2830689553628cecbfb046a7b26bd5.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "7.5"
+      "percent": "7.4"
     }
   },
   "uses_db": false,

@@ -41,7 +41,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/852f0aede05a5ce110ef3a3d779aec9c8a506161.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/b6aa3f2bfc0fea482f4975cf5ca56e16bd167ece.jpg",
       "hidden": false,
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "BILLY_EXPLOSION": {
       "name": "Oopsie...",
@@ -153,7 +153,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/6fd00b4d60454fc12d30927874ad488619fff0e6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/74595bd6c0919e7656b408d7534475a00415fdff.jpg",
       "hidden": false,
-      "percent": "25.5"
+      "percent": "25.4"
     },
     "CRYSTAL_UNLOCK_SILVER": {
       "name": "Crystal Claimer (Silver)",
@@ -185,7 +185,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/c698121eb6ed9d10f47553a11f4810a2359df759.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/982d7193a19ff8259eda4850a04ca9d761fd9345.jpg",
       "hidden": false,
-      "percent": "57.5"
+      "percent": "57.4"
     },
     "DEFUSE_BOMB": {
       "name": "Just in Time",
@@ -257,7 +257,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/fc2a7e0e1b4ee4e24f296f6383b32d51b81a6fbd.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8a8877d824864015e14d1368c34d1ddc70e63d6f.jpg",
       "hidden": false,
-      "percent": "38.6"
+      "percent": "38.5"
     },
     "FINISH_GAME_BUDDYBOT": {
       "name": "Best Buddy Forever",
@@ -425,7 +425,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/8114dabc37f63177555eef03f0d5e2938313cf77.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e1f00e87b9ecad9663602bf59fe4c09f84de0ced.jpg",
       "hidden": false,
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "LOOT_SHOVEL": {
       "name": "Shovel Knight",
@@ -481,7 +481,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/40aaf8bea5817ed773cebf8377a8ce66514566fa.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/02b0fed5e1cb2d15856e45a18669796ea4c36367.jpg",
       "hidden": false,
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "POWERCELL_GATHER_BRONZE": {
       "name": "Powercell Gatherer (Bronze)",
@@ -633,7 +633,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/3713578dd48ce78623eb75c45413fbb9e0295237.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9db57be44242eac14e3fb76103e625b097299463.jpg",
       "hidden": true,
-      "percent": "4.8"
+      "percent": "4.7"
     },
     "LOOT_SWORD": {
       "name": "Captain Mc Slice",
@@ -641,7 +641,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/e5d06012af5c40da6717afe6952cb25f00196bf7.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/9fe9e1858b5cc34d6e223b763b7174708d12a24a.jpg",
       "hidden": true,
-      "percent": "14.2"
+      "percent": "14.1"
     },
     "ALFRED_REBOOT": {
       "name": "Butlers Never Die",
@@ -689,7 +689,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/fe6c3b1122a257a8e768bd24efef76b9fc15ac40.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/692890/409950a971c212595f876f02f54bf8431c5cc0fd.jpg",
       "hidden": false,
-      "percent": "4.7"
+      "percent": "4.6"
     }
   },
   "uses_db": false,

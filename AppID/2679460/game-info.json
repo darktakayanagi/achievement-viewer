@@ -121,7 +121,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/68a3b3c857d16d752251554cc1e6291f39ef8003.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": true,
-      "percent": "45.5"
+      "percent": "45.4"
     },
     "ACHIEVEMENT_16": {
       "name": "United Front",
@@ -297,7 +297,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/04f6e7dba05c687aaf4e3c81910f687f6a0dbd7d.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
-      "percent": "37.8"
+      "percent": "37.7"
     },
     "ACHIEVEMENT_38": {
       "name": "Debate Me",
@@ -353,7 +353,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/c241572f1c99c029926f151f85f8f75f6dbde3db.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
       "hidden": false,
-      "percent": "15.1"
+      "percent": "15.0"
     }
   },
   "uses_db": false,
