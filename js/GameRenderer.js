@@ -193,7 +193,7 @@ export function showGameDetail(appId, updateUrl = true) {
     const game = gamesData.get(appId);
     if (!game) return;
 
-    // Update URL parameter so the link is shareable
+    // Csak akkor frissítjük az URL-t, ha nem a handleDeepLink vagy popstate hívta meg
     if (updateUrl) {
         const newUrl = new URL(window.location.href);
         newUrl.searchParams.set('game', appId);
@@ -213,7 +213,6 @@ export function showGameDetail(appId, updateUrl = true) {
         sortMode: 'default'
     };
 
-    window.gridSortMode = window.gridSortMode || 'percentage';
     renderGameDetail();
 }
 
