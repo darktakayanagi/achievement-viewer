@@ -54,7 +54,7 @@ jobs:
           git config --local user.name "GitHub Action"
 
           git add top_owners.json 2>/dev/null || true
-          git add AppID/*/game-info.json game-data.json 2>/dev/null || true
+          git add AppID/*/game-info.json AppID/*/"missing hidden achievements" game-data.json 2>/dev/null || true
 
           # Exit early if nothing changed
           if [ -z "$(git status --porcelain)" ]; then
