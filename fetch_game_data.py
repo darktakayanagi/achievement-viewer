@@ -231,6 +231,7 @@ def scrape_hidden_achievements(appid, steam_id, achievement_names_map):
 for appid in appids:
     print(f"\nProcessing AppID {appid}...")
 
+    # Load existing game-info.json for memory logic
     game_info_path = Path(f"AppID/{appid}/game-info.json")
     existing_info = {}
     if game_info_path.exists():
@@ -239,6 +240,7 @@ for appid in appids:
                 existing_info = json.load(f)
         except Exception:
             existing_info = {}
+
     game_info = {
         "appid": appid,
         "name": f"Game {appid}",
@@ -355,10 +357,6 @@ for appid in appids:
                     is_hidden = ach.get("hidden", 0) == 1
                     display_name = ach.get("displayName", ach["name"])
 
-                    new_desc = ach.get("description", "")
-                    if not new_desc and api_name in existing_info.get("achievements", {}):
-                        new_desc = existing_info["achievements"][api_name].get("description", "")
-
                     achievement_names_map[display_name.lower()] = api_name
 
                     if api_name in achievements_from_xml:
@@ -366,12 +364,6 @@ for appid in appids:
                             api_name
                         ].copy()
                         game_info["achievements"][api_name]["hidden"] = is_hidden
-
-                        if (
-                            is_hidden
-                            and not game_info["achievements"][api_name]["description"]
-                        ):
-                            hidden_achievements.append(api_name)
                     else:
                         game_info["achievements"][api_name] = {
                             "name": display_name,
@@ -380,8 +372,15 @@ for appid in appids:
                             "icongray": ach.get("icongray", ""),
                             "hidden": is_hidden,
                         }
-                        if is_hidden and not ach.get("description"):
-                            hidden_achievements.append(api_name)
+
+                    # Memory logic: if current desc is empty but was found before, restore it
+                    if not game_info["achievements"][api_name]["description"]:
+                        old_desc = existing_info.get("achievements", {}).get(api_name, {}).get("description", "")
+                        if old_desc:
+                            game_info["achievements"][api_name]["description"] = old_desc
+
+                    if is_hidden and not game_info["achievements"][api_name]["description"]:
+                        hidden_achievements.append(api_name)
 
                 print(f"  ✓ Merged {len(achievements)} achievements")
 
@@ -404,12 +403,6 @@ for appid in appids:
                         if scraped:
                             for api_name, data in scraped.items():
                                 if api_name in game_info["achievements"]:
-
-                                    if data.get("description"):
-                                        game_info["achievements"][api_name]["description"] = data["description"]
-                                    elif api_name in existing_info.get("achievements", {}):
-                                        game_info["achievements"][api_name]["description"] = existing_info["achievements"][api_name].get("description", "")
-
                                     if not game_info["achievements"][api_name][
                                         "description"
                                     ]:
@@ -418,7 +411,7 @@ for appid in appids:
                                         ] = data["description"]
                                         descriptions_found += 1
                                         print(
-                                            f"    ✓ Found: '{data['name']}' -> '{data['description'][:50]}...'"
+                                            f"    ✓ Found: '{data['name']}'"
                                         )
 
                             missing = sum(
@@ -484,6 +477,23 @@ for appid in appids:
         import traceback
 
         traceback.print_exc()
+
+    # --- Missing hidden achievements file logic (BEFORE SAVE) ---
+    missing_file_path = Path(f"AppID/{appid}/missing hidden achievements")
+    still_missing_api_names = [
+        api_name for api_name, data in game_info["achievements"].items()
+        if data.get("hidden") and not data.get("description")
+    ]
+
+    if still_missing_api_names:
+        with open(missing_file_path, "w", encoding="utf-8") as f:
+            for api_name in still_missing_api_names:
+                f.write(f"{api_name}\n")
+        print(f"  ⚠ Created/Updated 'missing hidden achievements' file ({len(still_missing_api_names)} items)")
+    else:
+        if missing_file_path.exists():
+            missing_file_path.unlink()
+            print("  ✓ All hidden descriptions found, removed 'missing hidden achievements' file")
 
     # Save individual game-info.json
     game_info_path = Path(f"AppID/{appid}/game-info.json")
