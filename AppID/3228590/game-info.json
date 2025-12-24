@@ -1,0 +1,416 @@
+{
+  "appid": "3228590",
+  "name": "Deadzone: Rogue",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/571b6a1cf52e411448d6388984f5c7d4bc2fe33d/header_alt_assets_2.jpg?t=1766084711",
+  "achievements": {
+    "ACH_CompleteStory4": {
+      "name": "Apophis Apocrypha",
+      "description": "Complete the Story of Zone 4",
+      "icon": "91996fac12c7b15e4336d62bb6db7f0a45bacbb7",
+      "icongray": "45209d083009cbefdc2e62f46e2633c781333600",
+      "hidden": false
+    },
+    "ACH_CompleteZone4": {
+      "name": "Asteroid Explorer",
+      "description": "Complete all Zone 4 Missions",
+      "icon": "7e22ee6aac5a0a28ce219e06f2b2e36eaa921614",
+      "icongray": "433ecf14ac6baa4c3adf98df2af7f4462df7ae28",
+      "hidden": false
+    },
+    "ACH_BackToBasics": {
+      "name": "Back to Basics",
+      "description": "Complete any Mission with only your Starting Pistol",
+      "icon": "5a21622d652d363c798de09e42034ce44e7d1d58",
+      "icongray": "9c5c821fefd95ef84d997c8792feca503e7ee928",
+      "hidden": true
+    },
+    "ACH_CompleteMission_Nightmare": {
+      "name": "Bad Dreams",
+      "description": "Complete a Mission on Nightmare Difficulty",
+      "icon": "19059b894148359e05072342af15c81d7a02650b",
+      "icongray": "978345de72614124311d149b1c429c72d7467711",
+      "hidden": false
+    },
+    "ACH_KillAndroidsWithBarrel100": {
+      "name": "Barrel of Laughs",
+      "description": "Kill 100 enemies with Explosive Barrels",
+      "icon": "311068a82bc32f713d207e4eb3f79a962a38c428",
+      "icongray": "ab13fd5fbf467d4e5618c35f8dd315c827e8dd61",
+      "hidden": false
+    },
+    "ACH_CompleMission_All": {
+      "name": "Been There, Done That",
+      "description": "Complete every Mission",
+      "icon": "2387e2fb449c7e1fa4cb53afc2152c5b1e5e69c0",
+      "icongray": "362b94d99cf3171fae4977e9a1fcf338e1f291b9",
+      "hidden": false
+    },
+    "ACH_LoadoutLegendary": {
+      "name": "Blinged Out",
+      "description": "Have a Loadout of all Legendary Equipment",
+      "icon": "c13e73c20052dbd1b037b10194338b8fa678638c",
+      "icongray": "23907483911cb4ddcd36d7ff59aa700b0ea52e80",
+      "hidden": false
+    },
+    "ACH_Botanist": {
+      "name": "Botanist",
+      "description": "There's no such thing as a 10,000 credit Rosarugula",
+      "icon": "47666288c0b9cc40d3ead01e0f14ddf53105b9f0",
+      "icongray": "e43c9152d669649563297fc74d60471fca21dce9",
+      "hidden": true
+    },
+    "ACH_CompleteStory3": {
+      "name": "Brain Drain",
+      "description": "Complete the Story of Zone 3",
+      "icon": "98d180502bea83d5263f08b160f1ea56ccd2ab8c",
+      "icongray": "a931c44ebdab909ff349b34b8f6c1296b70ecfb9",
+      "hidden": false
+    },
+    "ACH_CompleteStory1": {
+      "name": "Brain in a Jar",
+      "description": "Complete the Story of Zone 1",
+      "icon": "546ce09b8e3b3bc7693bcbb75d8831d0ffc4fb65",
+      "icongray": "ae8cdad5e46d16e66a325693acc4922fbf1e7e98",
+      "hidden": false
+    },
+    "ACH_KillAndroidsWithBarrel1": {
+      "name": "Contents Under Pressure",
+      "description": "Kill an enemy with an Explosive Barrel",
+      "icon": "a0fe7caa78fbb9fe21a51bbb9945f93ddd582a40",
+      "icongray": "a0cb3a7e422195d502c541b600ebf8d913b50862",
+      "hidden": false
+    },
+    "ACH_CollectTech5000": {
+      "name": "Crypto Wizard",
+      "description": "Collect 5,000 Tech",
+      "icon": "4022d562abd180b43db64961c7b04deaeb1bd63c",
+      "icongray": "4531ef4d420d82a667ef996ac04826c85dd9d595",
+      "hidden": false
+    },
+    "ACH_CompleteMission_All_Expert": {
+      "name": "Death Incarnate",
+      "description": "Complete every Mission on at least Expert Difficulty",
+      "icon": "83f3d9cfa9910732445fa8fc2e2b5f40ced58e63",
+      "icongray": "288e88664306c87095c9ef3802e808b039d4058f",
+      "hidden": false
+    },
+    "ACH_Sanctify2": {
+      "name": "Devout Weaponsmith",
+      "description": "Sanctify 8 weapons to tier 2",
+      "icon": "d42033987ccb0a63fe6018bc0e62e5eefb7f05d7",
+      "icongray": "3965bc6d50c1c5163a90deead6941d3bd57b7dfd",
+      "hidden": false
+    },
+    "ACH_Die1": {
+      "name": "Did I Just Die?",
+      "description": "Die for the first time",
+      "icon": "4ee3defdb9f9c15acf9fc3492c5223715de964e5",
+      "icongray": "37f4bbf6fe131f2585f3e6868419d8d949727fe6",
+      "hidden": false
+    },
+    "ACH_DigNoDeeper": {
+      "name": "Dig No Deeper",
+      "description": "Study Geology",
+      "icon": "700908c2d2554a3343923f8c457e8ae20f1547b2",
+      "icongray": "0d57e8bf75ab5aa161171cf512c979e3dc0a0dc7",
+      "hidden": true
+    },
+    "ACH_CompleteZone2": {
+      "name": "Executive Dysfunction",
+      "description": "Complete all Zone 2 Missions",
+      "icon": "279a87259d789637d377bb0efa1bf36679db3cc0",
+      "icongray": "34236d2255b6ab85bf3633315c61d910b9882287",
+      "hidden": false
+    },
+    "ACH_CompleteMission_Expert": {
+      "name": "Express Elevator to Hell",
+      "description": "Complete a Mission on at least Expert Difficulty",
+      "icon": "0767eb0e7867e84715780fcd3d822269a59871fd",
+      "icongray": "7f760ffd8101c122fbead22e435ec3373e10bccd",
+      "hidden": false
+    },
+    "ACH_KillAndroids1000": {
+      "name": "Exterminate!",
+      "description": "Kill 1,000 Androids",
+      "icon": "187ef98db9eeff5c3fed7349ad33cdbeb2127a15",
+      "icongray": "e14f4f9244ecefc1dd63b5daa6b1db4c6a21aff4",
+      "hidden": false
+    },
+    "ACH_FabricateAny": {
+      "name": "Fabricate a Beer",
+      "description": "Make your first purchase at the Fabricator",
+      "icon": "d2ed0c516030659e64c632332ed2016b87eee520",
+      "icongray": "e084c2c043f3d7e7b54545ddc8abd8c133ff0f07",
+      "hidden": false
+    },
+    "ACH_TechUpgrades2": {
+      "name": "Feeling Good",
+      "description": "Upgrade at least 3 Tech Masteries to Tier 5",
+      "icon": "ad666328f4e8fb66ec0c7667c43056063d1aabae",
+      "icongray": "242ae0e837e39f954f66ade0588e4e1972cac984",
+      "hidden": false
+    },
+    "ACH_ActivateSynergy3": {
+      "name": "Feeling the Power",
+      "description": "Have 3 Synergies active at the same time",
+      "icon": "270d01b295df4e8004fb4bd3f070d8f022128e37",
+      "icongray": "9fa6d69c28df57ef3106de15b360bc56bf2176a3",
+      "hidden": false
+    },
+    "ACH_ReadZone4Logs": {
+      "name": "Forbidden Texts",
+      "description": "Read all of the Apophis Data Logs",
+      "icon": "85532616c610165a605e93794a7bebe869f4e19e",
+      "icongray": "1466ad014bebea5662c2ee499204e5166d8f7427",
+      "hidden": false
+    },
+    "ACH_TechUpgrades1": {
+      "name": "Gaining Power",
+      "description": "Upgrade a Tech Mastery for the first time",
+      "icon": "34902bf45344076296781546fd412aa979b508ce",
+      "icongray": "ecd5641a60c333a13f9ef00d2b5cefd929894282",
+      "hidden": false
+    },
+    "ACH_SuperUpgrades1": {
+      "name": "Getting an Upgrade",
+      "description": "Upgrade a Superior Item for the first time",
+      "icon": "2876e1b6d048f4e45183f7e33fcfaae855d0d76c",
+      "icongray": "080b9e888647a12f4ca816f358381bf7e88844a3",
+      "hidden": false
+    },
+    "ACH_Sanctify1": {
+      "name": "Gunpowder Piety",
+      "description": "Sanctify a weapon for the first time",
+      "icon": "7b2ea25809e94659365077b5443bbf33c3cd47d4",
+      "icongray": "40879a04bd024a822aaa35355a54b4576f0c1fa7",
+      "hidden": false
+    },
+    "ACH_Sanctify4": {
+      "name": "Hallowed Forgemaster",
+      "description": "Sanctify all weapons to Max tier",
+      "icon": "489876430b6015b50f469c4d94e5c37539587f55",
+      "icongray": "545c42bd631038c95520e5887d887e02e35af37c",
+      "hidden": false
+    },
+    "ACH_CompleteMission_Hard": {
+      "name": "Hardcore",
+      "description": "Complete a Mission on at least Hard Difficulty",
+      "icon": "5a379e5354ecede049bef230bbe79ec4097d5647",
+      "icongray": "fcd6b5a5cf239fbb61485eb159b8cd5520cf9ce7",
+      "hidden": false
+    },
+    "ACH_CompleteMission_All_Hard": {
+      "name": "Hardcore to the Max",
+      "description": "Complete every Mission on at least Hard Difficulty",
+      "icon": "d2022bfbbb30de0aa88fffa4cd3702c3ce89e420",
+      "icongray": "de62665ea3c2efece0b138f0fc4d6a089e9f88c3",
+      "hidden": false
+    },
+    "ACH_CompleteMission_All_Nightmare": {
+      "name": "I am the Nightmare",
+      "description": "Complete every Mission on Nightmare Difficulty",
+      "icon": "8e54482297420cb87d83ada3ee0dcd024cd48366",
+      "icongray": "ebec3b9beb5f72d711c3a7c773848c464733da7a",
+      "hidden": false
+    },
+    "ACH_Die10": {
+      "name": "I live... I die. I live... I die. I live... I die.",
+      "description": "Die 10 times",
+      "icon": "a88a344d9542b95f12ccb411731052972141aa24",
+      "icongray": "226e8f1250edf2c07eeb7fa2acc68859c06dda76",
+      "hidden": false
+    },
+    "ACH_CompleteMission_Undamaged": {
+      "name": "Invincible",
+      "description": "Can't touch this",
+      "icon": "86be32a287128f94645c638e2f42c53c7636824e",
+      "icongray": "ad46833c16a71280f5866ea635db20dd7463ce46",
+      "hidden": true
+    },
+    "ACH_ActivateSynergy": {
+      "name": "Item Alchemist",
+      "description": "Activate a Synergy for the first time",
+      "icon": "55c76811156992f88e280948488ec75409622dd2",
+      "icongray": "61fcdf5648e43b984261d3bcb668341e77c5c94f",
+      "hidden": false
+    },
+    "ACH_CompleteMission_Coop": {
+      "name": "Jarheads",
+      "description": "Complete any Mission in Coop",
+      "icon": "9f7f4d4044045b3bc0e9f48854873de29ac86bc1",
+      "icongray": "bb49263bb8d0e41d404f33df0b0261ae78b56e9a",
+      "hidden": false
+    },
+    "ACH_JazzHands": {
+      "name": "Jazz Hands",
+      "description": "Take a little break, you deserve it",
+      "icon": "9d627abb8545c0ab16a6debaba7156c4b550f9ea",
+      "icongray": "95d292d49c95b7e0cb08cc375e3898e038317ff8",
+      "hidden": true
+    },
+    "ACH_ReadDataLog1": {
+      "name": "Looky Here",
+      "description": "Read your first Data Log",
+      "icon": "112ff1483125a02afc953a63123d6bc564a9cad1",
+      "icongray": "2aea7e9c7ad6961429eb98587ff6de4c52a49c61",
+      "hidden": false
+    },
+    "ACH_MadeAFriend": {
+      "name": "Made a Friend",
+      "description": "Dabble in botany",
+      "icon": "242626c3503f965417b96ad585a1c2b1354b0664",
+      "icongray": "a2f900c3cdc09bc9ab113caa39fd7f11e84b0189",
+      "hidden": true
+    },
+    "ACH_SuperUpgrades3": {
+      "name": "Maxed Out",
+      "description": "Upgrade all of your Superior Items to MAX Tier",
+      "icon": "35e2b99f41c46a1b10ac7b6c25a959ec04390e43",
+      "icongray": "7bb5f25b588792cf501bfb4447b6c0a38dd42b89",
+      "hidden": false
+    },
+    "ACH_CompleteZone3": {
+      "name": "Mental Fortitude",
+      "description": "Complete all Zone 3 Missions",
+      "icon": "c212a9ea99502258bc62e2386325207c08b6601b",
+      "icongray": "56f15e3e85e670c6081eb9287a535f39de5abc0a",
+      "hidden": false
+    },
+    "ACH_FabricateLegendary": {
+      "name": "Ooo, Shiny!",
+      "description": "Purchase a Legendary item at the Fabricator",
+      "icon": "374511011a1ae116bb7247e3776aa17e4c227dbd",
+      "icongray": "b291e8610645771225cb1cb1b55263628f50284c",
+      "hidden": false
+    },
+    "ACH_TechUpgrades3": {
+      "name": "Plot Armor",
+      "description": "Upgrade all of your Tech Masteries to MAX Tier",
+      "icon": "ac13cac1661594e7976bc86dd0deca83e6010d50",
+      "icongray": "a842b00ebd1c8077fa338f0b685de1dfbc1ecbac",
+      "hidden": false
+    },
+    "ACH_PonderOrb": {
+      "name": "Ponder Orb",
+      "description": "Click your heels three times",
+      "icon": "fe1d8124525fc383bad44712f4b65ae84750f6c9",
+      "icongray": "fbe709cd11de227583ff12da69384c5ffa150d63",
+      "hidden": true
+    },
+    "ACH_SynergiesActivated": {
+      "name": "Promote Synergy",
+      "description": "Activate each Synergy at least once",
+      "icon": "85e3b875e3af8be29e0633c79f6a0666127d17f7",
+      "icongray": "b3a75cf09ee8b75a8e9a85f5113a7d5dcc3b8f77",
+      "hidden": false
+    },
+    "ACH_CollectScrap100000": {
+      "name": "Scrap Lord",
+      "description": "Collect 100,000 Scrap",
+      "icon": "22e1fa4cc7158380070fd0b066103c738415a8e4",
+      "icongray": "b4637714b137b3dbb81e49ec1eb95e0312d08296",
+      "hidden": false
+    },
+    "ACH_CollectScrap50000": {
+      "name": "Scrap Pile",
+      "description": "Collect 50,000 Scrap",
+      "icon": "ee7062f32b0615aaf12f5e9a0e51b3b4e6076df7",
+      "icongray": "a938a6e82ba02e4ab8272e9e6708cd7b5cdd7373",
+      "hidden": false
+    },
+    "ACH_CollectScrap500": {
+      "name": "Scrappy",
+      "description": "Collect 500 Scrap",
+      "icon": "c022373fe66b27b56dc6a564f127450fa5fc7241",
+      "icongray": "7492b9bab5c6a18e606cfabc2d54083155a64d83",
+      "hidden": false
+    },
+    "ACH_SpendScrap": {
+      "name": "Space Wallet",
+      "description": "Spend 50,000 Scrap at the Fabricator",
+      "icon": "886d1c77f46d46b8367a4a702db28dc8801855c9",
+      "icongray": "9f08cd191ae4c632f89fbbabf5c78dede0bbc90c",
+      "hidden": false
+    },
+    "ACH_CompleteSpecialty": {
+      "name": "Special Ops",
+      "description": "Complete your first Specialty Mission",
+      "icon": "e03fb79cbada60a67b0a29c150a7081fab138413",
+      "icongray": "80f6771e34eeb33cbba4d38e4770a8babfef5caa",
+      "hidden": false
+    },
+    "ACH_CompleteStory2": {
+      "name": "Stay Frosty",
+      "description": "Complete the Story of Zone 2",
+      "icon": "1231abcfe315006e8d62525167726e36ed395659",
+      "icongray": "9e95e2cf3618fd1ca78e086dedd23cd4795e11bd",
+      "hidden": false
+    },
+    "ACH_CollectTech100": {
+      "name": "Tech Enthusiast",
+      "description": "Collect 100 Tech",
+      "icon": "3afcad96d7e1f028abcc319d5d0faa290a8f4ec4",
+      "icongray": "323155ee0faac720d57e3035eb424bae914cb70a",
+      "hidden": false
+    },
+    "ACH_CollectTech1000": {
+      "name": "Tech Titan",
+      "description": "Collect 1,000 Tech",
+      "icon": "b94e8f3ce34e69ea35eaabb84a58379aeab42a48",
+      "icongray": "6c797a28f26edc3a3c0ad003ea378d41e2a0c7b7",
+      "hidden": false
+    },
+    "ACH_KillAndroids500": {
+      "name": "Terminate This",
+      "description": "Kill 500 Androids",
+      "icon": "33790fd6f93bcd72b289fa885bd34faac9df00d4",
+      "icongray": "3d6fef7c011e6e7c7fd78dd483dbe41ce9a3e1f6",
+      "hidden": false
+    },
+    "ACH_SuperUpgrades2": {
+      "name": "This Ain’t Standard Issue",
+      "description": "Upgrade at least 3 Superior Items to Tier 3",
+      "icon": "9c11fc24f1746c5fd8dfe6e6e2fe87252589f90b",
+      "icongray": "4a5a6fb046f76b41880d2719359531c1aa8d5387",
+      "hidden": false
+    },
+    "ACH_CompleteZone1": {
+      "name": "This Bug Hunt Got Complicated",
+      "description": "Complete all Zone 1 Missions",
+      "icon": "460c996b2731daf2bb4718188edfed6c01f2f44f",
+      "icongray": "41594221eb3cb858cb1ff6aa85b325cbf6be6da4",
+      "hidden": false
+    },
+    "ACH_ReadAllDataLogs": {
+      "name": "Too Long, Didn't Read",
+      "description": "Read all of the Data Logs",
+      "icon": "eda9cca873a9f9b479f65cea84bf3985025846dc",
+      "icongray": "3a846709696add4505209b6a8f74bf22ceeb1d88",
+      "hidden": false
+    },
+    "ACH_CompleteMission": {
+      "name": "Welcome to the Deadzone",
+      "description": "Complete your first Mission",
+      "icon": "bd08fdcd07553435eaca35cbd5e8fff21ae5f115",
+      "icongray": "880f7e513595bc286439617845b0f317a48bb7c4",
+      "hidden": false
+    },
+    "ACH_KillAndroids1": {
+      "name": "What Are These?",
+      "description": "Kill your first Android",
+      "icon": "9b47dc0361ec4e568b2b5603a951f73c84bc109c",
+      "icongray": "88bfcce5e5d1ea69345d013c71fb6d49fdadb494",
+      "hidden": false
+    },
+    "ACH_StartMission": {
+      "name": "Who the Hell am I?",
+      "description": "Start your first Mission",
+      "icon": "60467a9819690db9fc0e98f78adba2a45266e6a5",
+      "icongray": "fd0635bad48fdcc98f419c00e85b276845776dc1",
+      "hidden": false
+    }
+  },
+  "uses_db": false,
+  "platform": null,
+  "blacklist": []
+}
