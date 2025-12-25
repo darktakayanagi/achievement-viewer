@@ -128,21 +128,22 @@ TOP_OWNER_IDS = load_top_owner_ids()
 def get_changed_appids():
     try:
         result = subprocess.run(
-            ["git", "diff", "--name-only", "HEAD~1", "HEAD"],
+            ["git", "diff", "--name-only", "HEAD^", "HEAD"],
             capture_output=True,
             text=True,
             check=True,
         )
         changed_files = result.stdout.strip().split("\n")
-        return list(
-            {
-                re.match(r"AppID/(\d+)/(achievements\.json|\d+\.db)", f).group(1)
-                for f in changed_files
-                if re.match(r"AppID/(\d+)/(achievements\.json|\d+\.db)", f)
-            }
-        )
+        
+        found_ids = set()
+        for f in changed_files:
+            match = re.match(r"AppID/(\d+)/", f)
+            if match:
+                found_ids.add(match.group(1))
+        
+        return list(found_ids)
     except Exception as e:
-        print(f"Error getting changed files: {e}")
+        print(f"Warning: Could not get git diff: {e}")
         return []
 
 
@@ -337,11 +338,10 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 # --- Determine AppIDs to process --- #
 if EVENT_NAME == "push":
     appids = get_changed_appids()
-    if appids:
-        print(f"Processing {len(appids)} changed game(s): {', '.join(appids)}")
-    else:
-        print("No achievements files were changed in this push")
-        exit(0)
+    if not appids:
+        print("No game-specific changes detected. Exiting to prevent full run.")
+        exit(0) 
+    print(f"Processing {len(appids)} changed game(s): {', '.join(appids)}")
 else:
     # Process all AppIDs
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
