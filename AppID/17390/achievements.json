@@ -1,123 +1,454 @@
 {
-  "ALG-GalacticGod": { "earned": true, "earned_time": 1765886400 },
-  "ALG-Photographer": { "earned": false, "earned_time": 0 },
-  "ALG-Architect": { "earned": false, "earned_time": 0 },
-  "ALG-AutomotiveEngineer": { "earned": false, "earned_time": 0 },
-  "ALG-Biologist": { "earned": false, "earned_time": 0 },
-  "ALG-SporeFan": { "earned": false, "earned_time": 0 },
-  "ALG-Spore Addict": { "earned": false, "earned_time": 0 },
-  "ALG-Creator": { "earned": false, "earned_time": 0 },
-  "ALG-UniverseInABox": { "earned": false, "earned_time": 0 },
-  "ALG-DejaVu": { "earned": false, "earned_time": 0 },
-  "ALG-SocialEngineer": { "earned": false, "earned_time": 0 },
-  "ALG-RisingStar": { "earned": false, "earned_time": 0 },
-  "ALG-FrontPageNews": { "earned": false, "earned_time": 0 },
-  "alg-aluminumcell": { "earned": false, "earned_time": 0 },
-  "alg-ironcreature": { "earned": false, "earned_time": 0 },
-  "alg-Steel Tribe": { "earned": false, "earned_time": 0 },
-  "alg-TitaniumCivilization": { "earned": false, "earned_time": 0 },
-
-  "clg-landfall": { "earned": true, "earned_time": 1765821600 },
-  "clg-pacifist": { "earned": false, "earned_time": 0 },
-  "clg-completist": { "earned": false, "earned_time": 0 },
-  "clg-speedfreak": { "earned": false, "earned_time": 0 },
-  "clg-celladdict": { "earned": false, "earned_time": 0 },
-
-  "ALG-UnlockCreature": { "earned": true, "earned_time": 1765800000 },
-  "CRG-Evolver": { "earned": true, "earned_time": 1765879200 },
-  "Friend": { "earned": false, "earned_time": 0 },
-  "CRG-Genocider": { "earned": false, "earned_time": 0 },
-  "Max Power": { "earned": false, "earned_time": 0 },
-  "Immortal": { "earned": false, "earned_time": 0 },
-  "Creature Socialite": { "earned": false, "earned_time": 0 },
-  "Flight of the Bumblebee": { "earned": false, "earned_time": 0 },
-  "CRG-Devourer": { "earned": false, "earned_time": 0 },
-  "Village People": { "earned": true, "earned_time": 1765875600 },
-  "CRG-SpeedDemon": { "earned": false, "earned_time": 0 },
-  "CRG-CrgLover": { "earned": false, "earned_time": 0 },
-  "CRG-EpicKiller": { "earned": false, "earned_time": 0 },
-
-  "ALG-UnlockTribe": { "earned": true, "earned_time": 1765879500 },
-  "Founder": { "earned": true, "earned_time": 1765879140 },
-  "Tribal Socialite": { "earned": true, "earned_time": 1765886400 },
-  "Vicious": { "earned": false, "earned_time": 0 },
-  "Domestic Bliss": { "earned": true, "earned_time": 1765882800 },
-  "Watchful Parent": { "earned": true, "earned_time": 1765890000 },
-  "Tribal": { "earned": false, "earned_time": 0 },
-  "The Horde": { "earned": true, "earned_time": 1765879080 },
-
-  "ALG-UnlockCiv": { "earned": true, "earned_time": 1765882800 },
-  "CVG-Starman": { "earned": true, "earned_time": 1765886220 },
-  "CVG-Economist": { "earned": false, "earned_time": 0 },
-  "CVG-MilitaryStrongman": { "earned": false, "earned_time": 0 },
-  "CVG-Missionary": { "earned": true, "earned_time": 1765886100 },
-  "CVG-SpiceHorder": { "earned": false, "earned_time": 0 },
-  "CvG-Relentless": { "earned": false, "earned_time": 0 },
-  "CvG-RollingThunder": { "earned": true, "earned_time": 1765886160 },
-  "CVG-GhettoBlaster": { "earned": false, "earned_time": 0 },
-
-  "ALG-UnlockSpace": { "earned": true, "earned_time": 1765886330 },
-  "SPG-SuperPilot": { "earned": false, "earned_time": 0 },
-  "SPG-Engineer": { "earned": false, "earned_time": 0 },
-  "SPG-Conquistador": { "earned": false, "earned_time": 0 },
-  "SPG-ZooKeeper": { "earned": false, "earned_time": 0 },
-  "SPG-BioEng": { "earned": false, "earned_time": 0 },
-  "SPG-PalmGreaser": { "earned": false, "earned_time": 0 },
-  "SPG-EagleScout": { "earned": false, "earned_time": 0 },
-  "SPG-EmpireBuilder": { "earned": false, "earned_time": 0 },
-  "SPG-PlanetKiller": { "earned": false, "earned_time": 0 },
-  "SPG-QuestMaster": { "earned": false, "earned_time": 0 },
-  "SPG-Gunner": { "earned": false, "earned_time": 0 },
-  "SPG-IdentityCrisis": { "earned": false, "earned_time": 0 },
-  "SPG-Thief": { "earned": false, "earned_time": 0 },
-  "SPG-Manifest Destiny": { "earned": false, "earned_time": 0 },
-  "SPG-CarelessParent": { "earned": false, "earned_time": 0 },
-  "SPG-42": { "earned": false, "earned_time": 0 },
-
-  "SPG-AlterEgo": { "earned": false, "earned_time": 0 },
-  "SPG-Alter Ego's Alter Ego": { "earned": false, "earned_time": 0 },
-  "Zealot Passion": { "earned": false, "earned_time": 0 },
-  "Warrior Passion": { "earned": false, "earned_time": 0 },
-  "Bard Passion": { "earned": false, "earned_time": 0 },
-  "Knight Passion": { "earned": false, "earned_time": 0 },
-  "Wanderer Passion": { "earned": true, "earned_time": 1766257800 },
-  "Trader Passion": { "earned": false, "earned_time": 0 },
-  "Shaman Passion": { "earned": true, "earned_time": 1765886460 },
-  "SPG-SplitPersonality": { "earned": false, "earned_time": 0 },
-
-  "ADV-Published Author": { "earned": false, "earned_time": 0 },
-  "ADV-Storyteller": { "earned": false, "earned_time": 0 },
-  "ADV-Adventurer": { "earned": false, "earned_time": 0 },
-  "ADV-GrandAdventurer": { "earned": false, "earned_time": 0 },
-  "ADV-Mercenary": { "earned": false, "earned_time": 0 },
-  "ADV-Dragon Slayer": { "earned": false, "earned_time": 0 },
-  "ADV-SocialButterfly": { "earned": false, "earned_time": 0 },
-  "ADV-My Precious": { "earned": false, "earned_time": 0 },
-  "ADV-Major Contributor": { "earned": false, "earned_time": 0 },
-  "ADV-RedShirt": { "earned": false, "earned_time": 0 },
-  "ADV-My Hero": { "earned": false, "earned_time": 0 },
-  "ADV-DemolitionExpert": { "earned": false, "earned_time": 0 },
-  "ADV-Auto-Wrecker": { "earned": false, "earned_time": 0 },
-  "ADV-Consumer": { "earned": false, "earned_time": 0 },
-  "ADV-Costume Piece": { "earned": false, "earned_time": 0 },
-  "ADV-Delirious Designer": { "earned": false, "earned_time": 0 },
-  "ADV-Terraformer": { "earned": false, "earned_time": 0 },
-  "ADV-GearedUp": { "earned": false, "earned_time": 0 },
-  "ADV-Dabbler": { "earned": false, "earned_time": 0 },
-  "ADV-Aeschylus": { "earned": false, "earned_time": 0 },
-  "ADV-Moliere": { "earned": false, "earned_time": 0 },
-  "ADV-Shakespeare": { "earned": false, "earned_time": 0 },
-  "ADV-Scientist": { "earned": false, "earned_time": 0 },
-  "ADV-Going Tribal": { "earned": false, "earned_time": 0 },
-  "ADV-So Civilized": { "earned": false, "earned_time": 0 },
-  "ADV-Emperor": { "earned": false, "earned_time": 0 },
-  "ADV-Architect": { "earned": false, "earned_time": 0 },
-  "ADV-Mechanic": { "earned": false, "earned_time": 0 },
-  "ADV-Still Life": { "earned": false, "earned_time": 0 },
-  "ADV-Happy Times": { "earned": false, "earned_time": 0 },
-  "ADV-Large Ensemble": { "earned": false, "earned_time": 0 },
-  "ADV-Granddaddy": { "earned": false, "earned_time": 0 },
-  "ADV-Bestseller": { "earned": false, "earned_time": 0 },
-
-  "alg-badbaby": { "earned": false, "earned_time": 0 }
+  "ALG-GalacticGod": {
+    "earned": true,
+    "earned_time": 1765904410
+  },
+  "ALG-Photographer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-Architect": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-AutomotiveEngineer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-Biologist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-SporeFan": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-Spore Addict": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-Creator": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-UniverseInABox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-DejaVu": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-SocialEngineer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-RisingStar": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-FrontPageNews": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "alg-aluminumcell": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "alg-ironcreature": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "alg-Steel Tribe": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "alg-TitaniumCivilization": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clg-landfall": {
+    "earned": true,
+    "earned_time": 1765821600
+  },
+  "clg-pacifist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clg-completist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clg-speedfreak": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "clg-celladdict": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-UnlockCreature": {
+    "earned": true,
+    "earned_time": 1765814400
+  },
+  "CRG-Evolver": {
+    "earned": true,
+    "earned_time": 1765879200
+  },
+  "Friend": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRG-Genocider": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Max Power": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Immortal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Creature Socialite": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Flight of the Bumblebee": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRG-Devourer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Village People": {
+    "earned": true,
+    "earned_time": 1765875600
+  },
+  "CRG-SpeedDemon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRG-CrgLover": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CRG-EpicKiller": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-UnlockTribe": {
+    "earned": true,
+    "earned_time": 1765879500
+  },
+  "Founder": {
+    "earned": true,
+    "earned_time": 1765897140
+  },
+  "Tribal Socialite": {
+    "earned": true,
+    "earned_time": 1765886400
+  },
+  "Vicious": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Domestic Bliss": {
+    "earned": true,
+    "earned_time": 1765882800
+  },
+  "Watchful Parent": {
+    "earned": true,
+    "earned_time": 1765890000
+  },
+  "Tribal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "The Horde": {
+    "earned": true,
+    "earned_time": 1765893480
+  },
+  "ALG-UnlockCiv": {
+    "earned": true,
+    "earned_time": 1765897200
+  },
+  "CVG-Starman": {
+    "earned": true,
+    "earned_time": 1765904220
+  },
+  "CVG-Economist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CVG-MilitaryStrongman": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CVG-Missionary": {
+    "earned": true,
+    "earned_time": 1765904100
+  },
+  "CVG-SpiceHorder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CvG-Relentless": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CvG-RollingThunder": {
+    "earned": true,
+    "earned_time": 1765904160
+  },
+  "CVG-GhettoBlaster": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ALG-UnlockSpace": {
+    "earned": true,
+    "earned_time": 1765904400
+  },
+  "SPG-SuperPilot": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Engineer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Conquistador": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-ZooKeeper": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-BioEng": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-PalmGreaser": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-EagleScout": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-EmpireBuilder": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-PlanetKiller": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-QuestMaster": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Gunner": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-IdentityCrisis": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Thief": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Manifest Destiny": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-CarelessParent": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-42": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-AlterEgo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "SPG-Alter Ego's Alter Ego": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Zealot Passion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Warrior Passion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Bard Passion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Knight Passion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Wanderer Passion": {
+    "earned": true,
+    "earned_time": 1766257800
+  },
+  "Trader Passion": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Shaman Passion": {
+    "earned": true,
+    "earned_time": 1765904460
+  },
+  "SPG-SplitPersonality": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Published Author": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Storyteller": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Adventurer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-GrandAdventurer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Mercenary": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Dragon Slayer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-SocialButterfly": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-My Precious": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Major Contributor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-RedShirt": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-My Hero": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-DemolitionExpert": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Auto-Wrecker": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Consumer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Costume Piece": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Delirious Designer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Terraformer": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-GearedUp": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Dabbler": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Aeschylus": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Moliere": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Shakespeare": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Scientist": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Going Tribal": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-So Civilized": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Emperor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Architect": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Mechanic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Still Life": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Happy Times": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Large Ensemble": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Granddaddy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ADV-Bestseller": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "alg-badbaby": {
+    "earned": false,
+    "earned_time": 0
+  }
 }
