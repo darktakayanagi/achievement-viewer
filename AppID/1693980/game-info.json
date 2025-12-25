@@ -25,7 +25,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/fd5f852bcb2df80820518bab0db9b4e6b8ffb489.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/8882e70d7ee1a200174faf5bab65cbd3abf3ff7a.jpg",
       "hidden": false,
-      "percent": "50.5"
+      "percent": "50.4"
     },
     "ach04": {
       "name": "Cannon Fodder",
@@ -33,7 +33,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/82a1dc94277f4373d1da0d4e19082df301da7b3a.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/c47ca247373d1867e3e1938f3013e9ccd3b9fbf8.jpg",
       "hidden": false,
-      "percent": "47.2"
+      "percent": "47.1"
     },
     "ach05": {
       "name": "True Believer",
@@ -113,7 +113,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/c2f4677ccaa076ec38e7df148594b5915e3eb1a6.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/ab12263a9f015598e36c2e6f7372fd3ef8945863.jpg",
       "hidden": false,
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ach15": {
       "name": "Set A Benchmark",
@@ -313,7 +313,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/4fc1d2f39b4165b0cf61b8a2ffca7cff7a4f05aa.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/503d7301b6975d7bb948670985991816fbd11af7.jpg",
       "hidden": true,
-      "percent": "23.8"
+      "percent": "23.7"
     },
     "ach40": {
       "name": "There's Always Peng!",
@@ -345,7 +345,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/0a1af79af370dd86bcf15844a097d57f929b70fc.jpg",
       "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1693980/1545ed1e308ab16fc9467cf245184b6b65ea0739.jpg",
       "hidden": true,
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "ach44": {
       "name": "Get Off My Ship!",
