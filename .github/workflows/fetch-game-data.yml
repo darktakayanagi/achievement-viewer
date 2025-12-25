@@ -35,8 +35,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml playwright
-          playwright install
+          pip install requests beautifulsoup4 lxml
 
       - name: Update TOP_OWNER_IDS (scheduled only)
         if: ${{ github.event_name == 'schedule' }}
@@ -51,31 +50,26 @@ jobs:
       - name: Commit changes
         run: |
           set -e
-
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          FILES=$(find AppID -type f \( -name "game-info.json" -o -name "missing hidden achievements" \))
-          FILES="$FILES top_owners.json game-data.json"
+          git add top_owners.json 2>/dev/null || true
+          git add AppID/*/game-info.json AppID/*/"missing hidden achievements" game-data.json 2>/dev/null || true
 
-          git fetch origin user
-
-          # Merge remote changes into local
-          # Use 'ours' strategy only for files that do NOT conflict
-          git merge origin/user -X ours --no-edit || true
-
-          # For safety, if any conflicts remain, reset those files to remote version
-          git diff --name-only --diff-filter=U | while read file; do
-            git checkout --theirs -- "$file"
-          done
-
-          git add $FILES 2>/dev/null || true
-
+          # Exit early if nothing changed
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
             exit 0
           fi
 
-          git commit -m "Update game data [skip ci]"
+          # Temporary commit
+          git commit -m "CI temp commit"
+
+          # Rebase onto latest remote
+          git fetch origin user
+          git rebase origin/user
+
+          # Rename commit
+          git commit --amend -m "Update game data [skip ci]"
 
           git push origin user
