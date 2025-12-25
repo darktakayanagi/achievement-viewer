@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/023a933b43fb5161429b3b4e56db0db079a78632.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/b4cf125c21512f9de0895b83374fe095ab4d3f71.jpg",
       "hidden": true,
-      "percent": "11.8"
+      "percent": "11.9"
     },
     "NEW_ACHIEVEMENT_2_26": {
       "name": "Murder on Eridanos",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/56d757a2cd58d64e569b422bc3227a4e5ae7dba5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f6e7826dd459ae67bab29bdd76bff76a8b529e07.jpg",
       "hidden": false,
-      "percent": "9.0"
+      "percent": "9.1"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/706677eca2afcc532a1358c730d3b417b60dab5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/09a9702aee0e0714e7de7be09dc0015ef9393292.jpg",
       "hidden": true,
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "NEW_ACHIEVEMENT_2_15": {
       "name": "Sunburn",
@@ -505,7 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/a75e8be2eb1be39e61c4c5cad514f88ceacf67b2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f288b5b037a566ee6d5b1b29c3021b8002a839a8.jpg",
       "hidden": false,
-      "percent": "34.1"
+      "percent": "34.2"
     },
     "NEW_ACHIEVEMENT_1_12": {
       "name": "We All Fall Down",

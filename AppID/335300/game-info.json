@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/dbb9f9a06e32bd636fe0dbb5f9dde3a10472fce1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "53.9"
+      "percent": "54.0"
     },
     "ACHIEVEMENT_23": {
       "name": "Clangorous Covenant",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/03acf5ef2f77b5fe12a6e60351eabcecbc5e2745.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "49.1"
+      "percent": "49.2"
     },
     "ACHIEVEMENT_24": {
       "name": "Covenant of Ancients",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/f19104d7e772c3e1420e36799a0bf63795b0c40c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "ACHIEVEMENT_08": {
       "name": "Gulch Bonfire",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/cb2b7164dc32b0f5033e3017badc9f8b6fcf3051.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "48.4"
+      "percent": "48.5"
     },
     "ACHIEVEMENT_02": {
       "name": "King's Ring",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/21f1a21c6ec5107e3106c7a16a03daf28ced5495.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "ACHIEVEMENT_05": {
       "name": "Last Giant",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/b362f912c927c94cbee1fd8cc61253c91ec3b814.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": false,
-      "percent": "6.1"
+      "percent": "6.2"
     },
     "ACHIEVEMENT_16": {
       "name": "Master of Pyromancy",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/4d4a9f69351b7e3ba599626054907c16614e403b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/335300/6dac4c724764af81ce4c53a66a6c0c83e6508f7d.jpg",
       "hidden": true,
-      "percent": "29.1"
+      "percent": "29.2"
     }
   },
   "uses_db": true,

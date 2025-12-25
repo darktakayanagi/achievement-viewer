@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/694fe9cb6440515edd2de2b5fc9943ef6b79fa75.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/fbd29a1433ef54ad9dd569c950567c832db9302c.jpg",
       "hidden": false,
-      "percent": "5.5"
+      "percent": "5.4"
     },
     "ACHIEVEMENT_133": {
       "name": "Alchemist",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7fd6b7f58665d3a22ac6b72ba053f9ff63674192.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/78f9131b7995d4846f54c5ecf9a1575e5d6c4272.jpg",
       "hidden": false,
-      "percent": "18.5"
+      "percent": "18.4"
     },
     "ACHIEVEMENT_106": {
       "name": "Entrepreneur",
@@ -625,7 +625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5696dd384e9386b601425a9415130a71fc8f59ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/c4e2d3366a6e58ee17b0e3414f45c101f74f2ed7.jpg",
       "hidden": false,
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACHIEVEMENT_140": {
       "name": "Into the Void",
@@ -1009,7 +1009,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/718101332e272dac3b9ec26d8087fb10c18c10c1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/282d7491632960b066ec2b9531aa7b5052716b25.jpg",
       "hidden": false,
-      "percent": "32.1"
+      "percent": "32.0"
     },
     "ACHIEVEMENT_104": {
       "name": "Rifle Proficiency II",

@@ -2369,7 +2369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/dbdab6cc2f3f8bc723dc4c74a4725ccc11f461ac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/52beb2b5872b8bcaa03ec2ae404feb9214ed04fd.jpg",
       "hidden": false,
-      "percent": "28.2"
+      "percent": "28.3"
     },
     "TF_ENGINEER_SENTRY_KILL_CAPS": {
       "name": "No Man's Land",
@@ -2521,7 +2521,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/440/tf_medic_bonesaw_medics_bw.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "TF_HEAVY_KILL_WHILE_SPUNUP": {
       "name": "Permanent Revolution",
