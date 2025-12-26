@@ -4891,16 +4891,16 @@
         "earned_time": 1766775995
       },
       "TFD_ACHIEVEMENT_20": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1766782882
       },
       "TFD_ACHIEVEMENT_21": {
         "earned": false,
         "earned_time": 0
       },
       "TFD_ACHIEVEMENT_22": {
-        "earned": false,
-        "earned_time": 0
+        "earned": true,
+        "earned_time": 1766789779
       },
       "TFD_ACHIEVEMENT_23": {
         "earned": false,
