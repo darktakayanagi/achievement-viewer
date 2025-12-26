@@ -367,16 +367,21 @@ def fetch_achievements(appid, existing_info, achievements_from_xml):
 
 
 # --- Determine AppIDs to process --- #
-if EVENT_NAME == "push":
-    appids = get_changed_appids()
-    if not appids:
-        print("No game-specific changes detected. Exiting to prevent full run.")
-        exit(0) 
+# Try to detect changed AppIDs first
+appids = get_changed_appids()
+
+if appids:
+    # Found specific changes - process only those
     print(f"Processing {len(appids)} changed game(s): {', '.join(appids)}")
-else:
-    # Process all AppIDs
+elif EVENT_NAME == "schedule":
+    # Scheduled run - process all games
     appids = [f.name for f in appid_dir.iterdir() if f.is_dir() and f.name.isdigit()]
-    print(f"Processing all {len(appids)} games (scheduled/manual run)")
+    print(f"Processing all {len(appids)} games (scheduled run)")
+else:
+    # No changes detected, but triggered manually or by workflow_dispatch
+    print("No game-specific changes detected.")
+    print("To process all games, use the scheduled run or trigger manually from the Actions tab.")
+    exit(0)
 
 # --- Load existing game-data.json --- #
 existing_game_data = {}
