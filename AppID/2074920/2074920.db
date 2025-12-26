@@ -1,0 +1,122 @@
+[
+  {
+    "apiname": "TFD_ACHIEVEMENT_1",
+    "achieved": 1,
+    "unlocktime": 1766525773
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_2",
+    "achieved": 1,
+    "unlocktime": 1766775498
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_3",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_4",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_5",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_6",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_7",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_8",
+    "achieved": 1,
+    "unlocktime": 1766528177
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_9",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_10",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_11",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_12",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_13",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_14",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_15",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_16",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_17",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_18",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_19",
+    "achieved": 1,
+    "unlocktime": 1766775995
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_20",
+    "achieved": 1,
+    "unlocktime": 1766782882
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_21",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_22",
+    "achieved": 1,
+    "unlocktime": 1766789779
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_23",
+    "achieved": 0,
+    "unlocktime": 0
+  },
+  {
+    "apiname": "TFD_ACHIEVEMENT_24",
+    "achieved": 0,
+    "unlocktime": 0
+  }
+]
