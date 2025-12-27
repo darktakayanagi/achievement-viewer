@@ -80,21 +80,3 @@ jobs:
           fi
 
           git push origin user
-
-      - name: Trigger Pages rebuild
-        run: |
-          set -e
-          
-          echo "Triggering GitHub Pages rebuild..."
-          
-          # Fetch and checkout main branch
-          git fetch origin main
-          git checkout main
-          
-          # Create empty commit to trigger Pages
-          git commit --allow-empty -m "Trigger Pages rebuild [skip ci]"
-          
-          # Push to main
-          git push origin main
-          
-          echo "Pages rebuild triggered successfully"
