@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/701e6a0e4e6cdc8c1b246963bf81d51b05f08974.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3a9cc6e18cfd7ebf7d4d94d7d1091d27329bcfb4.jpg",
       "hidden": false,
-      "percent": "57.4"
+      "percent": "57.3"
     },
     "BG3_Quest04": {
       "name": "All's Well That Ends Well",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b668429392fd2600ae86857e11eef003b78c411f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44a9e19248d43300515c3575f0c5bd0a9813ee97.jpg",
       "hidden": false,
-      "percent": "39.5"
+      "percent": "39.4"
     },
     "BG3_Quest41": {
       "name": "Bottoms Up",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0dfd51a7ae1c5e122d1b46051d23234f5c5f681d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6ed09414918b95892c3c26558c800de7e79de03c.jpg",
       "hidden": false,
-      "percent": "58.8"
+      "percent": "58.7"
     },
     "BG3_Quest52": {
       "name": "Embrace Your Urge",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/279a9b7a2d50b65b6b30a939bbceffd556bb10ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/e7a5d4f01f2cb3a85931c5eb62fc22e4c06dc7e6.jpg",
       "hidden": true,
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "BG3_Quest37": {
       "name": "Fancy Footwork",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/86a026938f983aa2e170f106e5b7d9eee3b7b3e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0128504fc4ae9e6c812338ce0569c0c3330f61cb.jpg",
       "hidden": false,
-      "percent": "38.9"
+      "percent": "38.8"
     },
     "BG3_Quest38": {
       "name": "First Blood",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/a00e6ad2d3d84c4649654ce74a82cc2fa96cf3cf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/0db20ed8095106be54f7ced1c60f3540c77b8941.jpg",
       "hidden": true,
-      "percent": "39.7"
+      "percent": "39.6"
     },
     "BG3_Quest06": {
       "name": "Hero of the Forgotten Realms",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6d417ad8e5789c17018533c40471d29a73d2228b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/164437109bd5008a106201a03e166702e5e00fcd.jpg",
       "hidden": false,
-      "percent": "29.7"
+      "percent": "29.6"
     },
     "BG3_Quest49": {
       "name": "Hot Date",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3d7168b924848191b7914dfef2116d96e249bbf0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4276fdf528e2b315c7569f174dfde3ce27dbfabf.jpg",
       "hidden": true,
-      "percent": "17.3"
+      "percent": "17.2"
     },
     "BG3_Quest16": {
       "name": "Jack-of-all-Trades",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4d651ac095d988353bb73662b37b4c9f049a8ea2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f0124a5113d5c20c48e80a4deb5994d2be348966.jpg",
       "hidden": false,
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "BG3_Quest24": {
       "name": "Leave No One Behind",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/70972fff002e080bdd5b86295f0241448bfe2481.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44deee9d0a5a22a45be261cff52fa97b140d33c9.jpg",
       "hidden": true,
-      "percent": "24.4"
+      "percent": "24.3"
     },
     "BG3_Quest26": {
       "name": "Mind Blown",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/dadbc866606e4b4464fcdbf6684e3f2ec207ad73.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fc9dba1e459a3b8596ab348856ccd2d7ce1c3ed7.jpg",
       "hidden": true,
-      "percent": "32.3"
+      "percent": "32.2"
     },
     "BG3_Quest13": {
       "name": "No Penny Required",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/c77588e8a25741098ac71ae64f4b08d84e357310.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b2c45774e06a96ac4c091aa6525d1f3b389c499c.jpg",
       "hidden": false,
-      "percent": "63.5"
+      "percent": "63.4"
     },
     "BG3_Quest34": {
       "name": "Non-Invasive Procedure",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/1b13d21263e349b19a82788b63fed05e5b3c5877.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/30544be3da4df4a803371dfee3bf211abae8f5a5.jpg",
       "hidden": false,
-      "percent": "23.3"
+      "percent": "23.2"
     },
     "BG3_Quest15": {
       "name": "Outsourcing",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f202f039116ecee22d8aaacee24370a55f1983dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b1dd3bd0aefbcab6e7c7de016bbed582ca6ec91f.jpg",
       "hidden": true,
-      "percent": "45.1"
+      "percent": "45.0"
     },
     "BG3_Quest09": {
       "name": "Roleplayer",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6b55d2fb4ef8fbf7fe7605b561b95a762ea74ded.jpg",
       "hidden": false,
-      "percent": "57.9"
+      "percent": "57.8"
     },
     "BG3_Quest19": {
       "name": "Rude, Crude, and Full of Attitude",
@@ -361,7 +361,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f533118fcd650c20ef740d6440ed4b766c36352c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/938724ca2cca38728e1243a024091fdaf8346c1c.jpg",
       "hidden": true,
-      "percent": "3.5"
+      "percent": "3.4"
     },
     "BG3_Quest42": {
       "name": "Shove Off",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fc95da156e92c9d6f0955236d77bbe07e36f06e9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/80d10c6bd718fa0222d5c149ca25511dca67798d.jpg",
       "hidden": false,
-      "percent": "48.4"
+      "percent": "48.3"
     },
     "BG3_Quest07": {
       "name": "Sins of the Father",
@@ -393,7 +393,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/3c6d05ff648b66925238963a658ee307e31ff870.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/092cc30e865fbb0158afe43fb343d6362e9292fa.jpg",
       "hidden": true,
-      "percent": "40.0"
+      "percent": "39.9"
     },
     "BG3_Quest47": {
       "name": "The Lich-Queen's Wrath",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/7944771c84a4ee57b9332b25dfeb9a7c0dea1cb8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9de27a7ba09b51e6e167626e76d66c98a3a7b33a.jpg",
       "hidden": true,
-      "percent": "37.3"
+      "percent": "37.2"
     },
     "BG3_Quest02": {
       "name": "The Plot Thickens",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
       "hidden": true,
-      "percent": "51.0"
+      "percent": "50.9"
     },
     "BG3_Quest48": {
       "name": "To Bloom in Darkest Night",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/f074708db163ec1cf253953b7fe4cc32e929657c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/2f32c004f552e9bc735ddb7d11b477e01152ab5a.jpg",
       "hidden": true,
-      "percent": "27.1"
+      "percent": "27.0"
     },
     "BG3_Quest21": {
       "name": "Under Lock and Key",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/8418d590e2386af37de617f855acce42c1b9d1bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/eb31bf50dd62c7c0a6d0092bee088559e47c61fd.jpg",
       "hidden": true,
-      "percent": "24.7"
+      "percent": "24.6"
     }
   },
   "platform": null,

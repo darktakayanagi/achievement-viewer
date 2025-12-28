@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/9373f13514f375472ef81464d3ccbee8c029af7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/b30a2bc92aedbb4dd73562a289ce897b82b74ca5.jpg",
       "hidden": false,
-      "percent": "11.0"
+      "percent": "10.9"
     },
     "NEW_ACHIEVEMENT_1_14": {
       "name": "Everything Must Go",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/4513bda884c0709da1a2369772d02974ee7e5df1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/57f4c5deed8d53942faabba260728b3b9efa63f7.jpg",
       "hidden": false,
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "NEW_ACHIEVEMENT_2_24": {
       "name": "Family Reunion",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/023a933b43fb5161429b3b4e56db0db079a78632.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/b4cf125c21512f9de0895b83374fe095ab4d3f71.jpg",
       "hidden": true,
-      "percent": "11.9"
+      "percent": "11.8"
     },
     "NEW_ACHIEVEMENT_2_26": {
       "name": "Murder on Eridanos",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/1e32933d8bccef2be35d4bdf93b86bb2271e2418.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/678b4e486678138000c061c2cb7c745d2fea180e.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "One for All",
@@ -385,7 +385,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/231ccebbe04dd805563207b0f6e22de91a553df9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/ae04de11ede54cf4db80956efc42ae795e61c201.jpg",
       "hidden": true,
-      "percent": "39.9"
+      "percent": "39.8"
     },
     "NEW_ACHIEVEMENT_2_25": {
       "name": "Special P.E.T. Benefits",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/56d757a2cd58d64e569b422bc3227a4e5ae7dba5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/f6e7826dd459ae67bab29bdd76bff76a8b529e07.jpg",
       "hidden": false,
-      "percent": "9.1"
+      "percent": "9.0"
     },
     "NEW_ACHIEVEMENT_2_7": {
       "name": "SubLight to the End",

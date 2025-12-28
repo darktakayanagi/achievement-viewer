@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/54d67cecb0bd0302f8d38a066965983abdc1c117.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/6a456455083ded6ab319fea92a83c6f50c5bf501.jpg",
       "hidden": false,
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "ACH_Defeat_QueenSmiles": {
       "name": "All Smiles",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2bc641bcaaa22bc576e69b3a2c3f545cc8d08039.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/52516873f3567ee0f4a98a96e7c0d957e2dee5e6.jpg",
       "hidden": false,
-      "percent": "5.7"
+      "percent": "5.6"
     },
     "ACH_Defeat_Giants": {
       "name": "Bigfoot",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/9ed5c962353babe38b2698cf26087c092610a662.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/d665f5887042cd8618f8a89c9cc3d08431e1fb57.jpg",
       "hidden": false,
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "ACH_Defeat_Warg": {
       "name": "Bigger Than a Wolf",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/34b27c19022929c6d7edb10985d6846d0a9a3596.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e8df5c09e54b738967896e456dd48fc7990bf2f3.jpg",
       "hidden": false,
-      "percent": "91.9"
+      "percent": "91.8"
     },
     "ACH_Defeat_LordAuberon": {
       "name": "Blood Spilled, But Not Wasted",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/6ad309a84b6675fcd745b50ed692604611263d67.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/64374615043c5fd25713389a00435000cc707fd6.jpg",
       "hidden": false,
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "ACH_BountyHunter": {
       "name": "Bounty Hunter",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/dd8c8299590d44d942601985008814a67489db4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/8fa2a6a03239fb8cff1c166bf70cc2e1c945fd40.jpg",
       "hidden": false,
-      "percent": "36.6"
+      "percent": "36.5"
     },
     "ACH_Craft20": {
       "name": "Craftsman",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/779ffb154f0988533575578c72e45904c73a8904.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/fda737acbefe3ed0dbe80fbe586ab757706d2409.jpg",
       "hidden": false,
-      "percent": "56.2"
+      "percent": "56.1"
     },
     "ACH_Defeat_Wraiths": {
       "name": "Exorcist",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/940f466c0ca9426718f2923693d4857a401bde0a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/dd48bc11ef1470a00901f761c6f481d124a7bfb3.jpg",
       "hidden": false,
-      "percent": "22.1"
+      "percent": "22.0"
     },
     "ACH_Defeat_Vermins": {
       "name": "Exterminator",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/ec031555e297a43f464b49259b361a06100274ed.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/a7852837bd620389e258f6662b4e9c08159648b6.jpg",
       "hidden": false,
-      "percent": "26.9"
+      "percent": "26.8"
     },
     "ACH_Gold25K": {
       "name": "Fat Purse",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/c486e9df9252a31123d1c61bd703f025750ad3c4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/c84627dfe1f05c1d6550ea8dc34941509a8be10d.jpg",
       "hidden": false,
-      "percent": "42.2"
+      "percent": "42.1"
     },
     "ACH_Defeat_Demons": {
       "name": "It Was Hot",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/9efb6baca3dbf4b79083b105ce490a0a4297f250.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/78f52e383158c97bdbc6cee67df26d01264f5bea.jpg",
       "hidden": false,
-      "percent": "59.4"
+      "percent": "59.3"
     },
     "ACH_Defeat_TomeMistress": {
       "name": "Knowledge is Power",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2e55e256d87e2a09c5107aefcbd9144bb917b9bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/607b4e3ca05b381c07a3e9e253eb2e66479a0645.jpg",
       "hidden": false,
-      "percent": "40.6"
+      "percent": "40.5"
     },
     "ACH_LearningCurve": {
       "name": "Learning Curve",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/957d95251a211c4e37d9054b623c3a9e245ec691.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/c3f624564c89f1637436d1a07bdd27a58067708b.jpg",
       "hidden": false,
-      "percent": "21.7"
+      "percent": "21.6"
     },
     "ACH_Tailor": {
       "name": "Master Tailor",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/69b50866b7aa1ed2310c14a0b18deaae6dcd572d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0cf4c597d48d8e45b0485ac866879cef175773f6.jpg",
       "hidden": false,
-      "percent": "27.3"
+      "percent": "27.2"
     },
     "ACH_LearnAstral": {
       "name": "Master Vindicator",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/5799f0b2b48bff774fe2e16482a0413923c42b77.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/726addf6112243f091212de4a1bf2073b978bb95.jpg",
       "hidden": false,
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "ACH_Defeat_BanditCaptain": {
       "name": "No Match",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/64c8028fa09c4e478fcad1390ce42446b071d2c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/8facfd7bd161eee185069cf4aadb8f9adb3ea0e8.jpg",
       "hidden": false,
-      "percent": "70.1"
+      "percent": "70.0"
     },
     "ACH_NoSecret": {
       "name": "No Secret Anymore",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e2308a9b38afcc24c20fbef9639b68087e3c5489.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/53d24246a5b6e1eacd34ac2fdcf8e221c59fdb3d.jpg",
       "hidden": true,
-      "percent": "19.7"
+      "percent": "19.6"
     },
     "ACH_Kill1KEntropy": {
       "name": "Reaver of Entropy",
@@ -561,7 +561,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2e5aaf12b3c93afc3bc708762f05fed8932ac9ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/b5fb93b59c14ba3d2f170e4b38282a1e258a4fe5.jpg",
       "hidden": false,
-      "percent": "45.9"
+      "percent": "45.8"
     },
     "ACH_Gold100K": {
       "name": "Thanks again, Travis!",
@@ -569,7 +569,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/984f10f8fe1260d20c7a81426d018e352b9ae3a3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/81c105f0ad0c020862346e4d00f7ee5991a56bff.jpg",
       "hidden": false,
-      "percent": "40.5"
+      "percent": "40.4"
     },
     "ACH_Defeat_KingPriest": {
       "name": "The Betrayal",
@@ -585,7 +585,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/cc000e68823fefec0d3a5d37d2be169755cddba4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/99e0f5ffea4d352194cfa35a7f6cb32bd482b425.jpg",
       "hidden": true,
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "ACH_EndRoad": {
       "name": "The End of the Road",
@@ -601,7 +601,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/10b0c0ee3b55755557f3f84b5f5185356cf70619.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0fb5036eac5005b9271fea6fab030dd6a572fb75.jpg",
       "hidden": false,
-      "percent": "48.2"
+      "percent": "48.1"
     },
     "ACH_Lantern": {
       "name": "The Light in the Darkness",
@@ -617,7 +617,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/f5b1bc2a2a5cc963bb26fffca8b8e4bc8eb90f5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e9ec86f4ff0ad680aeb584ad0f3040e21a78089f.jpg",
       "hidden": true,
-      "percent": "41.7"
+      "percent": "41.6"
     },
     "ACH_Craft": {
       "name": "Tinkerer",
@@ -633,7 +633,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/77628ddc3ff12657f9462f8ed6b9595fba714980.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/90641a471bda8a6e89de929cc1cbde36ffe13fc2.jpg",
       "hidden": false,
-      "percent": "36.7"
+      "percent": "36.6"
     },
     "ACH_ChestOpen100": {
       "name": "Treasure Hunter",
@@ -649,7 +649,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/5fe330a3bdaba391ea43188040d4d0edc6591b5c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/2ae242fc93d27db4754425d456800eb053238aeb.jpg",
       "hidden": false,
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "ACH_Wainwright": {
       "name": "Wainwright",

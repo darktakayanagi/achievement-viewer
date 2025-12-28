@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/714177b96f24c10d360ae5a5913ef7221b1fb6c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/8f5a8589f664af2303af3889c35d15b1fc0425e7.jpg",
       "hidden": false,
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "301009": {
       "name": "Echoes Unbound",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b80a5dc0afd02df5ce3756474b75a2470aa78e7a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/4f9b49edf4beee0f100fd6f94be5a4913582543e.jpg",
       "hidden": false,
-      "percent": "13.0"
+      "percent": "13.1"
     },
     "1404001": {
       "name": "Feline Riddler - Kaifeng",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/224187d5ff5c54143a2933ab9a54f37fc4523713.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/340530084e80de7a7b23aadd4ee2571e43be2a04.jpg",
       "hidden": false,
-      "percent": "12.1"
+      "percent": "12.2"
     },
     "1405001": {
       "name": "Jinming Pool Secrets",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "5.9"
+      "percent": "6.0"
     },
     "1201020": {
       "name": "Life Goes to Dogs",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0d22dfe33b7189223198a68728048866e4137ca3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/64be07c626325cc801c6de51b663fc6f0d84b789.jpg",
       "hidden": false,
-      "percent": "5.1"
+      "percent": "5.2"
     },
     "1201002": {
       "name": "Past Secrets Unsung",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b13c92d81e381219e168f8c669964944e7db6910.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d73c50ca1cabf21c512382ccb3e28d252920ce5a.jpg",
       "hidden": false,
-      "percent": "3.0"
+      "percent": "3.1"
     },
     "301010": {
       "name": "Perfect Harmony",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
-      "percent": "19.2"
+      "percent": "19.3"
     },
     "1203005": {
       "name": "Qinghe · Seeker of Melodies",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/907236d55d310469b58e1251e28945d8a54edd36.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/42692b9a50fd39ae65fb6c3568ae6c68ca9b76e8.jpg",
       "hidden": false,
-      "percent": "1.2"
+      "percent": "1.3"
     },
     "1203003": {
       "name": "Quick on the Uptake - Qinghe",
@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "1.9"
+      "percent": "2.0"
     },
     "1201005": {
       "name": "Quirks of Fate - Qinghe",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
-      "percent": "11.4"
+      "percent": "11.5"
     },
     "1401015": {
       "name": "Savior of Kaifeng",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": false,
-      "percent": "3.2"
+      "percent": "3.4"
     },
     "301001": {
       "name": "Skill at Hand",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/b85670c7b09b0d8781f147eb3202aff3a15f953e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ab902727c2f39cccd601d811d19568bc452e8709.jpg",
       "hidden": false,
-      "percent": "2.5"
+      "percent": "2.6"
     },
     "1201018": {
       "name": "The Final Destiny - Qinghe",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
-      "percent": "8.1"
+      "percent": "8.2"
     }
   },
   "platform": null,

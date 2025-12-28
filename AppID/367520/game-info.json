@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/2d3e4c6217b6d911d8a211f3ab4f3f37e49a584c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
-      "percent": "47.1"
+      "percent": "47.2"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/378ed9b1dcccd43bfbf39295b17caad3fb398c64.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": false,
-      "percent": "25.8"
+      "percent": "25.9"
     },
     "DREAM_SOUL_MASTER_DEFEAT": {
       "name": "Mortality",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/11a174017fa3baa8169c362c0740deababb5c241.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
       "hidden": true,
-      "percent": "15.9"
+      "percent": "16.0"
     },
     "ZOTE": {
       "name": "Rivalry",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4d81411b14d5537f01df55ace0b63494875de2fc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9f449ef6aacd0ef2423439931ef68466cd762456.jpg",
       "hidden": true,
-      "percent": "26.3"
+      "percent": "26.4"
     },
     "TEACHER": {
       "name": "Teacher",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f35cd67af303aa5d609cd1183e9eb29295b302b7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": false,
-      "percent": "37.6"
+      "percent": "37.7"
     },
     "HORNET_1": {
       "name": "Test of Resolve",
@@ -505,7 +505,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9093ee5b02a988b32deedd9fe89b72c733ba0bf6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": false,
-      "percent": "25.1"
+      "percent": "25.2"
     }
   },
   "platform": null,

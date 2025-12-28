@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e981cfe9e87ff881b60ade613fdd07a421a8482c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "53.0"
+      "percent": "52.9"
     },
     "Defeat_Abberations_A": {
       "name": "Am I Seeing This?",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/9b2690565b42df570057cdb65165d1a9827c1d4e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "58.1"
+      "percent": "58.0"
     },
     "Obtain_Boss_Weapon": {
       "name": "Boss'n Up",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/3ad122fd656281eb8ebbffe206924b042d4a865d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "66.5"
+      "percent": "66.4"
     },
     "Obtain_Water_Harp_Item": {
       "name": "Carnage in C-Minor",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/f6e78aaaa239a9905f9eb605e77bd75c86b0c7ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "Obtain_Melee_Weapons_B": {
       "name": "Cutting Edge",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/bdd753ad6d2a612f32b92eff0d34973722481e4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "59.9"
+      "percent": "59.8"
     },
     "Obtain_Melee_Weapons_A": {
       "name": "Edgelord",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/072f27f9f86758e11850011eadd20c8460f10c52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "65.9"
+      "percent": "65.8"
     },
     "Obtain_Archetype": {
       "name": "First of Many",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/b3c161be7dba7be6465df1ba14593cc8b6af2fce.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "41.6"
+      "percent": "41.5"
     },
     "Defeat_Abberations_B": {
       "name": "Ghost in the Machine",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/1d7923cf61e15336a235518c15f8259c55c53fd7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "40.9"
+      "percent": "40.8"
     },
     "Upgrade_Relic": {
       "name": "Make Some Room",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e2b52e79c7ecec15299e717a27ac2069492028e7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "Upgrade_Traits_B": {
       "name": "Maxed Out!",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/79bb5f6885794c774e5a60149092187a597065a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "59.1"
+      "percent": "59.0"
     },
     "Defeat_Special_Enemies": {
       "name": "Not so special now",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/954da31bf70723ee5a0cc03cf9b3bead77500049.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "18.7"
+      "percent": "18.6"
     },
     "Defeat_Guardian": {
       "name": "Power Surge",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/0ee98f9bfbbefb6240004aff3a06a0500c1e4912.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "14.1"
+      "percent": "14.0"
     },
     "Defeat_World_Boss": {
       "name": "Quest for Survival",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/e65f31ccccdfe5a5851b6fd5c8481118b3f7505f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "39.0"
+      "percent": "38.9"
     },
     "Obtain_Scrap_B": {
       "name": "Scrap Hoarder",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/1c9aa55e7ed16f43a444072c86d4e4d5bfeebbea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "26.0"
+      "percent": "25.9"
     },
     "Obtain_Archetype_Secret": {
       "name": "Shhh...It's a Secret",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6060a3adb800e4e9ae0478b93043da90ea265018.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "51.6"
+      "percent": "51.5"
     },
     "DLC3_Obtain_Bastion": {
       "name": "Still Not a Janitor",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/a93d360d5938529e6696ed881b20c930bafc1883.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "96.2"
+      "percent": "96.1"
     },
     "DLC3_Obtain_Redeemer": {
       "name": "The Master Builder",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/305b7f7534e6beed1e6a31803e6684b644782c2d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "Obtain_Nightweaver_Item": {
       "name": "The Web",
@@ -465,7 +465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/6a59df7c19b075ba1c9365b76e174cc5633b4e2e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "43.0"
+      "percent": "42.9"
     },
     "Obtain_Archetype_Level": {
       "name": "Top Performer",
@@ -473,7 +473,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/fdaa0ed7a26beb9f7272862caae723d460663f5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "54.8"
+      "percent": "54.7"
     },
     "Upgrade_Traits_A": {
       "name": "Trait Chaser",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/018bdffbe7a348a2b8721abd8dd07ca91d4132f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "44.0"
+      "percent": "43.9"
     },
     "Upgrade_Weapon_Mutator": {
       "name": "Transmutate",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/413c25decfbb995a10e0b0eea1d224b657846779.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": true,
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "DLC2_Obtain_Crossbow": {
       "name": "Triple Takeover",
@@ -513,7 +513,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/dddd68062440ee7e333362e7092f50ac4940fff5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1282100/d31de1cf019f21c7fd349c82a8a2121e6bb7a966.jpg",
       "hidden": false,
-      "percent": "43.9"
+      "percent": "43.8"
     },
     "DLC1_Obtain_Warden_Reward": {
       "name": "You Shall Pass",

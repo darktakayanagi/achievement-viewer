@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/701cf6997ea9e3b5db01b4e16c6be3d78d9bc53a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/2e66a528810b39bd77dc323a8a4af4016e31b8b8.jpg",
       "hidden": false,
-      "percent": "61.6"
+      "percent": "61.5"
     },
     "ach_gauss_story_1": {
       "name": "Court Marshal",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/e5e47bae148cb1b96c6db6eb61bbede09d9c633b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/680420/b299b19e97d99a3c5d18da42431a7bfa86f049ed.jpg",
       "hidden": false,
-      "percent": "66.1"
+      "percent": "66.0"
     },
     "ach_character_level_2": {
       "name": "Leave Humanity Behind",

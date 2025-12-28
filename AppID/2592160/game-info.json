@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5c4cdac9708c65186c1de38523a496c8e34e1fbd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/31db4c4ed1846cbcfc98cfe3d431204acb3e8738.jpg",
       "hidden": true,
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "ACH_HIRED": {
       "name": "\"Did I drool on you?\"",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/42b1004edf6dd86a244d193e36d99f60f0ed15a0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f35b4548042299135a4b0eba3bb2cdf8f5485d11.jpg",
       "hidden": false,
-      "percent": "94.9"
+      "percent": "94.7"
     },
     "ACH_MENTOR_FAIL": {
       "name": "\"Didn’t see that coming?\"",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/e6c50f9386d221362513f39de7c414b42dfae4b1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/8a6c521cb57159eb907cd376f8b772de52a5fc57.jpg",
       "hidden": true,
-      "percent": "17.8"
+      "percent": "17.7"
     },
     "ACH_STRETCHER": {
       "name": "\"I'm a bleeder.\"",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/4ba70213820a654b7138d08da8e8dea1624ee710.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/6eef1f382de4cc380d1011a39773e61dbbe5292e.jpg",
       "hidden": true,
-      "percent": "55.2"
+      "percent": "55.1"
     },
     "ACH_DONUT": {
       "name": "\"Love ‘em from my mouth to my butt.\"",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/7a74f9bd3bbb51b988493dbafb5f881a5ea687ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/4ad7dc43a4e528268ed93a60bd19854aaeed7210.jpg",
       "hidden": true,
-      "percent": "36.9"
+      "percent": "36.8"
     },
     "ACH_VENGEANCE": {
       "name": "\"Muuuuurrrdaaaaah!\"",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/54c08cf55e7128f6f7f6b81f9369e2cdeb119549.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/da03fcb8a60937b593a831925aaf7df228861ed3.jpg",
       "hidden": true,
-      "percent": "72.7"
+      "percent": "72.6"
     },
     "ACH_STORE": {
       "name": "\"There. You happy now?\"",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5cc366a51bbcaaa98d72d0c3d9f73ec43b789198.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/a87b237764917ecbb47bacd874bba8a504524fd7.jpg",
       "hidden": false,
-      "percent": "91.1"
+      "percent": "91.0"
     },
     "ACH_VIRUS": {
       "name": "Anti-Antivirus Club",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/a21ae5ad24d664d2cec45cdbf0a44d4670d3dbf6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f116d0045c5f4a6f6dc562d1c3f3f503334ee64c.jpg",
       "hidden": false,
-      "percent": "70.9"
+      "percent": "70.8"
     },
     "ACH_DISPATCH_ALL": {
       "name": "Dispatched",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/7a8db5b8e1f907298e9082c515220f1c1235321a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5bd413563c6f24894925e8b721828a612eea7384.jpg",
       "hidden": false,
-      "percent": "80.1"
+      "percent": "80.0"
     },
     "ACH_POWER": {
       "name": "Getting to Know Yous",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/e1772f57fe1ed93e4660d41f3da30b486c30bd89.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/db966df611b8d5d004f99c16860ebc28e5a41d0b.jpg",
       "hidden": false,
-      "percent": "84.0"
+      "percent": "83.9"
     },
     "ACH_HACK_ALL": {
       "name": "H4ck3d by R0b3rt",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/baac92b282c5fb90fecf5982cad29132a1afb830.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/339bf3e483c7f95868cee5e075146df299dbe116.jpg",
       "hidden": false,
-      "percent": "50.9"
+      "percent": "50.8"
     },
     "ACH_SCEN_PERFECT": {
       "name": "Nailed It",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/f6a4602af3b222d2cf3e0628a58695cc478de3bb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9e0c238ba7f3f505c1dc8c18ba1c9bb1fc338959.jpg",
       "hidden": false,
-      "percent": "81.7"
+      "percent": "81.6"
     },
     "ACH_SCEN_MAX": {
       "name": "Overkill",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/85d9f1dd49969cedec6f4a91158b215485b7c436.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/5635b07c4074b4fbc817c5ff4d60c392d4291b5a.jpg",
       "hidden": false,
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "ACH_HEAL_TWICE": {
       "name": "Phoenixes Down",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/aaedbfe5c2aac4a2a57b089a03c58b8643e28f85.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/1151d73c5d28faf958910066a46f9690ed973ae7.jpg",
       "hidden": false,
-      "percent": "82.3"
+      "percent": "82.2"
     },
     "ACH_PERFECT": {
       "name": "Shift Was Lit",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/9082b1a259f8666dac4219ed755c4798769c30d8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2592160/82a429f82a41c6a3339ec2f2367de2bf6574f70a.jpg",
       "hidden": false,
-      "percent": "73.0"
+      "percent": "72.9"
     },
     "ACH_HACK_SLOW": {
       "name": "Time's Running Out",
