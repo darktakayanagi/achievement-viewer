@@ -68,7 +68,7 @@ Your `{AppID}.db` should look like this:
 ]
 ```
 
-### 6. Verify It's Working
+### Verify It's Working
 
 Visit your GitHub Pages URL and you should see your achievement viewer!
 
@@ -114,14 +114,14 @@ your-repo/ (user branch)
 ## 🎮 Features
 
 - **Automatic Steam Integration** - Fetches game names, icons, and achievement details
-- **Hidden Achievement Support** - Scrapes descriptions from public Steam profiles
+- **Hidden Achievement Support** - Retrieves hidden achievement descriptions
 - **Rarity Display** - Shows how many players have each achievement
 - **Golden Glow** - Rare achievements (<10%) get a special animated effect
 - **Spoiler Protection** - Hidden achievements show spoiler text (hover to reveal)
 - **Sorting Options** - Sort by completion % or recent activity
 - **Perfect Games Tracking** - Shows your 100% completed games
 - **Responsive Design** - Works on desktop and mobile
-- **6-Column Grid** - Compact view of all your games
+- **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
 
 ## 🔧 Customization
 
@@ -152,8 +152,7 @@ The workflow runs daily at midnight UTC, or manually:
 
 ### Required (Minimum Setup):
 
-✅ `index.html` (this file)
-✅ `AppID/[Steam AppID]/achievements.json` files with your achievement data
+✅ Supported achievement data file in `AppID/[Steam AppID]/` with your unlocked achievement data
 ✅ GitHub Pages enabled
 
 ### Optional (Enhanced Features):
