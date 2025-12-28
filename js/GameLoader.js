@@ -158,11 +158,32 @@ export async function init() {
     userInfo = getGitHubUserInfo();
     baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
   }
+  // --- NEW: Fetch correct casing from GitHub API (Hub Logic) ---
+  try {
+    // Only try to fetch if we are actually on a GitHub Pages site (not local/default)
+    if (userInfo.username !== 'User') {
+        const repoResponse = await fetch(`https://api.github.com/repos/${userInfo.username}/${userInfo.repo}`);
+        if (repoResponse.ok) {
+            const repoData = await repoResponse.json();
+            
+            // Apply the correctly cased username and repo name
+            userInfo.username = repoData.owner.login;
+            userInfo.repo = repoData.name;
+            
+            // Update the base URL with the corrected names
+            baseUrl = `https://raw.githubusercontent.com/${userInfo.username}/${userInfo.repo}/user/`;
+        }
+    }
+  } catch (e) {
+    console.log('Could not fetch repo info for casing correction', e);
+  }
+  // -----------------------------------------------------------
+
   window.githubUsername = userInfo.username;
   window.githubAvatarUrl = userInfo.avatarUrl;
 
 try {
-    // Általános gamercard.html betöltése
+    // Loading gamercard.html
     const cardResponse = await fetch(baseUrl + 'gamercard.html');
     if (cardResponse.ok) {
       window.gamerCardHTML = await cardResponse.text();
