@@ -351,9 +351,9 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
             <div class="comparison-unavailable">
                 <div class="comparison-unavailable-icon">🔒</div>
                 <h3>No Achievements to Compare</h3>
-                <p>User <strong>${ownUsername || 'Unknown'}</strong> doesn't have achievement data for <strong>${theirGame.name}</strong>.</p>
+                <p><strong>You</strong> don't have achievement data for <strong>${theirGame.name}</strong>.</p>
                 <p style="margin-top: 10px; font-size: 0.9em; color: #8f98a0;">
-                    Try comparing with a different user.
+                    Try another game.
                 </p>
                 <button class="compare-button" onclick="window.changeComparisonUser()" style="margin-top: 15px;">
                     🔄 Select Different User
