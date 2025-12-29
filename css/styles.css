@@ -1167,14 +1167,33 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 
 /* Search Bar Styles */
 .search-container {
-    text-align: center;
     margin: 0 auto 20px auto;
-    max-width: 600px;
+    max-width: 700px;
     padding: 0 20px;
 }
 
-.search-container.hidden {
-    display: none !important;
+.search-wrapper {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+#search-type {
+    padding: 12px 15px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid #3d5a6c;
+    border-radius: 25px;
+    color: #c7d5e0;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    min-width: 150px;
+}
+
+#search-type:focus, #search-type:hover {
+    border-color: #66c0f4;
+    background: rgba(0, 0, 0, 0.6);
 }
 
 #game-search {

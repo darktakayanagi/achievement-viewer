@@ -28,7 +28,15 @@
         <div id="summary" style="display: none;"></div>
 
         <div id="search-container" class="search-container" style="display: none;">
-            <input type="text" id="game-search" placeholder="Search games, achievements, platforms..." oninput="window.setSearchTerm(this.value)">
+            <div class="search-wrapper">
+                <select id="search-type" onchange="window.setSearchType(this.value)">
+                    <option value="name">Game Name</option>
+                    <option value="appid">Steam AppID</option>
+                    <option value="platform">Platform</option>
+                    <option value="achievement">Achievement Info</option>
+                </select>
+                <input type="text" id="game-search" placeholder="Search..." oninput="window.setSearchTerm(this.value)">
+            </div>
         </div>
 
         <div id="results"></div>

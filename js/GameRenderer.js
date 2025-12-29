@@ -9,15 +9,20 @@ import {
     getVisitorUsername
 } from './GameCompare.js';
 
-// NEW: Global search state
+// UPDATED: Global search state (Default is now 'name')
 let currentSearchTerm = '';
+let currentSearchType = 'name'; 
 
-// NEW: Search handler
+// UPDATED: Search handlers
 window.setSearchTerm = function(term) {
     currentSearchTerm = term;
     displayGames();
 };
 
+window.setSearchType = function(type) {
+    currentSearchType = type;
+    displayGames();
+};
 // Displaying games
 export function displayGames() {
     const resultsDiv = document.getElementById('results');
