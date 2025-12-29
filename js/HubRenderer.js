@@ -125,7 +125,9 @@ function renderFiltered() {
   let filtered = allUsers.filter((u) => u.login.toLowerCase().includes(searchTerm));
 
   // Sort the filtered list
-  if (sortMode === 'az') {
+  if (sortMode === 'default') {
+    // Do nothing - keep original order (main user first, then forks in API order)
+  } else if (sortMode === 'az') {
     filtered.sort((a, b) => a.login.localeCompare(b.login));
   } else if (sortMode === 'za') {
     filtered.sort((a, b) => b.login.localeCompare(a.login));
