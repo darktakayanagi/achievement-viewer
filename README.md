@@ -187,7 +187,7 @@ The workflow runs daily at midnight UTC, or manually:
 - **Perfect Games Tracking** - Shows your 100% completed games
 - **Responsive Design** - Works on desktop and mobile
 - **The Hub feature** - A community interface. Everybody who forks the [main repo](https://github.com/Roschach96/achievement-viewer) automatically gets added to it.
-- **Compare achievements** - You have to select yourself on every user's profile once so the website will know who you are. (Even on yours, but then the button disappears because no point in comparing to yourself. This is saved to "Cookies and Site Data")
+- **Compare achievements** - From your profile go to the Hub ("Open Hub" button in the upper right) and press on the user you want to be compared to.
 
 ## 📄 License
 
