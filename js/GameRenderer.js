@@ -28,6 +28,7 @@ export function displayGames() {
     let totalUnlocked = 0;
     let perfectGames = 0;
 
+
     for (let game of gamesData.values()) {
         totalAchievements += game.achievements.length;
         const unlocked = game.achievements.filter(a => a.unlocked).length;
@@ -36,6 +37,9 @@ export function displayGames() {
         if (game.achievements.length > 0 && unlocked === game.achievements.length) {
             perfectGames++;
         }
+
+
+
     }
 
     const overallPercentage = calculatePercentage(totalUnlocked, totalAchievements);
@@ -52,6 +56,13 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
 
     const gamerCard = window.gamerCardHTML || '';
 
+
+
+
+
+
+
+
     summaryDiv.innerHTML = `
         <div class="summary" id="summary-box">
             <div class="summary-header">
@@ -64,17 +75,37 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                     <h2 style="color: #66c0f4; margin: 0;">
                         <span>${window.githubUsername}</span>'s summary
                     </h2>
+
+
+
+
+
                 </div>
 
                 ${gamerCard ? `
                 <div class="gamer-card-container">
                     ${gamerCard}
+
+
                 </div>
                 ` : ''}
             </div>
             
             <div class="progress-bar" style="max-width: 600px; margin: 0 auto;">
                 <div class="progress-fill ${overallPercentage < 6 ? 'low-percentage' : ''}" style="width: ${overallPercentage}%">${overallPercentage}%</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
             </div>
             
             <div class="summary-stats">
@@ -97,6 +128,12 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
                     <div class="stat-label">Completion</div>
                 </div>
             </div>
+
+
+
+
+
+
         </div>
     `;
 }
@@ -141,6 +178,15 @@ function sortGames(mode) {
             
             if (aMaxTime === bMaxTime) {
                 return a.name.localeCompare(b.name);
+
+
+
+
+
+
+
+
+
             }
             
             return bMaxTime - aMaxTime;
@@ -152,6 +198,35 @@ function sortGames(mode) {
             const bUnlocked = b.achievements.filter(x => x.unlocked).length;
             const bTotal = b.achievements.length;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             const aPercent = calculatePercentage(aUnlocked, aTotal);
             const bPercent = calculatePercentage(bUnlocked, bTotal);
 
@@ -159,8 +234,17 @@ function sortGames(mode) {
                 return a.name.localeCompare(b.name);
             }
 
+
+
+
+
             return bPercent - aPercent;
         });
+
+
+
+
+
     }
 }
 
@@ -179,7 +263,7 @@ function renderGameCard(game, percentage) {
                 <div class="game-header">
                     ${game.icon ? 
                         `<img src="${game.icon}" alt="${game.name}" class="game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
-                        `<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="game-icon">`}
+                        '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="game-icon">'}
                     <div class="game-info">
                         <div class="game-title">${game.name}</div>
                         <div class="game-appid">AppID: ${game.appId}</div>
@@ -202,16 +286,64 @@ export function showGameDetail(appId, updateUrl = true) {
     const game = gamesData.get(appId);
     if (!game) return;
 
+
+
+
+
+
+
+
+
+
+
+
+
     // Only update URL if not called from handleDeepLink or popstate
     if (updateUrl) {
         const newUrl = new URL(window.location.href);
         newUrl.searchParams.set('game', appId);
         window.history.pushState({ appId }, '', newUrl);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
+
 
     const unlocked = game.achievements.filter(a => a.unlocked).length;
     const total = game.achievements.length;
     const percentage = calculatePercentage(unlocked, total);
+
+
+
+
 
     window.currentGameData = {
         appId: appId,
@@ -227,8 +359,24 @@ export function showGameDetail(appId, updateUrl = true) {
     renderGameDetail();
 }
 
+
+
 export function renderGameDetail() {
     const { appId, game, unlocked, total, percentage, sortMode, compareMode } = window.currentGameData;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     document.getElementById('games-grid').classList.add('hidden');
     document.getElementById('summary-box').classList.add('hidden');
@@ -249,6 +397,8 @@ export function renderGameDetail() {
     if (compareMode) {
         setupComparisonFilters();
     }
+
+
 }
 
 // Normal view with compare button
@@ -274,16 +424,17 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         unlockedAchievements.sort((a, b) => (a.unlocktime || 0) - (b.unlocktime || 0));
     }
 
-    // Check for "Passport" (Visitor)
-    const visitor = getStoredUsername();
-    
-    // Show compare button ONLY if we have a stored user AND it's not the own profile
-    // Guests (no stored user) will not see this button
-    const compareButton = (visitor && !isOwnProfile()) ? `
+    // Show compare button if not own profile
+    const compareButton = !isOwnProfile() ? `
         <button class="compare-button" onclick="window.enableCompareMode()">
             🔄 Compare Achievements
         </button>
     ` : '';
+
+
+
+
+
 
     return `
         <button class="back-button" onclick="window.hideGameDetail()">
@@ -293,7 +444,7 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         <div class="detail-header">
             ${game.icon ? 
                 `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
-                `<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">`}
+                '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
             <div class="detail-game-info">
                 <div class="detail-game-title">${game.name}</div>
                 <div class="detail-game-appid">AppID: ${game.appId}</div>
@@ -311,6 +462,18 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
                         <div class="stat-value">${total - unlocked}</div>
                         <div class="stat-label">Remaining</div>
                     </div>
+
+
+
+
+
+
+
+
+
+
+
+
                 </div>
                 
                 ${compareButton}
@@ -319,6 +482,24 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
         
         <div class="achievements-list">
             ${unlockedAchievements.length > 0 ? `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 <h3 class="achievements-section-title">Unlocked Achievements</h3>
                 <div class="sort-controls">
                     <button class="sort-button ${sortMode === 'rarity-asc' ? 'active' : ''}" onclick="window.setSortMode('rarity-asc')" data-tooltip="Rarest First">
@@ -361,7 +542,7 @@ function renderDetailViewWithComparison(game, unlocked, total, percentage) {
         <div class="detail-header">
             ${game.icon ? 
                 `<img src="${game.icon}" alt="${game.name}" class="detail-game-icon" onerror="this.src='https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image'">` : 
-                `<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">`}
+                '<img src="https://via.placeholder.com/460x215/3d5a6c/ffffff?text=No+Image" class="detail-game-icon">'}
             <div class="detail-game-info">
                 <div class="detail-game-title">${game.name}</div>
                 <div class="detail-game-appid">AppID: ${game.appId}</div>
@@ -390,6 +571,7 @@ function renderAchievement(ach, isUnlocked) {
 
     let descriptionHTML = '';
 
+
     if (isHidden) {
         if (hasDescription) {
             descriptionHTML = `<div class="achievement-desc hidden-spoiler">Hidden achievement:<span class="hidden-spoiler-text">${ach.description}</span></div>`;
@@ -402,6 +584,14 @@ function renderAchievement(ach, isUnlocked) {
         } else {
             descriptionHTML = `<div class="achievement-desc hidden-desc">Hidden achievement</div>`;
         }
+
+
+
+
+
+
+
+
     }
 
     return `
@@ -419,6 +609,7 @@ function renderAchievement(ach, isUnlocked) {
                     `<div class="achievement-rarity ${isRare ? 'rarity-rare' : ''}">${rarityNum.toFixed(1)}% of players have this</div>` : 
                     ''}
             </div>
+
         </div>
     `;
 }
@@ -457,12 +648,16 @@ export function handleDeepLink() {
 window.enableCompareMode = async function() {
     const { appId, game } = window.currentGameData;
     
-    // 1. Check if we have a stored user
+    // 1. Check if we already have a stored user
     const storedUser = getStoredUsername();
     
-    // 2. Security Check: If no user is stored (Guest), abort.
+    // 2. Only show the selection modal if NO user is stored
     if (!storedUser) {
-        return;
+        const selected = await selectComparisonUser();
+        if (!selected) {
+            // User cancelled the modal
+            return;
+        }
     }
     
     // 3. Proceed immediately to loading (uses the stored user automatically)
