@@ -163,6 +163,11 @@ function renderGamesGrid(resultsDiv) {
                     data-tooltip="Sort by Most Recent Achievement">
                 🕐 Recent Activity
             </button>
+            <button class="grid-sort-button ${window.gridSortMode === 'name' ? 'active' : ''}" 
+                    onclick="window.setGridSortMode('name')" 
+                    data-tooltip="Sort by Game Name">
+                🅰️ Name
+            </button>
         </div>
     `;
 
@@ -237,8 +242,16 @@ function renderGamesGrid(resultsDiv) {
     }
 }
 
+// UPDATED: sortGames now handles 'name'
 function sortGames(mode) {
-    if (mode === 'recent') {
+    // 1. Sort by Name (Alphabetical)
+    if (mode === 'name') {
+        return Array.from(gamesData.values()).sort((a, b) => {
+            return a.name.localeCompare(b.name);
+        });
+    } 
+    // 2. Sort by Recent Activity
+    else if (mode === 'recent') {
         return Array.from(gamesData.values()).sort((a, b) => {
             const aMaxTime = Math.max(...a.achievements.filter(ach => ach.unlocked).map(ach => ach.unlocktime || 0));
             const bMaxTime = Math.max(...b.achievements.filter(ach => ach.unlocked).map(ach => ach.unlocktime || 0));
@@ -249,7 +262,9 @@ function sortGames(mode) {
             
             return bMaxTime - aMaxTime;
         });
-    } else {
+    } 
+    // 3. Default (Percentage)
+    else {
         return Array.from(gamesData.values()).sort((a, b) => {
             const aUnlocked = a.achievements.filter(x => x.unlocked).length;
             const aTotal = a.achievements.length;
