@@ -1,5 +1,8 @@
 import { detectRepo, resolveRootRepo, fetchAllForks, fetchJSON } from './utils.js';
 
+// Store Hub Owner globally so renderFiltered can use it
+let hubOwner = '';
+
 async function loadGameData(person) {
   const url = `https://raw.githubusercontent.com/${person.login}/${person.repo || 'achievement-viewer'}/user/game-data.json`;
   const data = await fetchJSON(url);
@@ -71,11 +74,6 @@ async function loadGameData(person) {
   return person;
 }
 
-// Get the current visitor from the URL to pass along
-function getVisitorParam() {
-    return new URLSearchParams(window.location.search).get('vs');
-}
-
 async function addUserToGrid(person) {
   const grid = document.getElementById('grid');
 
@@ -110,10 +108,9 @@ async function addUserToGrid(person) {
   card.addEventListener('mousedown', (e) => {
     let url = `https://${person.login}.github.io/${person.repo || 'achievement-viewer'}/`;
     
-    // Pass visitor identity to the destination
-    const visitor = getVisitorParam();
-    if (visitor) {
-      url += `?vs=${visitor}`;
+    // ✅ PASSPORT LOGIC: Append the Hub Owner as the 'vs' parameter
+    if (hubOwner) {
+      url += `?vs=${hubOwner}`;
     }
 
     if (e.button === 0 || e.button === 1) {
@@ -138,7 +135,7 @@ function renderFiltered() {
 
   // Sort the filtered list
   if (sortMode === 'default') {
-    // Do nothing - keep original order (main user first, then forks in API order)
+    // Do nothing
   } else if (sortMode === 'az') {
     filtered.sort((a, b) => a.login.localeCompare(b.login));
   } else if (sortMode === 'za') {
@@ -178,10 +175,9 @@ function renderFiltered() {
     card.addEventListener('mousedown', (e) => {
       let url = `https://${user.login}.github.io/${user.repo || 'achievement-viewer'}/`;
       
-      // Pass visitor identity to the destination
-      const visitor = getVisitorParam();
-      if (visitor) {
-        url += `?vs=${visitor}`;
+      // ✅ PASSPORT LOGIC: Append the Hub Owner as the 'vs' parameter
+      if (hubOwner) {
+        url += `?vs=${hubOwner}`;
       }
 
       if (e.button === 0 || e.button === 1) {
@@ -203,6 +199,9 @@ function renderFiltered() {
   if (!current) return;
 
   const root = await resolveRootRepo(current.owner, current.repo);
+  
+  // ✅ SET HUB OWNER: This is the user "we opened the hub from originally"
+  hubOwner = root.owner;
 
   // Main repo user
   const mainUser = {

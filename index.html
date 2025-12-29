@@ -75,15 +75,7 @@
       const hubBtn = document.getElementById('hub-button');
       if (hubBtn) {
         hubBtn.addEventListener('click', () => {
-          let hubUrl = 'hub.html';
-          
-          // Preserve the 'vs' parameter from the current URL
-          const vs = new URLSearchParams(window.location.search).get('vs');
-          if (vs) {
-            hubUrl += `?vs=${vs}`;
-          }
-          
-          window.location.href = hubUrl;
+          window.location.href = 'hub.html';
         });
       }
     </script>
