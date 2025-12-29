@@ -78,7 +78,7 @@ export async function selectComparisonUser() {
     // Fetch users
     const users = await fetchAvailableUsers();
     
-    // ✅ Show ALL users (including the current page owner)
+    // Show ALL users (including the current page owner)
     const availableUsers = users;
     
     if (availableUsers.length === 0) {
@@ -347,6 +347,10 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
 
     const stats = getComparisonStats(comparisonData.comparison);
     
+    // Separate achievements: unlocked (any status except both-locked) vs locked (both-locked)
+    const unlockedList = comparisonData.comparison.filter(a => a.status !== 'both-locked');
+    const lockedList = comparisonData.comparison.filter(a => a.status === 'both-locked');
+
     return `
         <div class="comparison-header">
             <div class="comparison-users">
@@ -394,14 +398,19 @@ export function renderComparisonView(theirGame, comparisonData, theirUsername) {
         </div>
 
         <div class="comparison-achievements" id="comparison-achievements-list">
-            ${comparisonData.comparison.map(ach => renderComparisonAchievement(ach)).join('')}
+            ${unlockedList.length > 0 ? `
+                <h3 class="achievements-section-title">Unlocked Achievements</h3>
+                ${unlockedList.map(ach => renderComparisonAchievement(ach)).join('')}
+            ` : ''}
+            
+            ${lockedList.length > 0 ? `
+                <h3 class="achievements-section-title locked-title">Locked Achievements</h3>
+                ${lockedList.map(ach => renderComparisonAchievement(ach)).join('')}
+            ` : ''}
         </div>
     `;
 }
 
-/**
- * Renders a single achievement in comparison mode
- */
 function renderComparisonAchievement(ach) {
     const isHidden = ach.hidden === true || ach.hidden === 1;
     const hasDescription = ach.description && ach.description.trim() !== '';
@@ -446,8 +455,6 @@ function renderComparisonAchievement(ach) {
             break;
     }
 
-    // Logic: If the achievement is colored (unlocked for ANYONE), use colored icon.
-    // If it's 'both-locked', use the gray icon.
     const showColor = ach.status !== 'both-locked';
     const iconSrc = showColor ? ach.icon : (ach.icongray || ach.icon);
 
@@ -478,11 +485,8 @@ function formatDate(timestamp) {
     return new Date(timestamp * 1000).toLocaleDateString();
 }
 
-/**
- * Sets up filter button handlers
- */
 export function setupComparisonFilters() {
-    const filterButtons = document.querySelectorAll('.comparison-filter-btn');
+    const filterButtons = document.querySelectorAll('.comparison-filter-btn[data-filter]');
     const achievementsList = document.getElementById('comparison-achievements-list');
     
     if (!filterButtons.length || !achievementsList) return;
@@ -505,9 +509,7 @@ export function setupComparisonFilters() {
     });
 }
 
-/**
- * Allow user to change the comparison username
- */
+// Add function to change comparison user
 export async function changeComparisonUser() {
     const selected = await selectComparisonUser();
     
