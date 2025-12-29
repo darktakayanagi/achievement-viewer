@@ -9,16 +9,32 @@ import {
     getVisitorUsername
 } from './GameCompare.js';
 
+// NEW: Global search state
+let currentSearchTerm = '';
+
+// NEW: Search handler
+window.setSearchTerm = function(term) {
+    currentSearchTerm = term;
+    displayGames();
+};
+
 // Displaying games
 export function displayGames() {
     const resultsDiv = document.getElementById('results');
     const summaryDiv = document.getElementById('summary');
+    const searchDiv = document.getElementById('search-container');
 
     document.getElementById('loading').style.display = 'none';
 
     if (gamesData.size === 0) {
         resultsDiv.innerHTML = '<div class="error">No games with achievements found.</div>';
         return;
+    }
+
+    // NEW: Show search bar
+    if (searchDiv) {
+        searchDiv.style.display = 'block';
+        searchDiv.classList.remove('hidden');
     }
 
     // Calculate totals
@@ -118,14 +134,47 @@ function renderGamesGrid(resultsDiv) {
 
     let html = '<div class="games-grid" id="games-grid">';
 
-    const sortedGames = sortGames(window.gridSortMode || 'percentage');
+    let sortedGames = sortGames(window.gridSortMode || 'percentage');
 
+    // NEW: Apply Search Filter
+    if (currentSearchTerm) {
+        const term = currentSearchTerm.toLowerCase().trim();
+        if (term) {
+            sortedGames = sortedGames.filter(game => {
+                // 1. Search by Name
+                if (game.name.toLowerCase().includes(term)) return true;
+                
+                // 2. Search by AppID
+                if (game.appId.includes(term)) return true;
+                
+                // 3. Search by Platform
+                const platform = game.platform || (game.usesDb ? 'Steam' : '');
+                if (platform.toLowerCase().includes(term)) return true;
+                
+                // 4. Search by Achievements (Name, Description, API Name)
+                if (game.achievements.some(ach => 
+                    (ach.name && ach.name.toLowerCase().includes(term)) || 
+                    (ach.description && ach.description.toLowerCase().includes(term)) ||
+                    (ach.apiname && ach.apiname.toLowerCase().includes(term))
+                )) return true;
+
+                return false;
+            });
+        }
+    }
+
+    if (sortedGames.length === 0) {
+        html += `<div style="grid-column: 1/-1; text-align: center; color: #8f98a0; padding: 40px; font-size: 1.2em;">
+                    No games found matching "${currentSearchTerm}"
+                 </div>`;
+    } else {
     for (let game of sortedGames) {
         const unlocked = game.achievements.filter(a => a.unlocked).length;
         const total = game.achievements.length;
         const percentage = calculatePercentage(unlocked, total);
 
         html += renderGameCard(game, percentage);
+        }
     }
 
     html += '</div>';
@@ -232,6 +281,10 @@ export function renderGameDetail() {
     document.getElementById('games-grid').classList.add('hidden');
     document.getElementById('summary-box').classList.add('hidden');
     document.getElementById('grid-sort-controls').classList.add('hidden');
+    
+    // NEW: Hide search bar in detail view
+    const searchContainer = document.getElementById('search-container');
+    if (searchContainer) searchContainer.classList.add('hidden');
 
     const detailView = document.getElementById('detail-view');
     
@@ -433,6 +486,11 @@ export function hideGameDetail() {
     document.getElementById('games-grid').classList.remove('hidden');
     document.getElementById('summary-box').classList.remove('hidden');
     document.getElementById('grid-sort-controls').classList.remove('hidden');
+    
+    // NEW: Show search bar when returning to grid
+    const searchContainer = document.getElementById('search-container');
+    if (searchContainer) searchContainer.classList.remove('hidden');
+
     window.scrollTo(0, 0);
 }
 
