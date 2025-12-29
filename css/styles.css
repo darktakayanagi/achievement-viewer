@@ -601,13 +601,14 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
     }
 }
     
+/* Ensure the sort controls align center */
 .grid-sort-controls {
     display: flex;
     justify-content: center;
-    gap: 15px;
-    margin-bottom: 25px;
+    gap: 10px;
+    margin-bottom: 20px;
+    flex-wrap: wrap; /* Safe for mobile */
 }
-
 .grid-sort-controls.hidden {
     display: none;
 }
@@ -1234,4 +1235,10 @@ box-shadow: 0 0 15px 3px rgba(255, 215, 0, 0.8),
 #search-type:focus, #game-search:focus {
     outline: none;
     box-shadow: none;
+}
+
+/* Optional: Make the search toggle square-ish */
+#search-toggle-btn {
+    min-width: 44px; /* Standard touch target size */
+    padding: 8px 12px;
 }

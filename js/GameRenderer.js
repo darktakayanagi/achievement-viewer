@@ -23,7 +23,31 @@ window.setSearchType = function(type) {
     currentSearchType = type;
     displayGames();
 };
-// Displaying games
+
+// NEW: Toggle Search Visibility
+window.toggleSearch = function() {
+    const searchContainer = document.getElementById('search-container');
+    const searchBtn = document.getElementById('search-toggle-btn');
+    
+    // Check if it is currently hidden (either via display style or class)
+    const isHidden = searchContainer.style.display === 'none' || searchContainer.classList.contains('hidden');
+    
+    if (isHidden) {
+        // Show it
+        searchContainer.style.display = 'block';
+        searchContainer.classList.remove('hidden');
+        if (searchBtn) searchBtn.classList.add('active');
+        
+        // Auto-focus the input
+        const input = document.getElementById('game-search');
+        if (input) input.focus();
+    } else {
+        // Hide it
+        searchContainer.style.display = 'none';
+        if (searchBtn) searchBtn.classList.remove('active');
+    }
+};
+
 export function displayGames() {
     const resultsDiv = document.getElementById('results');
     const summaryDiv = document.getElementById('summary');
@@ -38,7 +62,6 @@ export function displayGames() {
 
     // NEW: Show search bar
     if (searchDiv) {
-        searchDiv.style.display = 'block';
         searchDiv.classList.remove('hidden');
     }
 
@@ -118,8 +141,18 @@ function renderSummary(summaryDiv, totalGames, perfectGames, totalUnlocked, tota
 }
 
 function renderGamesGrid(resultsDiv) {
+    // Check state for button styling
+    const isSearchOpen = document.getElementById('search-container')?.style.display !== 'none';
+
     const sortControlsHTML = `
         <div class="grid-sort-controls" id="grid-sort-controls">
+            <button id="search-toggle-btn" 
+                    class="grid-sort-button ${isSearchOpen ? 'active' : ''}" 
+                    onclick="window.toggleSearch()" 
+                    data-tooltip="Search / Filter">
+                🔍
+            </button>
+
             <button class="grid-sort-button ${window.gridSortMode === 'percentage' ? 'active' : ''}" 
                     onclick="window.setGridSortMode('percentage')" 
                     data-tooltip="Sort by Completion Percentage">
@@ -185,6 +218,7 @@ function renderGamesGrid(resultsDiv) {
                  </div>`;
     } else {
     for (let game of sortedGames) {
+            // ... render card ...
         const unlocked = game.achievements.filter(a => a.unlocked).length;
         const total = game.achievements.length;
         const percentage = calculatePercentage(unlocked, total);
@@ -196,9 +230,9 @@ function renderGamesGrid(resultsDiv) {
     html += '</div>';
     resultsDiv.innerHTML = sortControlsHTML + html;
     
-    // Maintain focus
+    // Focus maintenance is handled by toggleSearch, but we can keep the safety check here
     const searchInput = document.getElementById('game-search');
-    if (searchInput && currentSearchTerm) {
+    if (searchInput && currentSearchTerm && isSearchOpen) {
         searchInput.focus();
     }
 }
