@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/a8cee125b3e5e86be6bf7112633b3fe934eff9e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/666e148f4d70c6c94c7e9d018645b8bb68d94062.jpg",
       "hidden": false,
-      "percent": "59.8"
+      "percent": "59.9"
     },
     "AchBossTonnage4": {
       "name": "1,000 Megatons!",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/2590b8dcdd5a0f13f9855f1e6942b2002442cdcb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/e49caf20b57eddefe42f2bfac526cd052413342b.jpg",
       "hidden": false,
-      "percent": "29.2"
+      "percent": "29.3"
     },
     "AchCompTracks50": {
       "name": "50 Tracks",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f842bc78b9c0b511952535996f378acad25f0861.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/5a19633e1a160d9e379137fbfa4fd478a824ecd6.jpg",
       "hidden": false,
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "AchGalaxy_WraithTracks": {
       "name": "Apparition",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/7d3b0cb98df966b43b5f3d3e7f2af3fa86717fe3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/3de7efb87d6184293c9e399eef57e0f0e5770891.jpg",
       "hidden": false,
-      "percent": "6.6"
+      "percent": "6.5"
     },
     "AchShip4": {
       "name": "Burn It Up",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/b4bc22b40daa26f759e030356dc9ae46f0e88e0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
-      "percent": "1.5"
+      "percent": "1.4"
     },
     "AchGalaxy_FullScan": {
       "name": "Full Sensor Sweep",
@@ -441,7 +441,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/b4bc22b40daa26f759e030356dc9ae46f0e88e0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/c13a99261367982bb0b672bd78f36e40dfaf6bce.jpg",
       "hidden": false,
-      "percent": "1.4"
+      "percent": "1.3"
     },
     "AchGalaxy_Wraith": {
       "name": "Galactic Relic!",
@@ -601,7 +601,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/47723cb0918f600f00c55e683ec75e0d6b6f7e81.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/bc64268f9d9a7167ac45d963a1d86ada12ea25b3.jpg",
       "hidden": false,
-      "percent": "4.4"
+      "percent": "4.2"
     },
     "AchShipTracks2": {
       "name": "Malaria",
@@ -625,7 +625,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f6b872c83cd4d1990519e379886aed6c9a0a56c2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/54daa2d1460973460f18029ba74dcc1c6b1385ba.jpg",
       "hidden": false,
-      "percent": "1.2"
+      "percent": "1.1"
     },
     "AchSkills_AllPickups": {
       "name": "Nom nom nom",
@@ -737,7 +737,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/da17f033f799b3412a58ff737d081963bd0320db.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1493520/f0f700cc5be52effc78065adf775cb1e9290a061.jpg",
       "hidden": false,
-      "percent": "18.3"
+      "percent": "18.2"
     },
     "AchCompOST10": {
       "name": "Stadium Wave",

@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/3a038d4447457dee981281742d1e1c5dfa29b16d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/429faf4b747738e71b46e0d352e9683dad019f33.jpg",
       "hidden": false,
-      "percent": "14.4"
+      "percent": "14.3"
     },
     "ACH_KILL_SPECIAL_WITH_BARREL": {
       "name": "BARREL ROLLED",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/81522571f3f42048be3e9985a05f7206f7d35e5e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/4f56a3e9550c8097c51fa3e55daa4628bbb79a2d.jpg",
       "hidden": false,
-      "percent": "67.6"
+      "percent": "67.7"
     },
     "ACH_COLLECT_GOLDEN_CROWBARS": {
       "name": "GOLDEN FREEMAN",
@@ -553,7 +553,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/7e7d9018a52b03503ac5e3c626932fb7056a9645.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/91ae62212f163f234cc3589f9828cc3cf8a79045.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ACH_VS_PREVENT_SACRIFICE": {
       "name": "SACRIFIZZLE",
@@ -769,7 +769,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/6378d5648f017f2c1039b927f7e4995fd4cc87ab.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/550/bbdbc3e9dde37cf3e5dacc5b38e6c30f9e7410dd.jpg",
       "hidden": false,
-      "percent": "7.1"
+      "percent": "7.2"
     },
     "ACH_IMPOUND_LOT_NO_ALARMS": {
       "name": "VIOLENCE IN SILENCE",

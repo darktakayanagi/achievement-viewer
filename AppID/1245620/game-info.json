@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/8aa5c2120ca0ec1abd63fc4ab5afea919acadfc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "41.9"
+      "percent": "42.0"
     },
     "ACH33": {
       "name": "Astel, Naturalborn of the Void",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/0433665a5dcab392aa2cf08a4e8c8eeb1d4d871a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACH38": {
       "name": "Commander Niall",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/3c7586bd5b56c262aa837c4307eba8fc2ea2ad7f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "44.1"
+      "percent": "44.2"
     },
     "ACH22": {
       "name": "Dragonkin Soldier of Nokstella",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/8e6a8ac9aa06923f2139f3308170f384989d5a82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "39.3"
+      "percent": "39.4"
     },
     "ACH12": {
       "name": "Dragonlord Placidusax",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/8f4f24760a906b21cf2ed65fa5fbcd2039c2f1ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "30.0"
+      "percent": "30.1"
     },
     "ACH01": {
       "name": "Elden Lord",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/e50726be4aca4d2b1f5f14d36859fc8e6f710097.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "23.6"
+      "percent": "23.7"
     },
     "ACH00": {
       "name": "Elden Ring",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/1cb1fe89084e822bd7d9ad4df66bc7f917995b38.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACH36": {
       "name": "Elemer of the Briar",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/d34621523f32eee14947c698bb43ef92b09f0f59.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "39.7"
+      "percent": "39.8"
     },
     "ACH41": {
       "name": "Erdtree Aflame",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/ee980470a382cd7e1ac70fca82d5e46e2c328c21.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "44.2"
+      "percent": "44.3"
     },
     "ACH21": {
       "name": "Fire Giant",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/943a8178f6fdd3f336caa1138d63bcf4985ab639.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "45.1"
+      "percent": "45.2"
     },
     "ACH29": {
       "name": "Godfrey, First Elden Lord",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/a6d7519e52b8d5d76afa7fa0b6224a2d4e8dc678.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "50.2"
+      "percent": "50.3"
     },
     "ACH20": {
       "name": "Godskin Duo",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/17c6959cb3785bc29bf45cba5281485c1b1a6b94.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "43.2"
+      "percent": "43.3"
     },
     "ACH27": {
       "name": "Godskin Noble",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/c9624c5c976674a86d6e55a65f18203407acb4b4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "42.9"
+      "percent": "43.0"
     },
     "ACH13": {
       "name": "God-Slaying Armament",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/5525911000c82f6b8c540c9e65e89382449c1b0f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": false,
-      "percent": "45.6"
+      "percent": "45.7"
     },
     "ACH40": {
       "name": "Great Rune",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/f263ff23c384043efcb2932cc82e6fc395f57014.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "40.5"
+      "percent": "40.6"
     },
     "ACH14": {
       "name": "Legendary Armaments",
@@ -185,7 +185,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/b0a0e29fb88941a9e81c937a22ce77f4e020b83e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "29.1"
+      "percent": "29.2"
     },
     "ACH03": {
       "name": "Lord of Frenzied Flame",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/230fc53f4bc2d9bf39be031cc198be81508a9c47.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "16.2"
+      "percent": "16.3"
     },
     "ACH32": {
       "name": "Loretta, Knight of the Haligtree",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/4e39a0ef22f4d9a5a926708eeeecb7ec3c304591.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "48.1"
+      "percent": "48.2"
     },
     "ACH10": {
       "name": "Maliketh the Black Blade",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/5148ee8ae04ed50667bcb39484ff2b716b07f4ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "41.6"
+      "percent": "41.7"
     },
     "ACH25": {
       "name": "Margit, the Fell Omen",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/9844ceb487fa8702ef9fddf8cf09b3767d985a14.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "71.3"
+      "percent": "71.4"
     },
     "ACH31": {
       "name": "Mimic Tear",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/a991cf641f22feecca00c96ae773e31740535b2b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "51.1"
+      "percent": "51.2"
     },
     "ACH30": {
       "name": "Mohg, the Omen",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/06bce66d7738ddd537a1c1d77a438df1e8c17b17.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "59.5"
+      "percent": "59.6"
     },
     "ACH23": {
       "name": "Regal Ancestor Spirit",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/49f02aee6962bf67151cb1b04d402ce33535db0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "38.1"
+      "percent": "38.2"
     },
     "ACH18": {
       "name": "Rennala, Queen of the Full Moon",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/82008e9c90e7dce12eaf5b50571dc9511055d5f8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "55.8"
+      "percent": "55.9"
     },
     "ACH04": {
       "name": "Shardbearer Godrick",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/1e230f1a87d7139e854c47e52337f9d50856ac64.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "65.4"
+      "percent": "65.5"
     },
     "ACH08": {
       "name": "Shardbearer Malenia",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/f704fcd82daf933dd3ce81c4d8ffea3ec65f26f4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "36.4"
+      "percent": "36.5"
     },
     "ACH09": {
       "name": "Shardbearer Mohg",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/1ffc295a2cd48b88487d410025d081549d932b27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "49.7"
+      "percent": "49.8"
     },
     "ACH05": {
       "name": "Shardbearer Radahn",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/f5f1f41ef749459d9ac45750cd1f069d05fe1dd8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "53.4"
+      "percent": "53.5"
     },
     "ACH07": {
       "name": "Shardbearer Rykard",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/cb0aec39fcc664c4e586750177178b6814a52e0d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "43.6"
+      "percent": "43.7"
     },
     "ACH24": {
       "name": "Valiant Gargoyles",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/b9255b2325bff7b02b289fb8899d305cc04a18bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1245620/172885dcb6a82300de9f34e8833afdf7d7cd24e1.jpg",
       "hidden": true,
-      "percent": "40.0"
+      "percent": "40.1"
     }
   },
   "platform": null,

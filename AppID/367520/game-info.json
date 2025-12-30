@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/dad457a73d6612846c24053b76d41a2415ace552.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
       "hidden": false,
-      "percent": "49.2"
+      "percent": "49.1"
     },
     "COLOSSEUM_2": {
       "name": "Conqueror",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/bc17dc680e57f3a108d964f171388109b3dd02e2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/23f190fe7fdc961652855d6134a096b2703bf479.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.3"
     },
     "BROKEN_VESSEL": {
       "name": "Release",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/39db59cf079011e52d49a621de9c540652f9d2d4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": true,
-      "percent": "23.9"
+      "percent": "23.8"
     },
     "HUNTER_2": {
       "name": "True Hunter",

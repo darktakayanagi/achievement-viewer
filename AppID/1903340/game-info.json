@@ -9,7 +9,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0dee098aef8c5fde525653a6a19f508e7f5945ae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/666bef3123ee260c4f6960d2686a6e8f03c8c439.jpg",
       "hidden": true,
-      "percent": "18.4"
+      "percent": "18.2"
     },
     "SERPENPHARE": {
       "name": "À On",
@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2b46e33316b67a484d7fcb7a44c675d3ba9cccc2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e62c3a1f5a249fc32fe2652beb97364ddbdd7bce.jpg",
       "hidden": true,
-      "percent": "24.4"
+      "percent": "24.2"
     },
     "LUMIERE_MIME": {
       "name": "A Peculiar Encounter",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/14e791876ad075f208fed78388271833173527df.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/116758b973e6d42226cdb8d69ef63783b9595759.jpg",
       "hidden": false,
-      "percent": "45.4"
+      "percent": "45.2"
     },
     "NEVRON_QUESTS": {
       "name": "Aiding the Enemy",
@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/fd5606a2e27f06fd1f1e226d82aa29e405f97eaf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f41d424cce7417bf69357fbdc3a0efc957e348ff.jpg",
       "hidden": true,
-      "percent": "13.0"
+      "percent": "12.9"
     },
     "ANCIENT_SANCTUARY": {
       "name": "Ancient Sanctuary",
@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/70b8dc14bf0846fa7668e50e9a22bb5aae86657d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/134965999d594de3fb44bfb7d702a923ce2c9bd2.jpg",
       "hidden": true,
-      "percent": "44.8"
+      "percent": "44.7"
     },
     "PETANK_ALPHA": {
       "name": "Carreau Parfait",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ad27abadb8f0711a04ffef12bf8fa0acffdce6f2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ee9c9694673936e64cfda9197ac4aff0b9d31677.jpg",
       "hidden": true,
-      "percent": "20.4"
+      "percent": "20.3"
     },
     "LVL3_GRADIENT_ATTACK": {
       "name": "Chroma Proficiency",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/41039c768a15bdddcf1deef90fcbc1f62a51e508.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a7de5c2d546612982ec8dac6307c0bb236deb222.jpg",
       "hidden": true,
-      "percent": "26.5"
+      "percent": "26.4"
     },
     "CLEA": {
       "name": "Clea",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3bdd69001337b9489645949414007759a8b56a82.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c0f618d59ada226fc7eb4d4da836cf00916917da.jpg",
       "hidden": true,
-      "percent": "19.9"
+      "percent": "19.7"
     },
     "ALL_SONGS": {
       "name": "Connoisseur",
@@ -81,7 +81,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/305998cd6052d4aa8b0b4e98299d20dbd915ebac.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f8c261b7bbc52967152f205ee5739c5471c57d26.jpg",
       "hidden": false,
-      "percent": "9.6"
+      "percent": "9.5"
     },
     "OPTIONAL_CAMP": {
       "name": "Curious",
@@ -89,7 +89,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/29e3e5fef7d1f7c63efc7ce463be0ccd23e8097c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/bf46ac3a8691b02c833b93d124425d4922195dfb.jpg",
       "hidden": false,
-      "percent": "70.9"
+      "percent": "70.8"
     },
     "ESQUIE_RELATIONSHIP": {
       "name": "Esquie",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/7abf7d53cda264d4d9e3cf7292dc2c3e9ebc4997.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5181a12e1d240a38e11f4bb9c6e94d13d1fdac84.jpg",
       "hidden": true,
-      "percent": "30.1"
+      "percent": "29.9"
     },
     "ESQUIES_NEST": {
       "name": "Esquie's Nest",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e6a2b3d3bfafc55a517e373f67aaecec4b31c0bc.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/90783dcecfde9c3359113a58688a76bb975734e6.jpg",
       "hidden": true,
-      "percent": "14.3"
+      "percent": "14.1"
     },
     "FIRST_AXON": {
       "name": "First Axon",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/762a3a319964d846e9fefc3219575029f75a21ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/8e4b22996ded83313c0e688b633e001d7ed73fc9.jpg",
       "hidden": false,
-      "percent": "9.8"
+      "percent": "9.6"
     },
     "FORGOTTEN_BATTLEFIELD": {
       "name": "Forgotten Battlefield",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/88c3be1133015143b17a7aa7f1131af4bfbf9f52.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/95c39498077ced5d3877d8f67406e3a4555708d3.jpg",
       "hidden": true,
-      "percent": "14.6"
+      "percent": "14.5"
     },
     "GESTRAL_VILLAGE": {
       "name": "Gestral Village",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/12b1a8bd79f9d1c414aecc02090275fbe9ac6c0b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ce0397bf7cb226130d73d39c5f0c8571a66228.jpg",
       "hidden": true,
-      "percent": "14.7"
+      "percent": "14.5"
     },
     "LUMIERE": {
       "name": "Lumière",
@@ -217,7 +217,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/ca54953f344217aa28e194a8c4fde06a350c9ac2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/06b4d42d5de4593ba4d411bf3e426a64ad4a981b.jpg",
       "hidden": true,
-      "percent": "29.6"
+      "percent": "29.5"
     },
     "MAELLE_RELATIONSHIP": {
       "name": "Maelle",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/68a6d46246fc218900bf041d8716f20d370d7f90.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/28aefcb508e584aa7720478a18110de2ceb4f186.jpg",
       "hidden": true,
-      "percent": "29.0"
+      "percent": "28.9"
     },
     "SCIEL_FORETELL": {
       "name": "Maximization",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/135db83393639809c16447d28d3085e0a83f6c40.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d4a970cb0a8d83612b256f0799e8939596a4b2fa.jpg",
       "hidden": true,
-      "percent": "33.7"
+      "percent": "33.6"
     },
     "MONOCO_RELATIONSHIP": {
       "name": "Monoco",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/5d4466b191a4ed2e6b4cfad99c779af1204656b9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/708e84b0893e2d303f21b73a433fe00ae36675b5.jpg",
       "hidden": true,
-      "percent": "27.4"
+      "percent": "27.2"
     },
     "GRANDIS_STATION": {
       "name": "Monoco's Station",
@@ -257,7 +257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/22b401dc062b4eb00257e72c53fdcbfe6b6e87ba.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/10cefd7d61852b3904f6d1fd326411fe82e3f622.jpg",
       "hidden": true,
-      "percent": "48.0"
+      "percent": "47.9"
     },
     "PAINTING_WORKSHOP": {
       "name": "Noir et Blanc",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/75d20ef2b7e8c0fab546d50347644c8cf8001192.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a86a6bd0cf0f4d4768dfb453b73efe2fcff3aaa6.jpg",
       "hidden": true,
-      "percent": "18.8"
+      "percent": "18.6"
     },
     "OLD_LUMIERE": {
       "name": "Old Lumière",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/42a1ff184366183a572499289529c5faad5ce9c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3f95d91bfaa0d5de3efd887f200ad347bca668a6.jpg",
       "hidden": true,
-      "percent": "53.4"
+      "percent": "53.3"
     },
     "GUSTAVE_OVERCHARGE": {
       "name": "Overcharge",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c4fe576da5fcfe08c7ca9921f3a725c492d98248.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e38e5976d3d913f30401e92a99afa680af8e560a.jpg",
       "hidden": false,
-      "percent": "81.6"
+      "percent": "81.5"
     },
     "PAINT_CAGE": {
       "name": "Paint Cage",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/2f734192fa32fdaca9d13dfbbc8d1c549bce6036.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/f3d069b62c3560aef6ee465477ececd983bb143c.jpg",
       "hidden": false,
-      "percent": "76.5"
+      "percent": "76.4"
     },
     "PAINTRESS": {
       "name": "Paintress",
@@ -297,7 +297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/dd406ec4540f7c17c662dac1232c802febd2b15e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c7e20810e253cd4f15809511f7d5ed64e4e91c5b.jpg",
       "hidden": true,
-      "percent": "45.2"
+      "percent": "45.1"
     },
     "SIMON": {
       "name": "Peace At Last",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/a3e595c517c9ea83634dd0c98570f436a26a14ff.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d01ce52bd3d66c59b277bc01d970bf3dc322769.jpg",
       "hidden": true,
-      "percent": "15.6"
+      "percent": "15.4"
     },
     "LUNE_STAINS": {
       "name": "Perfect Flow",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/7bdff2763d0975b1d1a0b7741a810eadd487c733.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/19a606703fa581feaa8fe8581bc6146f5e77cc1a.jpg",
       "hidden": true,
-      "percent": "32.6"
+      "percent": "32.5"
     },
     "NO_DAMAGE_BOSS": {
       "name": "Professional",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/62d4676ebd03f2a3cefb99ea6fe4039cf4f5b838.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/148809abf1e8bd9a5db902a1d4623dc7143eb6fb.jpg",
       "hidden": false,
-      "percent": "50.5"
+      "percent": "50.3"
     },
     "SCIEL_RELATIONSHIP": {
       "name": "Sciel",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/6ec9df1d5971eb2b9fd2f38069dc383b367c4ebf.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/e311c52896785463fefcc65981f1c4fa45694cff.jpg",
       "hidden": true,
-      "percent": "31.3"
+      "percent": "31.1"
     },
     "SECOND_AXON": {
       "name": "Second Axon",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3d7fa8f6ac3041abb8e3afef7f9332ee5c7c6659.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/4d8017c91fa592fe5892a08a130d62dd3c95a950.jpg",
       "hidden": true,
-      "percent": "48.7"
+      "percent": "48.6"
     },
     "SPRING_MEADOWS": {
       "name": "Spring Meadows",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/44ce5fbc492bcb89da7d342202b409ea4dae62fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/da2d99002428f819909fdb418c85cc191a931069.jpg",
       "hidden": true,
-      "percent": "31.2"
+      "percent": "31.1"
     },
     "STONE_WAVE_CLIFFS": {
       "name": "Stone Wave Cliffs",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0c93c5dd809f9a0c17756b6149163937e90c193b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/78bcdfc829c30d4bf47a3d90b4f15a82bb010b09.jpg",
       "hidden": true,
-      "percent": "61.3"
+      "percent": "61.2"
     },
     "LEVEL_99": {
       "name": "Survivor",
@@ -401,7 +401,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b3ea2c44ab6c5642b220f7dc4ae9075c8a70b3f1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/d451fa9a94d7fe423e713ccdd7d37cbce6176f90.jpg",
       "hidden": true,
-      "percent": "36.6"
+      "percent": "36.4"
     },
     "BREAK": {
       "name": "Time to Spill Some Ink",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/c079b7038296aa203229ee0864695bf2f549ddc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/156c3c2ce993b2095ba6794cfd3ff572ffcc7d07.jpg",
       "hidden": false,
-      "percent": "84.8"
+      "percent": "84.7"
     },
     "LEVEL_66": {
       "name": "Trailbreaker",
@@ -417,7 +417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/17ca73615b8124664ce5f788025cf475749ad0d0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/1cdc4c9918c0c80b5853b827f058965d3a2ccb47.jpg",
       "hidden": false,
-      "percent": "31.8"
+      "percent": "31.6"
     },
     "WEAPON_FULL_UPGRADE": {
       "name": "Weapon Mastery",
@@ -425,7 +425,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/3b32a9178070a8ba0ac431ab46fbfebfddde9235.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/b0669aed88896cce28ceb6b67f70c25951e051b7.jpg",
       "hidden": false,
-      "percent": "24.5"
+      "percent": "24.3"
     },
     "WEAPON_FIRST_UPGRADE": {
       "name": "Weapon Upgrade",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/0b2ab7f8548f7aad819a93076ceb988d896116d2.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1903340/aa9b4191bee77929898ef9803c0ae52f36057a0c.jpg",
       "hidden": false,
-      "percent": "72.0"
+      "percent": "71.9"
     },
     "MONOCO_WHEEL": {
       "name": "Wheel Control",

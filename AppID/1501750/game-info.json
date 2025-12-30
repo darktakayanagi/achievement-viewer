@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/36f0845573532b3e0e44ae490b2a2e77d5c4c6b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": true,
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "TLOTF_ACHIEVEMENT_049": {
       "name": "A Queen's Rest",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/c4042e35f9064b49868fc95f23c43116fb4a5a27.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/56ad72c0532ca9dcc82547437c03bb6f9a94ce0c.jpg",
       "hidden": false,
-      "percent": "74.4"
+      "percent": "74.5"
     },
     "TLOTF_ACHIEVEMENT_086": {
       "name": "Adyr's Chosen",
@@ -145,7 +145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/595af11205557b621f3daf5c1041c6f52d84f30c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
-      "percent": "0.1"
+      "percent": "0.2"
     },
     "TLOTF_ACHIEVEMENT_056": {
       "name": "Essence of Death",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/49c243e355c9a81317e36b7fe587f4180252935a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1501750/89ea2eb49f6e4b8dc0982616bb8d1017ce1975e0.jpg",
       "hidden": true,
-      "percent": "0.2"
+      "percent": "0.3"
     },
     "TLOTF_ACHIEVEMENT_010": {
       "name": "Radiant Adept",
