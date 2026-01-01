@@ -510,7 +510,7 @@ function renderDetailViewNormal(game, unlocked, total, percentage, sortMode) {
                 <button class="sort-button ${sortMode === 'group-base-first' ? 'active' : ''}" onclick="window.setSortMode('group-base-first')" data-tooltip="Base Game First">
                     📥↓
                 </button>
-                <button class="sort-button ${sortMode === 'group-dlc-first' ? 'active' : ''}" onclick="window.setSortMode('group-dlc-first')" data-tooltip="DLCs First">
+                <button class="sort-button ${sortMode === 'group-dlc-first' ? 'active' : ''}" onclick="window.setSortMode('group-dlc-first')" data-tooltip="Extra Content First">
                     📥↑
                 </button>
 
