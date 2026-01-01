@@ -33,7 +33,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/4ebd3f7fb3726370493d8ed1749bf602c4028757.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/33f7ea69844e92220429df25339d6eea10ddd1d8.jpg",
       "hidden": false,
-      "percent": "8.5"
+      "percent": "8.4"
     },
     "ACHIEVEMENT_96": {
       "name": "All for One",
@@ -57,7 +57,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/468dd2b40138c676a70d4f1d5ba93bc14d355dc5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/4d4edc0881164b85c887b35142df99510235236b.jpg",
       "hidden": false,
-      "percent": "4.2"
+      "percent": "4.1"
     },
     "ACHIEVEMENT_36": {
       "name": "Behold the Possibilities",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ab93e4a4dc37a45ec7c1523bcd6e5c80b507bd0d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5e65526bff79f251f9cde7bcdf4a2202fccab65a.jpg",
       "hidden": false,
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "ACHIEVEMENT_4": {
       "name": "Blade Mastery II",
@@ -169,7 +169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/19193181ccbe6a3ff69a5f0c6ae15fac10c47429.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/62b557d73182b80fc7decf0a7453df26d2f88f1c.jpg",
       "hidden": false,
-      "percent": "17.1"
+      "percent": "17.0"
     },
     "ACHIEVEMENT_15": {
       "name": "Brawler Mastery I",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/c61123369d3d24d85390552abf63e015e32e05af.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/1e3894693deb8a01f83b3b406209cc5b450f893c.jpg",
       "hidden": false,
-      "percent": "10.7"
+      "percent": "10.6"
     },
     "ACHIEVEMENT_75": {
       "name": "Eagle",
@@ -489,7 +489,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d38a844107924d40721ffe9f49d21b338c869ceb.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/b6a0795d6001dbf021653273b9fbe4a3880a669e.jpg",
       "hidden": false,
-      "percent": "9.7"
+      "percent": "9.6"
     },
     "ACHIEVEMENT_80": {
       "name": "Gold Tiger",
@@ -497,7 +497,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/088769d7d6c3b59062d360c0bebc6e143034d026.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/3027109a1e0d54b3700a162746c71f0bfe52b6bc.jpg",
       "hidden": false,
-      "percent": "4.4"
+      "percent": "4.3"
     },
     "ACHIEVEMENT_191": {
       "name": "Gonna Need a Bigger Boat",
@@ -545,7 +545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/f05d7088bbc251f7c4b940452ae0f6e2fea927e5.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/60211fc5c9205261a4b0b409153d5cd6f13d181a.jpg",
       "hidden": false,
-      "percent": "12.9"
+      "percent": "12.8"
     },
     "ACHIEVEMENT_41": {
       "name": "Heavy Weapon Mastery II",
@@ -593,7 +593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/91432cb7f4d38a69415f1a27df150c0c73e73174.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/f7050d3fa53fc4d4c82f102d2eec024dd1fa1a50.jpg",
       "hidden": false,
-      "percent": "8.3"
+      "percent": "8.2"
     },
     "ACHIEVEMENT_57": {
       "name": "Hooked",
@@ -785,7 +785,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e2a56659b5f67082b98f38cbc4d814b698d8581a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/5a72810746ce6a5c72818a659727e7c7b362b2bc.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACHIEVEMENT_128": {
       "name": "Operative",
@@ -865,7 +865,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/9f9c0f0c9bbf5c13fd6d0691686cab167480cf85.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e56ea9b2155726669030b88394bcad27697a8427.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "ACHIEVEMENT_172": {
       "name": "Plains Prospector",
@@ -977,7 +977,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/a27f458853dc9fb7143493f6afa437b30fdc762e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d35fa9076516f15a3995bcde764b94fbcf9b393d.jpg",
       "hidden": false,
-      "percent": "14.9"
+      "percent": "14.8"
     },
     "ACHIEVEMENT_100": {
       "name": "Rifle Mastery I",
@@ -1025,7 +1025,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/bf55f786b396849173fa077a3ca136472f0a2df4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/68a0d657ec0663f23e048563155b982d830e1462.jpg",
       "hidden": false,
-      "percent": "20.6"
+      "percent": "20.5"
     },
     "ACHIEVEMENT_84": {
       "name": "Sage",
@@ -1145,7 +1145,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/03b019d04d9abb10af9d1cd04eeddd8fbe3c2806.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d9be9104e6bb5d897065b1c502f22af2f304c0c9.jpg",
       "hidden": false,
-      "percent": "19.6"
+      "percent": "19.5"
     },
     "ACHIEVEMENT_169": {
       "name": "Sharp Shooter",
@@ -1161,7 +1161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/3b2f7903467a4c5cddadccb6d06d71812d0ecfae.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/42f978baaebf499514453586f725e8f9e661fc8f.jpg",
       "hidden": false,
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "ACHIEVEMENT_114": {
       "name": "Shotgun Mastery I",
@@ -1169,7 +1169,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/0bd3e92fdaf0611d5acee810ef9e8e4400c60794.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/da6a848d9ab33a2a48e768e013b1c6391f48ff10.jpg",
       "hidden": false,
-      "percent": "14.0"
+      "percent": "13.9"
     },
     "ACHIEVEMENT_115": {
       "name": "Shotgun Mastery II",
@@ -1241,7 +1241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/dfaf14d765b1a639d57e8aa8243a010cbb5cfd94.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/52e766d4d6010e11c7ee7596c132afd59a87ba9f.jpg",
       "hidden": false,
-      "percent": "24.2"
+      "percent": "24.1"
     },
     "ACHIEVEMENT_124": {
       "name": "Shuriken Proficiency II",
@@ -1257,7 +1257,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7fe8c461a9f5db1d75cfdbb604f7cd232292b7c7.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/11f793994c9dcf57b1307827116ffc9163a1bf6f.jpg",
       "hidden": false,
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "ACHIEVEMENT_67": {
       "name": "Silver Disciple",
@@ -1281,7 +1281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/7b0cc1124aa468a60c8cb1ac6ad0a0dd94deb0c6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/136c46b774b0693b7a092ae2a02b2a2ce6ea1a7b.jpg",
       "hidden": false,
-      "percent": "6.4"
+      "percent": "6.3"
     },
     "ACHIEVEMENT_73": {
       "name": "Silver Hunter",
@@ -1297,7 +1297,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ffa4d2f0a2609f81174e29e2df438e952bff8dd8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/05da5b280021b8f8bb247e9af5067c58443bacc5.jpg",
       "hidden": false,
-      "percent": "29.2"
+      "percent": "29.1"
     },
     "ACHIEVEMENT_64": {
       "name": "Silver Novice",
@@ -1305,7 +1305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/b7e1d5adf78fad96993cf32ad821dd7ba7afa67a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d83fcd3be717ad44b77678a3af5124a360414bf2.jpg",
       "hidden": false,
-      "percent": "17.4"
+      "percent": "17.3"
     },
     "ACHIEVEMENT_85": {
       "name": "Silver Sage",
@@ -1417,7 +1417,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/4565761c183a850fe875db25c5317f0209dda418.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e96143d3b1a72fb8358f0b0c8605833dbf4bd19c.jpg",
       "hidden": false,
-      "percent": "8.6"
+      "percent": "8.5"
     },
     "ACHIEVEMENT_156": {
       "name": "The Camera Adds 10 Pounds",
@@ -1465,7 +1465,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/9a2bcab59c2384e5c4a84c370c81fa224e95e687.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/d633d923ffdc0d3a9d3950241875aad82fdf230a.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "ACHIEVEMENT_159": {
       "name": "This is What You Are",

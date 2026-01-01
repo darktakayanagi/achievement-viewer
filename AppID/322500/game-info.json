@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/f196d288918d7a3b4ff97d0436491d9c8fd51c66.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/2f4f20c8b73d1fbaeaa0b2b52fbabb27b64f22fd.jpg",
       "hidden": true,
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACH_KILL_ENDLESS_1001": {
       "name": "Can't get enough",
@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/8d182b7cfc4875a7bf7e9a3e02cb8c7216680070.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/57667daa6a31d90cfbfeaead83d12e4d04159df1.jpg",
       "hidden": false,
-      "percent": "15.4"
+      "percent": "15.3"
     },
     "ACH_HACKING_READ": {
       "name": "Deep web",
@@ -193,7 +193,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/3c95e91a0f3b7403819d4139bae410992e358720.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/322500/ef25834fde5c5e6dbace51eda8decefd1935edda.jpg",
       "hidden": true,
-      "percent": "72.1"
+      "percent": "72.0"
     },
     "ACH_GET_BACK": {
       "name": "We told you to leave",

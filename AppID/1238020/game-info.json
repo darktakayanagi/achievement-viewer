@@ -177,7 +177,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/fa4d1f0004d92f912968b09e2a8546254f9435de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/847651bbf851ab9a0a7dae9c9acb5653e274999d.jpg",
       "hidden": false,
-      "percent": "30.9"
+      "percent": "31.0"
     },
     "Achievement_GOSCC_165": {
       "name": "High Society",
@@ -241,7 +241,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/e103aeead9c6e12b07ae60f492b0f29406bff782.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/1a5e2ebd0f06e8bc05fdd56db80aaced26b1cf18.jpg",
       "hidden": false,
-      "percent": "35.3"
+      "percent": "35.4"
     },
     "Achievement_GOSCC_123": {
       "name": "Long Service Medal",
@@ -337,7 +337,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/c157eabd4c743260a17c2ae9502a54488f152dbd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/1a83400794256519c16bee12c0e3e1a34cfbcf42.jpg",
       "hidden": false,
-      "percent": "26.9"
+      "percent": "27.0"
     },
     "Achievement_GOSCC_151": {
       "name": "Peak Condition",
@@ -377,7 +377,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/3970e1942085315605b424befc18d64abf532e18.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/0d7bd344ea5574e24ffc0e01f8703cdd1ae67dd1.jpg",
       "hidden": false,
-      "percent": "35.6"
+      "percent": "35.7"
     },
     "Achievement_GOSCC_137": {
       "name": "Pyromaniac",
@@ -537,7 +537,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/b42c03c78a1336ba1669b8328117c4e72220d359.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/3320dd556f5cb425c3039f0cb0697fbe3f1fef10.jpg",
       "hidden": false,
-      "percent": "29.0"
+      "percent": "29.1"
     },
     "Achievement_GOSCC_105": {
       "name": "World Shaker",
@@ -545,7 +545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/ca5994b39ba6336d1aadf086c6efaefcb19e049a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1238020/046d525f62e1a20b127d19c742ac3ebd1a6232b9.jpg",
       "hidden": false,
-      "percent": "37.8"
+      "percent": "37.9"
     }
   },
   "platform": "EA",

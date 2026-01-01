@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/1e32933d8bccef2be35d4bdf93b86bb2271e2418.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/678b4e486678138000c061c2cb7c745d2fea180e.jpg",
       "hidden": false,
-      "percent": "3.6"
+      "percent": "3.5"
     },
     "NEW_ACHIEVEMENT_1_30": {
       "name": "One for All",
@@ -329,7 +329,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/20e968d0998219ae7d1a3e84992edec30ea09c67.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/d9550cc1bfef30e456acdd96e9c1af94f43131d7.jpg",
       "hidden": true,
-      "percent": "25.5"
+      "percent": "25.6"
     },
     "NEW_ACHIEVEMENT_2_16": {
       "name": "Peril on Gorgon",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/3f5dbef4d2d86448b835c9edcbb28328160e0e63.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/140b6ebd628cdab23c64cfb3e93eee6f7bb074f0.jpg",
       "hidden": true,
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "NEW_ACHIEVEMENT_1_7": {
       "name": "Poor Sportsmanship",
@@ -409,7 +409,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/706677eca2afcc532a1358c730d3b417b60dab5f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1920490/09a9702aee0e0714e7de7be09dc0015ef9393292.jpg",
       "hidden": true,
-      "percent": "18.0"
+      "percent": "18.1"
     },
     "NEW_ACHIEVEMENT_2_15": {
       "name": "Sunburn",

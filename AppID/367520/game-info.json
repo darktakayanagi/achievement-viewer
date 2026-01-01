@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a0864e337fe427586613b09e8799109deccdbcf4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
       "hidden": false,
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "AWAKENING": {
       "name": "Awakening",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/7e671e6e88cbe98b9dce57281980fea84a70de9b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": false,
-      "percent": "36.2"
+      "percent": "36.1"
     },
     "CHARMED": {
       "name": "Charmed",
@@ -73,7 +73,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6d15e62c48ba57d23e72b8f24fb775a44223cb8f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8342f6c2630943b056978593315dfb8676e5bbd9.jpg",
       "hidden": false,
-      "percent": "77.2"
+      "percent": "77.1"
     },
     "COMPLETION": {
       "name": "Completion",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8c26d557c3582c7784f338523316f56068e4426d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e9699d861ee64eb0b3bfd57f2571896be5db12b4.jpg",
       "hidden": true,
-      "percent": "21.4"
+      "percent": "21.3"
     },
     "ENDING_C": {
       "name": "Dream No More",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/8236b05d402215e4cd497af18248d19210d8fbea.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": true,
-      "percent": "19.9"
+      "percent": "19.8"
     },
     "ENDINGD": {
       "name": "Embrace the Void",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e7205c4c78fefef7894a6731d1a188e992011ec8.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
       "hidden": false,
-      "percent": "33.0"
+      "percent": "32.9"
     },
     "FK_DEFEAT": {
       "name": "Falsehood",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/2d3e4c6217b6d911d8a211f3ab4f3f37e49a584c.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
       "hidden": false,
-      "percent": "47.0"
+      "percent": "46.9"
     },
     "PANTHEON2": {
       "name": "Inspiration",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/6b7a9e0fa49788c8ad8b56ddff75ac6250330b92.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/817c85e5f17fcab76b7d08979b0b076afbae509d.jpg",
       "hidden": false,
-      "percent": "6.7"
+      "percent": "6.6"
     },
     "NAILSMITH_KILL": {
       "name": "Purity",
@@ -345,7 +345,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/11a174017fa3baa8169c362c0740deababb5c241.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
       "hidden": true,
-      "percent": "15.9"
+      "percent": "15.8"
     },
     "ZOTE": {
       "name": "Rivalry",
@@ -353,7 +353,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/e8a35f548dcdeb1753fdc880a2df6de8fe245c8e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/00938958cda9497220f141c415a7ca7bdcdd27e7.jpg",
       "hidden": true,
-      "percent": "28.7"
+      "percent": "28.6"
     },
     "ENDING_B": {
       "name": "Sealed Siblings",
@@ -369,7 +369,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/5599c786f2c5a411951563f33abed35f08ad76e4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
       "hidden": false,
-      "percent": "20.8"
+      "percent": "20.7"
     },
     "PANTHEON4": {
       "name": "Soul & Shade",

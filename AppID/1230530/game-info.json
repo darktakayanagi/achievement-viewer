@@ -17,7 +17,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/f306df873879376ae14f90977e0307b38fe840d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "37.6"
+      "percent": "37.5"
     },
     "trophy_13_sandsurf_total": {
       "name": "Adventurer",
@@ -25,7 +25,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/777bed54232532499f6e9a001ae57d0088889146.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": true,
-      "percent": "34.7"
+      "percent": "34.6"
     },
     "trophy_14_aerial_control": {
       "name": "Airborne",
@@ -65,7 +65,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/b5598b2d0ffac7093535c7b14e676cd35ffb74de.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "20.2"
+      "percent": "20.1"
     },
     "trophy_01_level1_complete": {
       "name": "Break Out",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/9a5c631714f937827f4ae75a20fd602c27d5dbcd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1230530/adba15f2ea9cdb34b743fd0e9cb2b2e52090dd5a.jpg",
       "hidden": false,
-      "percent": "34.1"
+      "percent": "34.0"
     },
     "trophy_35_vanity_items": {
       "name": "Feeling Fancy",

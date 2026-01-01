@@ -1,7 +1,7 @@
 {
   "appid": "207140",
   "name": "SpeedRunners",
-  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/77a8927116d04679ac9e09c88a5360914ccbccc8/header_alt_assets_0.jpg?t=1759863362",
+  "icon": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207140/header.jpg?t=1759863362",
   "achievements": {
     "max_xp_earned": {
       "name": "100%",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/207140/4495f9fea165fbf991d04f9e37df1368aa5be7d9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/207140/a379643dd467cdef8679fb164bcce0c4347d8c9f.jpg",
       "hidden": false,
-      "percent": "62.1"
+      "percent": "62.2"
     },
     "overtaken_opponent": {
       "name": "See Ya!",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/207140/8d0202b1c9336b13214a46be6a7398b201060124.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/207140/48f65d5c103261fc819d1731a851534f78c47d4f.jpg",
       "hidden": false,
-      "percent": "42.4"
+      "percent": "42.3"
     },
     "dodged_hooks": {
       "name": "Smooth Moves!",

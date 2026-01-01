@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/c6aed8d36ecfbe858e51ed21e73ef72f87dda187.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/f172ab7c6ce0a931493f339f74e3f9de08328449.jpg",
       "hidden": false,
-      "percent": "24.5"
+      "percent": "24.4"
     },
     "Achievement49": {
       "name": "Established Hunter",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/8c9e7112fd77305e7db98fa199b6f09cbc527341.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/9dca8427f887532db5ec309c476ab402f8a413ad.jpg",
       "hidden": true,
-      "percent": "4.6"
+      "percent": "4.5"
     },
     "Achievement36": {
       "name": "Giant Crown",
@@ -281,7 +281,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/e2907e12be9e6e924e855f2db8c1c00b0ef215a1.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/8255bd56850b7c9809c7b9fb917eecd47c18caa6.jpg",
       "hidden": false,
-      "percent": "58.3"
+      "percent": "58.2"
     },
     "Achievement37": {
       "name": "Giant Crown Collector",
@@ -321,7 +321,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/253f4b2221c3f984e23ff25f68ad3488d8b2473d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/f8ee423f9290efe725dd1c82dbb9226cd3ae71a6.jpg",
       "hidden": false,
-      "percent": "12.4"
+      "percent": "12.3"
     },
     "Achievement95": {
       "name": "Hunter Prodigy",
@@ -545,7 +545,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/73f84995b2ad08c0d2ad49302631768fe5190736.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/ef848ea40e4f5834dd322f9cb70221f8977a65e1.jpg",
       "hidden": true,
-      "percent": "48.5"
+      "percent": "48.4"
     },
     "Achievement88": {
       "name": "Outstanding Observer",
@@ -593,7 +593,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/eb263d347bebc1838bf41e26d6ece17ba105679a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/a3dba2f69834f1332e5b47f1a490450d8bb60d3c.jpg",
       "hidden": true,
-      "percent": "12.7"
+      "percent": "12.6"
     },
     "Achievement84": {
       "name": "Skilled Steamworker",
@@ -705,7 +705,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/de8b396f3ed10fb980521aedefad59013d07932d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/582010/63acb232633b4f16f54ae60e24b0882db75a43f2.jpg",
       "hidden": false,
-      "percent": "20.0"
+      "percent": "19.9"
     },
     "Achievement9": {
       "name": "The Hunters Life for Me",

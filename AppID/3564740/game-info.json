@@ -49,7 +49,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/7021e6122bfab171c7ffd3b91f88bf868ba879ec.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/ea5c3c73676ffb1f3dbab1587bd677145e9da565.jpg",
       "hidden": false,
-      "percent": "9.9"
+      "percent": "9.8"
     },
     "301007": {
       "name": "First Resonance",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/240a76376991910755e4de9c42156d2b73336377.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/f958ccbd390388fbf59ad13a074d782f40aa8780.jpg",
       "hidden": false,
-      "percent": "15.6"
+      "percent": "15.5"
     },
     "1204001": {
       "name": "Paws on Point - Qinghe",
@@ -137,7 +137,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2e0b801347ea1815986c339365f7e65758f96630.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/dbd810b5793b6e14c3d372c74213201ba3d9ea28.jpg",
       "hidden": false,
-      "percent": "13.7"
+      "percent": "13.6"
     },
     "301011": {
       "name": "Power of Four",
@@ -153,7 +153,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/2a0341fd800a20c92358be45fdc3f248ee583772.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/74ff4a4fee81a2aaa1351f8b28b5e82b480bd801.jpg",
       "hidden": false,
-      "percent": "2.0"
+      "percent": "1.9"
     },
     "1403007": {
       "name": "Quick on the Uptake - Kaifeng",
@@ -201,7 +201,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0f7e5f65a70913a48e3bfa077b15e0883678d4d6.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/21c74c116cf1159613f25514fd54f5770b5b762a.jpg",
       "hidden": false,
-      "percent": "23.7"
+      "percent": "23.6"
     },
     "1201003": {
       "name": "Source of Still Shore",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/d38bd60270f14450f68ba6c763c2b01103ace67d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/0fca2521ea38abfd809a97b8205bbd8892a1669d.jpg",
       "hidden": false,
-      "percent": "0.7"
+      "percent": "0.6"
     },
     "101022": {
       "name": "The First Finding",
@@ -273,7 +273,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/301af2c9304b16ccc2ec553d124c3aeed145d766.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/3564740/c8bc0cc94b554510bfdb35a30ae1d2312ee3363b.jpg",
       "hidden": true,
-      "percent": "8.3"
+      "percent": "8.2"
     }
   },
   "platform": null,

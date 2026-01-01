@@ -41,7 +41,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/bf36c763eb68e9049c6d5bfe7d9033492ff7c6dd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "80.9"
+      "percent": "80.8"
     },
     "Boss_03": {
       "name": "Berserk Dragon's General",
@@ -97,7 +97,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/6be3ca13d7a582d46aa40650314f19f2676c99fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "65.6"
+      "percent": "65.5"
     },
     "Sub_04": {
       "name": "Desperate Escape ",
@@ -105,7 +105,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/11e00e214225fa0c2b6df912e74567b4a6dbe68d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "43.1"
+      "percent": "43.0"
     },
     "Boss_15": {
       "name": "Faded Memories",
@@ -113,7 +113,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/f8bae709e1e8334a474bf3c1e8b213480c4d461b.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "32.4"
+      "percent": "32.3"
     },
     "Boss_04": {
       "name": "Fallen Guardian",
@@ -121,7 +121,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8265311cd9f0a259f1829e8b3930251dc3643dd4.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "70.0"
+      "percent": "69.9"
     },
     "Skill_01": {
       "name": "Finishing Strike",
@@ -129,7 +129,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/86658e989be73c06b2f97db3c182bdc99bec20fd.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "93.8"
+      "percent": "93.7"
     },
     "Mission_19": {
       "name": "Fully Equipped",
@@ -161,7 +161,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/6ff8912e0e3f79bfcd14935a31f9a7c9a0105c4f.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "51.3"
+      "percent": "51.2"
     },
     "Mission_07": {
       "name": "Indomitable",
@@ -209,7 +209,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/9261d3220d2cef99f8cd4c9261184f979186d48d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "84.7"
+      "percent": "84.6"
     },
     "Boss_08": {
       "name": "No Turning Back",
@@ -225,7 +225,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/903a1a4de40b82a69be2187bbf16aa82855bec57.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "65.2"
+      "percent": "65.1"
     },
     "Complete_04": {
       "name": "Ozma's Past",
@@ -233,7 +233,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/bf5bedab3fc771579ba08a01256ec76ee902dd6d.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "19.4"
+      "percent": "19.3"
     },
     "Skill_02": {
       "name": "Pact",
@@ -249,7 +249,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/0d03701fffa37b9e1f5141cca3ae15cf5dfc0fb0.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "89.9"
+      "percent": "89.8"
     },
     "Sub_05": {
       "name": "Reese's Past",
@@ -265,7 +265,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/27ebb6878e853feaccb23a23017af3dcc3acecd3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "77.3"
+      "percent": "77.2"
     },
     "Mission_08": {
       "name": "Resourceful Merchant",
@@ -289,7 +289,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/653af8ab9ee57dd9c85411391f3705e2c9f507b3.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "89.9"
+      "percent": "89.8"
     },
     "Mission_02": {
       "name": "Skilled Blacksmith",
@@ -305,7 +305,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/432ff5020676f43fe9c5270a99becf8ff5e73c91.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "90.4"
+      "percent": "90.3"
     },
     "Boss_06": {
       "name": "Slayer in the Citadel",
@@ -313,7 +313,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/80fde1420edf0d03ebfe3cd9ddd1114c9b49e142.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "61.1"
+      "percent": "61.0"
     },
     "Mission_11": {
       "name": "Soulstone Unleashed",
@@ -433,7 +433,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/56e5ed78b37b964b29165fe6e771d7af15bfbaa9.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": true,
-      "percent": "36.1"
+      "percent": "36.0"
     },
     "Sub_09": {
       "name": "Undying Loyalty",
@@ -449,7 +449,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/35ee2f466063dd13ca4e013373afc03f317bcc9e.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "96.8"
+      "percent": "96.7"
     },
     "Mission_18": {
       "name": "Wandering Soul",
@@ -457,7 +457,7 @@
       "icon": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/b4b25a22310a8e7f225dcc229c64d170ddf1430a.jpg",
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
       "hidden": false,
-      "percent": "74.9"
+      "percent": "74.8"
     }
   },
   "platform": null,
