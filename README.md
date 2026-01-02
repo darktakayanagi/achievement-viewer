@@ -50,6 +50,7 @@ Your `achievements.json` should look like this:
 
 By default they are stored in: `%AppData%\Achievement Watcher\steam_cache\data`
 and/or `%AppData%\Achievement Watcher\steam_cache\user\{SteamID}\`
+A **Steam** label will be added automatically to these types of games.
 
 Your `{AppID}.db` should look like this:
 
