@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/376345433d08a8eee016f15f891fc9dddac0f373.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "34.6"
+      "percent": "34.7"
     },
     "ACH_10": {
       "name": "Challenge Accepted",
@@ -73,7 +73,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/bdad30492e87acfcf49025cea32a3d5ed33de8ba.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.5"
+      "percent": "27.6"
     },
     "ACH_18": {
       "name": "Heart of the Awoken",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/ab2fc8852927248c06e068acc79bb669651447be.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "27.4"
+      "percent": "27.5"
     },
     "ACH_6": {
       "name": "In A Flash",
@@ -136,7 +136,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/ece00c6cd0cfbee772799f908b46953d3e276b04.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "82.9"
+      "percent": "83.0"
     },
     "ACH_22": {
       "name": "Nothing Left to Say",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/ee059583f14aabadb5245caf40dbf4792c084442.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.1"
+      "percent": "19.2"
     },
     "ACH_7": {
       "name": "The People's Hero",
@@ -208,7 +208,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1085660/8b7d855eddbd075975cc3967f48d526bfe2a45fb.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "24.4"
+      "percent": "24.5"
     }
   },
   "platform": "Epic",

@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/1f5613c432b8b55aabb8a380130924b1e6cc7ee9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "85.7"
+      "percent": "85.6"
     },
     "ACH_34": {
       "name": "Apex Hyoki Legend",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/91bb98e2a6acb4611d02161af1a35fca69699b01.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "33.9"
+      "percent": "34.0"
     },
     "ACH_05": {
       "name": "Crucifix of Blood",
@@ -109,7 +109,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ab234831c99a74f252b92224a4196a621f77d0f0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.1"
+      "percent": "26.2"
     },
     "ACH_38": {
       "name": "Force Majeure",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/94ed8cdbef0d4c5bd35890b395912e28bccd57f5.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.7"
+      "percent": "26.6"
     },
     "ACH_24": {
       "name": "Full Spec",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/9bcff44b83471525c3093449c656f482121ab493.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "ACH_32": {
       "name": "New Hyoki Legend",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ba67407ba0d06a731589219378234b31d0207703.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "95.2"
+      "percent": "95.1"
     },
     "ACH_26": {
       "name": "Technique Enthusiast",
@@ -271,7 +271,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/d009d9b84ca799274d6e1ced9eaf2c446174ab40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "78.8"
+      "percent": "78.7"
     },
     "ACH_27": {
       "name": "Technique Expert",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/be32d4a76934a698696d5690c9953bb18326cfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.3"
+      "percent": "28.4"
     },
     "ACH_28": {
       "name": "Technique Master",
@@ -370,7 +370,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2631250/ab6f8445d13f78420699de050a338ca25a7c8450.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.5"
+      "percent": "47.4"
     }
   },
   "platform": null,

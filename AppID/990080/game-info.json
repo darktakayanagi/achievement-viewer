@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/3ede5cd4d4e8e217a239bbd4ce0078862730597f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "62.4"
+      "percent": "62.3"
     },
     "PFA_17": {
       "name": "Beast Friends",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/4b0f0166341563f75dad74ae6507f45bd6633df7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "27.9"
+      "percent": "27.8"
     },
     "PFA_24": {
       "name": "Loom for Improvement",
@@ -154,7 +154,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/efd0279b97c404541e0504fdba87cda1ad629534.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.6"
+      "percent": "47.5"
     },
     "PFA_37": {
       "name": "Merlin's Beard!",
@@ -217,7 +217,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/e35fd6673f681e364123fa4abed61758a9dd4b10.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "6.0"
+      "percent": "5.9"
     },
     "PFA_33": {
       "name": "Spilled Milk",
@@ -262,7 +262,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/d3e3b3c319f67d37d492ccda01b127db3ed794fe.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.9"
+      "percent": "37.8"
     },
     "PFA_41": {
       "name": "The Ends Petrify the Means",
@@ -298,7 +298,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/a9e677e3397d09516932619122e659840367faed.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.0"
+      "percent": "31.9"
     },
     "PFA_13": {
       "name": "The Hero of Hogwarts",
@@ -307,7 +307,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/57d9b6ac397bb8dbfce0c970e6c9b6e69538690f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "26.3"
+      "percent": "26.2"
     },
     "PFA_38": {
       "name": "The Intrepid Explorer",
@@ -397,7 +397,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/990080/debb35fb04fb5f7bdfd112ff7f01cef57542f796.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "19.8"
+      "percent": "19.7"
     },
     "PFA_7": {
       "name": "Troll with the Punches",

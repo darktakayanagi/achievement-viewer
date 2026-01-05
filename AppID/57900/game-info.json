@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/57900/2d44826dfdc4c5d9819a33b0dc988b9c5216723a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.8"
+      "percent": "36.7"
     },
     "ACH_WhiteboardDrawing": {
       "name": "Drawrings",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/57900/34c305ec5060a5b2546a92154c031d8649ed3387.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.0"
     },
     "ACH_NormalCompleted": {
       "name": "Let's Rock",
