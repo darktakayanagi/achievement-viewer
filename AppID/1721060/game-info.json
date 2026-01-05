@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/f6b84fc0fff8e9b527e8c794ee4195f7278b9e40.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "72.1"
+      "percent": "72.2"
     },
     "ACH_EnchantArmor": {
       "name": "Apprentice",
@@ -91,7 +91,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/e8df5c09e54b738967896e456dd48fc7990bf2f3.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "91.8"
+      "percent": "91.7"
     },
     "ACH_Defeat_LordAuberon": {
       "name": "Blood Spilled, But Not Wasted",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/ff3b85822612b36071849b526f2ba80351d0022f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "18.6"
+      "percent": "18.5"
     },
     "ACH_Defeat_CourtMagician": {
       "name": "Court Affairs",
@@ -361,7 +361,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/016f539f88a0891e0521c6d10356a60df7d429ae.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "42.6"
+      "percent": "42.7"
     },
     "ACH_Adventurer": {
       "name": "Master Adventurer",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/d5c62f9635b18624916c5ce1f18e61e3a4f21608.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "11.2"
+      "percent": "11.1"
     },
     "ACH_EnchantArmor50": {
       "name": "Master Armorer",
@@ -442,7 +442,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/401b79d453e01b3df239ccbe2e3d6d77f4b9e65b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.7"
     },
     "ACH_LearnAssassin": {
       "name": "Master Nightshade",
@@ -469,7 +469,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/c3f624564c89f1637436d1a07bdd27a58067708b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "21.5"
+      "percent": "21.4"
     },
     "ACH_Tailor": {
       "name": "Master Tailor",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/8facfd7bd161eee185069cf4aadb8f9adb3ea0e8.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "69.8"
+      "percent": "69.9"
     },
     "ACH_NoSecret": {
       "name": "No Secret Anymore",
@@ -532,7 +532,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/26e7bf65265cdb01d62f02660096c994454d3744.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "54.5"
+      "percent": "54.6"
     },
     "ACH_AllDiagram": {
       "name": "No Stone Unturned",
@@ -622,7 +622,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/55f5748a1b82c49da63a563bc324123da2c69f8c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.3"
+      "percent": "79.2"
     },
     "ACH_Defeat_Caretakers": {
       "name": "Taking Care",
@@ -676,7 +676,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/0fb5036eac5005b9271fea6fab030dd6a572fb75.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "47.8"
+      "percent": "47.9"
     },
     "ACH_Lantern": {
       "name": "The Light in the Darkness",
@@ -703,7 +703,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1721060/625dcebadb6029eeed543ee234075856a534791b.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "79.9"
+      "percent": "79.8"
     },
     "ACH_Defeat_EntropicWyrm": {
       "name": "To Right a Wrong",

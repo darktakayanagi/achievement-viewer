@@ -244,7 +244,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/b3556e250250bb6bc6de3119edf3a62ceb5f52c0.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "56.8"
+      "percent": "56.9"
     },
     "HERO_PROGRESSION_2": {
       "name": "He'd Be So Proud of You",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/13e6c3ab66255dc0febc98915425453073a72164.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.4"
+      "percent": "25.5"
     },
     "AC1_HA_DEFEAT_MOST_WANTED": {
       "name": "It's Nice to Be Wanted",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/8ca0ef0ed8c35a11397f4d633495085fa059bdec.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.1"
+      "percent": "24.2"
     },
     "MYSTERY_07": {
       "name": "Seeking Asylum",
@@ -523,7 +523,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/85fdd1aff964214a328068a4153dd71a553a4152.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "33.7"
+      "percent": "33.8"
     },
     "MYSTERY_06": {
       "name": "Voiceless",
@@ -541,7 +541,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1496790/1467ca5b9f49f11938b0fc249645742e17073118.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "40.1"
+      "percent": "40.2"
     },
     "HARLEY_3": {
       "name": "Working Hard or Harley Working?",

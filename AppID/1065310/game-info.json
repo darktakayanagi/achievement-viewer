@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "22.9"
+      "percent": "23.0"
     },
     "ACH_KILL_USING_ECOMBO": {
       "name": "E-Rodeo",
@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "ACH_CANNONBALL_ENEMIES": {
       "name": "Monsterball",
@@ -199,7 +199,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1065310/b33794d5877beb08fbfc00017097392bfaf0d553.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "73.1"
+      "percent": "73.0"
     },
     "ACH_ALL_ACHIEVEMENTS_OBTAINED": {
       "name": "Sanguis Aeternus",

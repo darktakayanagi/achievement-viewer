@@ -10,7 +10,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/a863a944be95f3ac2ba6365d4157daa92c8d1b23.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "29.1"
+      "percent": "29.0"
     },
     "KONTON": {
       "name": "Chaos",
@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/a2d7376b780450d5f9743c90f95ddbe8015e2d19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "12.8"
+      "percent": "12.9"
     },
     "SHIMEI": {
       "name": "Duty",
@@ -28,7 +28,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/53c72131227f54fa6075a94ec689936281d8cfd6.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "36.0"
+      "percent": "35.9"
     },
     "GIKO": {
       "name": "Finesse",
@@ -37,7 +37,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/8505171cdbcca5da533b2f850463c3d6f1412b19.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.2"
+      "percent": "7.3"
     },
     "BOKYO": {
       "name": "Homesick",
@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/64d3ee6664bfb7def0b528e6bb666dac187f644f.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "60.5"
+      "percent": "60.4"
     },
     "HAKUSHIKI": {
       "name": "Knowledgeable",
@@ -100,7 +100,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/c64bc13af52ec63b39c476d5f9e2e1fd75731943.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "28.5"
+      "percent": "28.4"
     },
     "TASSEI": {
       "name": "Mission Accomplished",
@@ -127,7 +127,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/28f65ea0f0dda0ffbec923e60c6df7f9f318e0d4.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "4.6"
+      "percent": "4.7"
     },
     "SOSHIN": {
       "name": "Stupefaction",
@@ -145,7 +145,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/4cb95f82339d4ad9f7647f3f6239cd89a73aeb61.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "TANREN": {
       "name": "Training",
@@ -172,7 +172,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1859430/f785ae0565534752345c8b9f9a637a36f355ec5e.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "7.1"
+      "percent": "7.2"
     }
   },
   "platform": null,

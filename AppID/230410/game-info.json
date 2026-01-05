@@ -19,7 +19,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/fa11850aa54af2e6ff4a23382c47272052e252ad.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "64.9"
+      "percent": "64.8"
     },
     "ACHIEVEMENT_179": {
       "name": "Airborne Exterminator",
@@ -118,7 +118,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/2674bdcd8b2e2db963eb4fedcc2834dbeab161e0.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "26.2"
+      "percent": "26.3"
     },
     "ACHIEVEMENT_8": {
       "name": "Blade Proficiency III",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e5c0719bab4aebb1983f66eb4c156eaa7fce564c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "13.3"
+      "percent": "13.4"
     },
     "ACHIEVEMENT_136": {
       "name": "Dark Sectors",
@@ -595,7 +595,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/f3162b6a8e870104da667af973d99a105ff95a82.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "19.9"
+      "percent": "20.0"
     },
     "ACHIEVEMENT_97": {
       "name": "Healer",
@@ -640,7 +640,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/e165899a6f6d553aa273a0fc3a275320bc61a359.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.6"
+      "percent": "16.7"
     },
     "ACHIEVEMENT_44": {
       "name": "Heavy Weapon Proficiency II",
@@ -847,7 +847,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/06980a7f80a695414e7b210fd7d04635f51e6b95.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "17.1"
+      "percent": "17.2"
     },
     "ACHIEVEMENT_32": {
       "name": "Nestegg",
@@ -1036,7 +1036,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/880862325b89127d5936c9613b5db3eec81f5f7a.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "25.3"
+      "percent": "25.4"
     },
     "ACHIEVEMENT_94": {
       "name": "Pole Weapon Proficiency II",
@@ -1342,7 +1342,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/50257e0e5bf6d56ba3f978a5dbefdb01f6f06401.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "16.8"
+      "percent": "16.9"
     },
     "ACHIEVEMENT_118": {
       "name": "Shotgun Proficiency II",
@@ -1522,7 +1522,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/ab15e5f88b328c4cd1ed788fa51204425a498385.jpg",
       "hidden": false,
       "group": "Update 6",
-      "percent": "8.7"
+      "percent": "8.8"
     },
     "ACHIEVEMENT_127": {
       "name": "Special Agent",
@@ -1558,7 +1558,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/fcf5d57710b7fe3b209b8048e56e847ba52811f3.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "14.5"
+      "percent": "14.6"
     },
     "ACHIEVEMENT_154": {
       "name": "Tenno of all Trades",
@@ -1630,7 +1630,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/3067c2aae284ea36269ab529f03b3ff93d8f8c36.jpg",
       "hidden": false,
       "group": "Update 3",
-      "percent": "10.2"
+      "percent": "10.3"
     },
     "ACHIEVEMENT_157": {
       "name": "The Sword Alone",
@@ -1738,7 +1738,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/230410/aed82d4d5f41857d8d56ca060cebe0f14ef5a11c.jpg",
       "hidden": false,
       "group": "Update 1",
-      "percent": "13.2"
+      "percent": "13.3"
     }
   },
   "platform": null,
