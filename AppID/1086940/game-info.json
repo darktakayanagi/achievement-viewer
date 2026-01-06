@@ -55,7 +55,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44a9e19248d43300515c3575f0c5bd0a9813ee97.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "39.4"
+      "percent": "39.3"
     },
     "BG3_Quest41": {
       "name": "Bottoms Up",
@@ -280,7 +280,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/5a90e4f09835d714c8da82374a450d116b3d272f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "5.9"
+      "percent": "5.8"
     },
     "BG3_Quest51": {
       "name": "Loophole",
@@ -289,7 +289,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/44deee9d0a5a22a45be261cff52fa97b140d33c9.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "24.3"
+      "percent": "24.2"
     },
     "BG3_Quest26": {
       "name": "Mind Blown",
@@ -316,7 +316,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/fc9dba1e459a3b8596ab348856ccd2d7ce1c3ed7.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "32.2"
+      "percent": "32.1"
     },
     "BG3_Quest13": {
       "name": "No Penny Required",
@@ -325,7 +325,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b2c45774e06a96ac4c091aa6525d1f3b389c499c.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "63.4"
+      "percent": "63.3"
     },
     "BG3_Quest34": {
       "name": "Non-Invasive Procedure",
@@ -379,7 +379,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/b1dd3bd0aefbcab6e7c7de016bbed582ca6ec91f.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "45.0"
+      "percent": "44.9"
     },
     "BG3_Quest09": {
       "name": "Roleplayer",
@@ -388,7 +388,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/6b55d2fb4ef8fbf7fe7605b561b95a762ea74ded.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "57.8"
+      "percent": "57.7"
     },
     "BG3_Quest19": {
       "name": "Rude, Crude, and Full of Attitude",
@@ -415,7 +415,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/80d10c6bd718fa0222d5c149ca25511dca67798d.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "48.3"
+      "percent": "48.2"
     },
     "BG3_Quest07": {
       "name": "Sins of the Father",
@@ -451,7 +451,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/9de27a7ba09b51e6e167626e76d66c98a3a7b33a.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "37.2"
+      "percent": "37.1"
     },
     "BG3_Quest02": {
       "name": "The Plot Thickens",
@@ -460,7 +460,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/1086940/4127925c4aeb79134a98de629e7918ceb776b4fb.jpg",
       "hidden": true,
       "group": "Base Game",
-      "percent": "50.8"
+      "percent": "50.7"
     },
     "BG3_Quest48": {
       "name": "To Bloom in Darkest Night",

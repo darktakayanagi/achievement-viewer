@@ -163,7 +163,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/cd09ba1c5f4e6604c3dbb75f935f6ec69430d517.jpg",
       "hidden": false,
       "group": "Base Game",
-      "percent": "10.5"
+      "percent": "10.6"
     },
     "pick_2": {
       "name": "A $2000 Sports Car",
@@ -2935,7 +2935,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/6de05e477c113fe7b8e58eec2e8ab5ab6afb9501.jpg",
       "hidden": false,
       "group": "Update 12",
-      "percent": "7.5"
+      "percent": "7.6"
     },
     "trk_pr_3": {
       "name": "Demolition Crew",
@@ -5761,7 +5761,7 @@
       "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/218620/66b24a08ffbd1b0ced0101a1b4cb0dd277f7ec08.jpg",
       "hidden": false,
       "group": "Update 18",
-      "percent": "5.4"
+      "percent": "5.5"
     },
     "moon_4": {
       "name": "Imitations",
