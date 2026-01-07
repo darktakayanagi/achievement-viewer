@@ -1,5 +1,5 @@
 {
-  "last_updated": 1767661953,
+  "last_updated": 1767748406,
   "total_games": 7,
   "games": [
     {
@@ -34,7 +34,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "93.2"
+            "percent": "93.3"
           },
           "Mission_16": {
             "name": "Artisanship",
@@ -52,7 +52,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "80.7"
+            "percent": "80.8"
           },
           "Boss_03": {
             "name": "Berserk Dragon's General",
@@ -61,7 +61,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "76.4"
+            "percent": "76.5"
           },
           "Mission_03": {
             "name": "Blacksmith's Resolve",
@@ -70,7 +70,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "62.1"
+            "percent": "62.2"
           },
           "Boss_12": {
             "name": "Bloodthirsty Fiend",
@@ -79,7 +79,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "37.4"
+            "percent": "37.5"
           },
           "Mission_14": {
             "name": "Combat Essentials",
@@ -97,7 +97,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "55.2"
+            "percent": "55.3"
           },
           "Sub_10": {
             "name": "Countless Tales",
@@ -124,7 +124,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "42.8"
+            "percent": "42.9"
           },
           "Boss_15": {
             "name": "Faded Memories",
@@ -142,7 +142,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "69.8"
+            "percent": "69.9"
           },
           "Skill_01": {
             "name": "Finishing Strike",
@@ -160,7 +160,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "89.9"
+            "percent": "90.0"
           },
           "Boss_11": {
             "name": "Hermit",
@@ -169,7 +169,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "39.8"
+            "percent": "39.9"
           },
           "Boss_14": {
             "name": "Hismar the Berserk Dragon",
@@ -196,7 +196,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.8"
+            "percent": "42.9"
           },
           "Complete_02": {
             "name": "Jar Enthusiast",
@@ -232,7 +232,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "48.3"
+            "percent": "48.4"
           },
           "Boss_02": {
             "name": "Netherworld's Phantom of Combat",
@@ -241,7 +241,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "84.6"
+            "percent": "84.7"
           },
           "Boss_08": {
             "name": "No Turning Back",
@@ -304,7 +304,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "77.1"
+            "percent": "77.2"
           },
           "Mission_08": {
             "name": "Resourceful Merchant",
@@ -331,7 +331,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "89.8"
+            "percent": "89.9"
           },
           "Mission_02": {
             "name": "Skilled Blacksmith",
@@ -367,7 +367,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "81.3"
+            "percent": "81.4"
           },
           "Mission_15": {
             "name": "Special Scroll",
@@ -394,7 +394,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "95.6"
+            "percent": "95.7"
           },
           "Complete_01": {
             "name": "The Bard's Lamentations",
@@ -430,7 +430,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "15.6"
+            "percent": "15.7"
           },
           "Sub_03": {
             "name": "The Hidden Laboratory",
@@ -1578,7 +1578,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6c79c356cffec6a44beba1709b51ef137e1741fd.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "15.0"
+            "percent": "15.1"
           },
           "20000025": {
             "name": "Arm Race",
@@ -1587,7 +1587,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/bd8ed0148d0d0d2876c1522bf4785679d2aa0eac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.5"
+            "percent": "13.6"
           },
           "10000010": {
             "name": "Assemble!",
@@ -1605,7 +1605,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/0857dc4b9b261e304867dc4317f621e2e76369b7.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "7.5"
+            "percent": "7.6"
           },
           "20000018": {
             "name": "Deadly Bites",
@@ -1632,7 +1632,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/9b820dd2eff4f27dd28a611626a946c5db49a3d9.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.0"
+            "percent": "13.1"
           },
           "20000029": {
             "name": "Family Ties",
@@ -1677,7 +1677,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/935df99944bd4de1f0f79f91ceb693ba3d56b0c0.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "21.0"
+            "percent": "21.1"
           },
           "20000083": {
             "name": "Hand of Heven",
@@ -1686,7 +1686,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/109afe88e86a25266fb1d679fa0143b6ff3b5207.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "2.7"
+            "percent": "2.8"
           },
           "20000022": {
             "name": "Homo Superior",
@@ -1695,7 +1695,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/39b9868011941f76971dbe5213106e41c179a341.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "7.3"
+            "percent": "7.4"
           },
           "20000067": {
             "name": "Hot & Trending",
@@ -1704,7 +1704,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/51ec56e76749f61a8200de95323bf2acad924c37.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "3.5"
+            "percent": "3.6"
           },
           "10000001": {
             "name": "Inevitable！",
@@ -1713,7 +1713,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c2a05a2dfa06116f33ecd8430556b5a954e0fcff.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "18.1"
+            "percent": "18.2"
           },
           "20000008": {
             "name": "Justice for All! ",
@@ -1740,7 +1740,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/62195af7230c123e4b911ec96de73d24b204a777.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "7.9"
+            "percent": "8.1"
           },
           "10000009": {
             "name": "Master of Modes",
@@ -1776,7 +1776,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/f7ceced45f6d9769095edf13e933a4dad5cfea16.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "5.6"
+            "percent": "5.8"
           },
           "20000023": {
             "name": "No More Mutants",
@@ -1866,7 +1866,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6530c235fca3c0bb90c1ce69b13fc9a22a9d3266.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "3.7"
+            "percent": "3.8"
           },
           "20000030": {
             "name": "Snack Attack!",
@@ -1893,7 +1893,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/5d1cddc3fef33bfcc5c210561d50d5f9cf9ffa65.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.4"
+            "percent": "12.5"
           },
           "20000010": {
             "name": "Terror of the Ten Realms",
@@ -1902,7 +1902,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/c4a511b54486978ace67689110752a42fb5ca2b4.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "10.4"
+            "percent": "10.5"
           },
           "10000004": {
             "name": "Thumbs Up",
@@ -1938,7 +1938,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/ad478bc32d7d0695a34aec38ee5f1c5853bb73d6.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "12.5"
+            "percent": "12.6"
           },
           "20000006": {
             "name": "Victory in Bloom",
@@ -1965,7 +1965,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/68bd1ab1f7145a083fca8f36260c20f9a78d5026.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.1"
+            "percent": "13.2"
           },
           "20000007": {
             "name": "West Coast, Best Coast",
@@ -1974,7 +1974,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/d28ce0120ec786946b226e697342f21b1ac8b9ac.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "16.9"
+            "percent": "17.0"
           },
           "20000073": {
             "name": "What Time Is It?",
@@ -1983,7 +1983,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/9b269af75aca47264e6fe1fc926604ab8b9b2ed2.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "5.1"
+            "percent": "5.2"
           },
           "20000081": {
             "name": "Wish Upon a Phoenix",
@@ -1992,7 +1992,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2767030/6185ef5fe6fc1a0057244cad267e1e3a3ebdd5a8.jpg",
             "hidden": false,
             "group": "Update 1",
-            "percent": "4.3"
+            "percent": "4.4"
           },
           "8": {
             "name": "You Do You",
@@ -3127,7 +3127,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "11.9"
+            "percent": "12.0"
           },
           "ACHIEVEMENT_3": {
             "name": "Allies United",
@@ -3172,7 +3172,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "68.6"
+            "percent": "68.7"
           },
           "ACHIEVEMENT_44": {
             "name": "Bookworm",
@@ -3181,7 +3181,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "14.9"
+            "percent": "15.0"
           },
           "ACHIEVEMENT_5": {
             "name": "Calamity Averted",
@@ -3190,7 +3190,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "71.5"
+            "percent": "71.6"
           },
           "ACHIEVEMENT_41": {
             "name": "Chef in Training",
@@ -3199,7 +3199,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "13.5"
+            "percent": "13.6"
           },
           "ACHIEVEMENT_11": {
             "name": "Closing the Book",
@@ -3226,7 +3226,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "34.7"
+            "percent": "34.8"
           },
           "ACHIEVEMENT_6": {
             "name": "Dark Truths",
@@ -3235,7 +3235,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "61.8"
+            "percent": "61.9"
           },
           "ACHIEVEMENT_38": {
             "name": "Debate Me",
@@ -3262,7 +3262,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "51.0"
+            "percent": "51.1"
           },
           "ACHIEVEMENT_35": {
             "name": "Globetrotter",
@@ -3271,7 +3271,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "40.2"
+            "percent": "40.3"
           },
           "ACHIEVEMENT_29": {
             "name": "Hearts as One",
@@ -3352,7 +3352,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "66.7"
+            "percent": "66.8"
           },
           "ACHIEVEMENT_25": {
             "name": "No Mercy",
@@ -3361,7 +3361,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "70.5"
+            "percent": "70.6"
           },
           "ACHIEVEMENT_7": {
             "name": "On Knife's Edge",
@@ -3370,7 +3370,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "54.6"
+            "percent": "54.7"
           },
           "ACHIEVEMENT_4": {
             "name": "Out of the Fire",
@@ -3379,7 +3379,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": true,
             "group": "Base Game",
-            "percent": "81.9"
+            "percent": "82.0"
           },
           "ACHIEVEMENT_28": {
             "name": "Shake on It",
@@ -3388,7 +3388,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "86.9"
+            "percent": "87.0"
           },
           "ACHIEVEMENT_34": {
             "name": "Shrewd Shopper",
@@ -3424,7 +3424,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "56.7"
+            "percent": "56.8"
           },
           "ACHIEVEMENT_20": {
             "name": "Stunning!",
@@ -3460,7 +3460,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "58.9"
+            "percent": "59.0"
           },
           "ACHIEVEMENT_17": {
             "name": "Teamwork Makes the Dream Work",
@@ -3478,7 +3478,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "2.8"
+            "percent": "2.9"
           },
           "ACHIEVEMENT_16": {
             "name": "United Front",
@@ -3487,7 +3487,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "78.3"
+            "percent": "78.4"
           },
           "ACHIEVEMENT_37": {
             "name": "Vista Viewer",
@@ -3496,7 +3496,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "37.4"
+            "percent": "37.5"
           },
           "ACHIEVEMENT_22": {
             "name": "What's Yours is Mine",
@@ -3505,7 +3505,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "57.8"
+            "percent": "57.9"
           },
           "ACHIEVEMENT_36": {
             "name": "Worldly Wisdom",
@@ -3514,7 +3514,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2679460/814657718dd6b5930f52f7cfacc4696fbe2a80cb.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "28.9"
+            "percent": "29.0"
           }
         },
         "platform": null,
