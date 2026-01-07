@@ -1,5 +1,5 @@
 {
-  "last_updated": 1767789954,
+  "last_updated": 1767790433,
   "total_games": 7,
   "games": [
     {
@@ -16,7 +16,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "20.5"
+            "percent": "20.4"
           },
           "Complete_03": {
             "name": "Agent of the Netherworld",
@@ -196,7 +196,7 @@
             "icongray": "https://cdn.steamstatic.com/steamcommunity/public/images/apps/2680010/8767da4f8b9dbedd396df556ca2919b033c2e489.jpg",
             "hidden": false,
             "group": "Base Game",
-            "percent": "42.9"
+            "percent": "42.8"
           },
           "Complete_02": {
             "name": "Jar Enthusiast",
@@ -545,7 +545,7 @@
           "earned_time": 0
         },
         "Boss_05": {
-          "earned": false,
+          "earned": true,
           "earned_time": 0
         },
         "Boss_06": {
