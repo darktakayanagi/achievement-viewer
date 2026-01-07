@@ -25,4 +25,4 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/repos/$REPO/actions/workflows/fetch-game-data.yml/dispatches \
-            -d '{"ref":"main"}'
+            -d '{"ref":"main","inputs":{"original_trigger":"push"}}'
